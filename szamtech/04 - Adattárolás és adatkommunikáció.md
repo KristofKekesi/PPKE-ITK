@@ -24,18 +24,18 @@ Minden címet ugyanannyi idő elérni.
 # Memória-hierarchia
 A gyors memóriák kicsik és drágák, ezért többfélét kell használni.
 ```
-     /\
-    /  \
-   /    \
-  / CPU  \ 
- /        \
-/ Register \
-/ L1 Cache \
-/ L2 Cache \
-/ L3 Cache \
-/ RAM \
-/ HDD, SSD \
-/ Cloud \
+           /\
+          /  \
+         /    \
+        / CPU  \ 
+       /        \
+      / Register \
+     / L1 Cache   \
+    / L2 Cache     \
+   / L3 Cache       \
+  / RAM              \
+ / HDD, SSD           \
+/ Cloud                \
 ```
 
 ## Merevlemez (HDD)
