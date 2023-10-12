@@ -4,36 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "69d9a4a092537c94",
+        "id": "4339e54ae97e2c41",
         "type": "tabs",
-        "dimension": 13.623978201634879,
         "children": [
           {
-            "id": "acdcc6bf78c89e0c",
+            "id": "9fbcbeb5118888a6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "anal1/01 - Valós számok bevezetése.md",
+                "file": "matalap/README.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "172c48ca5806e341",
-        "type": "tabs",
-        "dimension": 86.37602179836512,
-        "children": [
-          {
-            "id": "61cd3b77f84e2151",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "anal1/01.pdf"
               }
             }
           }
@@ -87,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "e2e17cf46bd6e0c5",
@@ -104,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "anal1/01.pdf",
+                "file": "matalap/README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "anal1/01.pdf",
+                "file": "matalap/README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "anal1/01.pdf"
+                "file": "matalap/README.md"
               }
             }
           }
@@ -165,22 +146,40 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "61cd3b77f84e2151",
+  "active": "9fbcbeb5118888a6",
   "lastOpenFiles": [
-    "anal1/01 - Valós számok bevezetése.md",
-    "anal1/01.pdf",
+    "README.md",
+    "ladm1/LinearisAlgebra.pdf",
+    "ladm1/01 Gyakorlat.md",
+    "ladm1/01-02 Gyakorlat.pdf",
     "matalap/README.md",
+    "matalap/Hatványozás.docx",
+    "matalap/Hatványozá.docx",
+    "matalap/Gyakorlo_hatvanyozas 2.docx",
+    "matalap/Exponenciális és logaritmusos feladatok.pdf",
+    "matalap/Egyenletek, egyenlőtlenségek.pdf",
+    "matalap/Gyakorlo_hatvanyozas 1.docx",
+    "matalap/Gyakorlo_hatvanyozas.docx",
+    "matalap/Abszolútértékes és gyökös kifejezések.pdf",
+    "Tags.md",
+    "anal1/01 - Valós számok bevezetése.md",
+    "anal1/02.md",
+    "bevszamtech/01.md",
+    "bevprog/README.md",
     "bevprog/PluszMinusz.md",
-    "matalap",
+    "bevprog/PlanG.md",
+    "bevprog/02.md",
+    "fizalap/Alapok.md",
+    "bevszamtech/04 - Adattárolás és adatkommunikáció.md",
+    "bevszamtech/HalfAdder.jpeg",
+    "bevszamtech/FullAdder.jpeg",
+    "bevszamtech/02.md",
+    "bevszamtech/03.md",
     "szamtech/04 - Adattárolás és adatkommunikáció.md",
     "szamtech/FullAdder.jpeg",
     "bevprog/PlangKodok/01.md",
     "bevprog/PlangKodok/Untitled.md",
-    "bevprog/C++Kodok",
-    "bevprog/PlangKodok",
     "Tanárok.md",
-    "README.md",
-    "Tags.md",
     "szamtech/03.md",
     "szamtech/02.md",
     "szamtech/01.md"
