@@ -6,9 +6,9 @@ tags:
   - TODO
 ---
 A plusz mínusz egy kis ZH aminek a feladata az előző heti előadás __elméletének__ a számonkérése.
-## Osztályzása
+# Osztályzása
 Az osztályozásnál kétféle pontot kaphatsz. Jó válasz esetén +1, rossz válasz esetén pedig -1. Az aláírást a tantárgyra akkor kapod meg, ha a legutolsó plusz mínusz után az összesített pontszámod nem lesz negatív (0 vagy több).
 
 # Kérdések
-## 1. PluszMinusz
-## 2. PluszMinusz
+### 1. PluszMinusz
+### 2. PluszMinusz

@@ -4,6 +4,11 @@ A repo még jelentősen kezdetleges fázisban van. Ha bármilyen problémát tal
 Kékesi Kristóf vagyok, 2023 szeptemberében kezdtem meg a felsőbb oktatási tanulmányaimat a Pázmány Péter Katolikus Egyetem Információs Technológiai és Bionikai karán.
 Ez a repo a jegyzeteimet (illetve felsőbb évesektől örökölt anyagokat) tartalmazza. Fontos, hogy a repot ajánlom, hogy Obsidian-nal nézd meg, hogy minden funkcióját ki tudd használni.
 
+# Hasznos információk
+#TODO 
+- hasznos oldalak, a mindent tudó itks help site (TO)
+- [[Tanárok|Tanárok és elérhetőségeik]]
+
 # Utalások, csatolások
 A jegyzetekben utalások vannak más könyvekre, ezek:
 - Emelt Szintű Érettségi Kidolgozott Szóbeli Tételek Matematika 2023 (Corvina kiadó) ISBN 978 963 13 6896 3, mint Érettségi Tételek

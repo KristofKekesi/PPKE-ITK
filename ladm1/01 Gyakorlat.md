@@ -1,1 +1,10 @@
 # Gauss Elimináció
+- ==Két vektor független, ha nem párhuzamosak==
+- Két vektor összefüggő, ha párhuzamosak
+- ==Az egyenlet homogén, ha a megoldásvektora az origó==
+- Az egyenletrendszer inhomogén, ha a megoldásvektora nem az origó
+- ==Homogén egyenletrendszernek a 0 mindig megoldása==
+- Rang: vezérelemek száma
+- Szabadságfog: vezérelem nélküli sorok száma
+- ==Oszlopot nem cserélünk fel==
+- Sorokat felcserélhetünk
