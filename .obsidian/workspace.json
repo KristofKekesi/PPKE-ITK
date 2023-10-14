@@ -4,47 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "45436e83d4545729",
+        "id": "9826094f168f5376",
         "type": "tabs",
         "children": [
           {
-            "id": "1c5cab53218dc0e9",
+            "id": "b4e132d1dd55ef54",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "anal1/README.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e10fc6d84a35191d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Órák.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "74c59344ab42b75d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ladm1/01 Gyakorlat.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ladm1/01 Gyakorlat.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ladm1/01 Gyakorlat.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ladm1/01 Gyakorlat.md"
+                "file": "README.md"
               }
             }
           }
@@ -206,28 +181,29 @@
       }
     ]
   },
-  "active": "74c59344ab42b75d",
+  "active": "b4e132d1dd55ef54",
   "lastOpenFiles": [
-    "ladm1/Feladatgyujtemeny.pdf",
+    "Targyak.md",
+    "README.md",
+    "Tanárok.md",
     "ladm1/README.md",
-    "ladm1/Tankonyv.pdf",
-    "fizalap/02 Hazi.pdf",
-    "Órák.md",
     "anal1/README.md",
+    "ladm1/LA Tankonyv.pdf",
+    "ladm1/DM Tankonyv.pdf",
+    "dm1.md",
+    "dm1",
+    "ladm1/01 Gyakorlat.md",
+    "ladm1/Feladatgyujtemeny.pdf",
+    "fizalap/02 Hazi.pdf",
     "fizalap/Alapok.md",
     "fizalap/03 Hazi.pdf",
     "anal1/02.pdf",
     "anal1/03.pdf",
     "ladm1/03 Gyakorlat.pdf",
     "ladm1/01-02 Gyakorlat.pdf",
-    "ladm1/01 Gyakorlat.md",
-    "matalap/Abszolútértékes és gyökös kifejezések.pdf",
     "Tags.md",
-    "bevszamtech/nagy ZH összefoglaló 2016.pdf",
     "bevszamtech/02.md",
     "bevszamtech/01.md",
-    "README.md",
-    "Tanárok.md",
     "anal1/01 - Valós számok bevezetése.md",
     "bevprog/PluszMinusz.md",
     "bevprog/PlanG.md",
@@ -244,7 +220,6 @@
     "bevszamtech/03.md",
     "szamtech/04 - Adattárolás és adatkommunikáció.md",
     "szamtech/FullAdder.jpeg",
-    "bevprog/PlangKodok/01.md",
-    "bevprog/PlangKodok/Untitled.md"
+    "bevprog/PlangKodok/01.md"
   ]
 }
