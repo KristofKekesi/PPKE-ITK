@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "bevprog1/ZH Gyakorlások.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "e2e17cf46bd6e0c5",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "bevprog1/ZH Gyakorlások.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "bevprog1/ZH Gyakorlások.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "bevprog1/ZH Gyakorlások.md"
               }
             }
           }
@@ -146,45 +147,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "floating": {
-    "id": "add1a01279e3dcb1",
-    "type": "floating",
-    "children": [
-      {
-        "id": "97650f7b16919a20",
-        "type": "window",
-        "children": [
-          {
-            "id": "2c7360a5197e28dc",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "0717c2d20a7d21ee",
-                "type": "leaf",
-                "state": {
-                  "type": "pdf",
-                  "state": {
-                    "file": "fizalap/02 Hazi.pdf"
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 786,
-        "y": -1080,
-        "width": 1168,
-        "height": 905,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "b4e132d1dd55ef54",
+  "active": "bad6bc3e7347c43d",
   "lastOpenFiles": [
-    "Targyak.md",
+    "fizalap/03 Hazi.pdf",
+    "bevprog1/ZH Gyakorlások.md",
+    "fizalap/02 Hazi.pdf",
+    "bevprog1/05.pdf",
+    "bevprog1/05 - Tömbök, számábrázolás.md",
     "README.md",
+    "Targyak.md",
     "Tanárok.md",
     "ladm1/README.md",
     "anal1/README.md",
@@ -194,32 +165,27 @@
     "dm1",
     "ladm1/01 Gyakorlat.md",
     "ladm1/Feladatgyujtemeny.pdf",
-    "fizalap/02 Hazi.pdf",
     "fizalap/Alapok.md",
-    "fizalap/03 Hazi.pdf",
     "anal1/02.pdf",
     "anal1/03.pdf",
     "ladm1/03 Gyakorlat.pdf",
-    "ladm1/01-02 Gyakorlat.pdf",
     "Tags.md",
     "bevszamtech/02.md",
     "bevszamtech/01.md",
     "anal1/01 - Valós számok bevezetése.md",
-    "bevprog/PluszMinusz.md",
-    "bevprog/PlanG.md",
-    "bevprog/05 - Tömbök, számábrázolás.md",
-    "bevprog/04 - Sorozatok, fájlok.md",
-    "bevprog/03 - Algoritmusok, tételek.md",
-    "bevprog/02 - Elágazás, Ciklus.md",
+    "bevprog1/PluszMinusz.md",
+    "bevprog1/PlanG.md",
+    "bevprog1/04 - Sorozatok, fájlok.md",
+    "bevprog1/03 - Algoritmusok, tételek.md",
+    "bevprog1/02 - Elágazás, Ciklus.md",
     "anal1/02.md",
     "matalap/README.md",
-    "bevprog/README.md",
+    "bevprog1/README.md",
     "bevszamtech/04 - Adattárolás és adatkommunikáció.md",
     "bevszamtech/HalfAdder.jpeg",
     "bevszamtech/FullAdder.jpeg",
     "bevszamtech/03.md",
     "szamtech/04 - Adattárolás és adatkommunikáció.md",
-    "szamtech/FullAdder.jpeg",
-    "bevprog/PlangKodok/01.md"
+    "szamtech/FullAdder.jpeg"
   ]
 }
