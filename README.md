@@ -15,3 +15,4 @@ A jegyzetekben utalások vannak más könyvekre, ezek:
 - Matematikai, fizikai, kémia összefüggések Négyjegyű függvénytáblázatok (Oktatási Hivatal) ISBN 978 963 19 6982 5, mint Függvénytábla
 - Lineáris Algebra tankönyv, [Miski Marcell](https://www.matekmarcival.hu)
 - Diszkrét Matematika tankönyv, [Miski Marcell](https://www.matekmarcival.hu)
+- Vágó Zsuzsanna Matematikai Analízis 1, mint Analízis 1. Jegyzet

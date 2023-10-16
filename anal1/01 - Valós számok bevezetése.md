@@ -27,24 +27,25 @@ akkor a fenti A<sub>n</sub> tulajdonság teljesül minden n-re.
 # Axiómák
 - Alaptulajdonságok
 
+## Kvantorok
 Jelölésük:
 - ∀: minden
 - ∃: létezik
 - ∃!: egyértelműen létezik
-
+## Asszociativitás
+Jelentése: csoportosíthatóság.
+Például: `(x + y) + z = x + (y + z)`.
+- összeadás
+- szorzás
+## Kommutativitás
+Jelentése:  felcserélhetőség.
+Például: `x + y = y + x`.
+- összeadás
+- szorzás
+## Disztributivitás
+Jelentése: műveletek összekapcsolódása.
+Például: `(a + b) * c = (a * c) + (b * c)`.
 ## Műveleti alaptulajdonságok
-### Asszociativitás
-Jelentése: csoportosíthatóság. Például: `(x + y) + z = x + (y + z)`.
-- összeadás
-- szorzás
-### Kommutativitás
-Jelentése: felcserélhetőség. Például: `x + y = y + x`.
-- összeadás
-- szorzás
-### Disztributivitás
-#TODO 
-
-
 1. Az összeadás [[01 - Valós számok bevezetése#Asszociativitás|asszociatív]]
 2. `x + 0 = x; ∀x ∈ R`
 3. `∀x ∈ R` van `∃u ∈ R` tartozik `x+u=0`. Ez az `x` szám ellentettje.
@@ -62,7 +63,7 @@ Jelentése: felcserélhetőség. Például: `x + y = y + x`.
 14. Ha `x ≤ y` és `0 ≤ z` ⇒ `x * z ≤ y * z`
 15. Arcimedeszi axióma: Nincs nagyobb elem
 
-## Cantor-féle axióma
+## ==Def:== Cantor-féle axióma
 16. Ha zárt intervallumok egy sorozata:
 	I<sub>1</sub>=\[a<sub>1</sub>, b<sub>1</sub>\], I<sub>2</sub>=\[a<sub>2</sub>, b<sub>2</sub>\], ...
 	melyek I<sub>1</sub> ⊇ I<sub>2</sub> ⊇ ...
@@ -84,16 +85,39 @@ $$\sum_{k=4}^{33} 3k$$
 $$\sum_{k=101}^{199}\frac{1}{k}$$
 # Produktum
 Röviden a summa működése összeadás helyett szorzással.
-
+$$\prod_{futóindex}^{meddig} tag$$
 # Korlátosság
 Legyen `H⊂R` - H halmaz a valós számoknak részhalmaza
-### Alulról korlátos,
-ha `∃K ∈ R`(ez lesz az alsó korlát), amire `x ≤ K ∀x ∈ H`.
-### Felülről korlátos
-#TODO 
+## Alulról korlátos,
+ha `∃k ∈ R`(ez lesz az alsó korlát), amire `k ≤ x ∀x ∈ H`.
+## Felülről korlátos
+ha `∃K ∈ R`(ez lesz a felső korlát), amire `K ≥ x ∀x ∈ H`.
 ## Korlátos,
 ha a halmaz alulról és felülről is korlátos.
-### Supremum
+## ==Def:== Supremum
+A halmaz legkisebb felső korlátja.
+Jele: `sup(H)`.
+- Ha a H halmaznak az elemei közül van legnagyobb, akkor az a supremuma.
+	`sup(H) = max(h)`
+## ==Def:== Infimum
+A halmaz legnagyobb alsó korlátja.
+Jele: `inf(H)`.
+- Ha a H halmaznak az elemei közül van legkisebb, akkor az az infimuma.
+	`sup(H) = min(h)`
+## ==Def:== Ekvivalens
 #TODO 
-## Infimum
-#TODO 
+# Környezet
+Egy x<sub>0</sub> valós szám __Környezetei__ az $[x_0- ε; x_0 + ε]$ nyílt intervallumok, ahol $\epsilon > 0$ tetszőleges valós szám.
+## Belső pont
+Az $x_0 ∈ R$ pont a H halmaz belső pontja, ha $∃\epsilon > 0$. Amin $(x_0 − \epsilon, x_0 + \epsilon) ⊆ H$.
+Jele: `int(H)` (az angol interior szóból).
+## Külső pont
+Az $x_0 ∈ R$ pont a H halmaz belső pontja, ha $∃\epsilon > 0$. Amin $(x_0 − \epsilon, x_0 + \epsilon) \cap H= \emptyset$.
+Jele: `ext(H)` (az angol exterior szóból).
+## Határpont
+Az $x_0 ∈ R$ pont a H halmaz határpontja, ha $∃\epsilon > 0$. Ha a környezet tartalmaz H-n belüli (Belső pont) és H-n (Külső pont) kívüli pontokat is.
+Jele: `∂(H)`
+
+- A halmaz nyílt, ha minden pontja belső pont
+- A halmaz zárt ha $∂H ⊆ H$
+- A H halmaz lezárása $\overline{H} = H ∪ ∂H$

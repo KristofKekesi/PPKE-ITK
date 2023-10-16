@@ -1,0 +1,1 @@
+Divergens: Ha nem konvergens
