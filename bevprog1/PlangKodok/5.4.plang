@@ -1,0 +1,26 @@
+PROGRAM p
+VÁLTOZÓK:
+	tomb: EGÉSZ[3],
+	i, j: EGÉSZ
+
+i := 0
+CIKLUS AMÍG i < |tomb|
+	tomb[i] := RND 10
+	i := i + 1
+CIKLUS_VÉGE
+
+i := 0
+CIKLUS AMÍG i < |tomb|
+	j := 0
+	CIKLUS AMÍG j < |tomb|
+		HA NEM (i = j) ÉS tomb[i] = tomb[j] AKKOR
+			KI: "van, a ", i +1, ". és a ", j+1, ". elem"
+			j := |tomb|
+			i := |tomb|
+		HA_VÉGE
+		j := j + 1
+	CIKLUS_VÉGE
+	i := i + 1
+CIKLUS_VÉGE
+
+PROGRAM_VÉGE

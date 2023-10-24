@@ -1,0 +1,21 @@
+PROGRAM p
+VÁLTOZÓK:
+	tomb: EGÉSZ[3],
+	i, j, a: EGÉSZ
+
+i := 0
+CIKLUS AMÍG i < |tomb|
+	tomb[i] := RND 10
+	i := i + 1
+CIKLUS_VÉGE
+
+i := 0
+CIKLUS AMÍG i < |tomb|
+	j := RND |tomb|
+	a := tomb[i]
+	tomb[i] := tomb[j]
+	tomb[j] := tomb[i]
+	i := i + 1
+CIKLUS_VÉGE
+
+PROGRAM_VÉGE

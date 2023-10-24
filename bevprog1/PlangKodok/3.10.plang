@@ -1,0 +1,36 @@
+PROGRAM p
+VÁLTOZÓK:
+	szamok: VALÓS[32],
+	n, a, atlag, osszeg: VALÓS,
+	i, szamlalo: EGÉSZ
+
+BE: n
+i := 0
+
+CIKLUS AMÍG i < n
+	BE: a
+	szamok[i] := a
+	i := i + 1
+CIKLUS_VÉGE
+
+i := 0
+osszeg := 0
+CIKLUS AMÍG i < n
+	osszeg := osszeg + szamok[i]
+	i := i + 1
+CIKLUS_VÉGE
+
+atlag:= osszeg / n
+
+i := 0
+szamlalo := 0
+CIKLUS AMÍG i < n
+	HA szamok[i] < atlag AKKOR
+		szamlalo := szamlalo + 1
+	HA_VÉGE
+	i := i + 1
+CIKLUS_VÉGE
+
+KI: szamlalo
+
+PROGRAM_VÉGE

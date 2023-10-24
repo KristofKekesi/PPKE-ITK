@@ -1,3 +1,8 @@
+---
+Óra neve: Matematikai Analízis 1.
+Előadó: Dr. Vágó Zsuzsanna Márta
+Dátum: 2023 Okt. 09.
+---
 # Számhalmazok
 ## N: természetes számok halmaza
 - jele: N (natural szóból ered)
@@ -63,7 +68,7 @@ Például: `(a + b) * c = (a * c) + (b * c)`.
 14. Ha `x ≤ y` és `0 ≤ z` ⇒ `x * z ≤ y * z`
 15. Arcimedeszi axióma: Nincs nagyobb elem
 
-## ==Def:== Cantor-féle axióma
+## Cantor-féle axióma
 16. Ha zárt intervallumok egy sorozata:
 	I<sub>1</sub>=\[a<sub>1</sub>, b<sub>1</sub>\], I<sub>2</sub>=\[a<sub>2</sub>, b<sub>2</sub>\], ...
 	melyek I<sub>1</sub> ⊇ I<sub>2</sub> ⊇ ...
@@ -94,20 +99,21 @@ ha `∃k ∈ R`(ez lesz az alsó korlát), amire `k ≤ x ∀x ∈ H`.
 ha `∃K ∈ R`(ez lesz a felső korlát), amire `K ≥ x ∀x ∈ H`.
 ## Korlátos,
 ha a halmaz alulról és felülről is korlátos.
-## ==Def:== Supremum
+## Supremum
 A halmaz legkisebb felső korlátja.
 Jele: `sup(H)`.
 - Ha a H halmaznak az elemei közül van legnagyobb, akkor az a supremuma.
 	`sup(H) = max(h)`
-## ==Def:== Infimum
+## Infimum
 A halmaz legnagyobb alsó korlátja.
 Jele: `inf(H)`.
 - Ha a H halmaznak az elemei közül van legkisebb, akkor az az infimuma.
 	`sup(H) = min(h)`
-## ==Def:== Ekvivalens
+## Ekvivalens
+Azonos.
 #TODO 
 # Környezet
-Egy x<sub>0</sub> valós szám __Környezetei__ az $[x_0- ε; x_0 + ε]$ nyílt intervallumok, ahol $\epsilon > 0$ tetszőleges valós szám.
+Egy x<sub>0</sub> valós szám __Környezetei__ az $(x_0- ε; x_0 + ε)$ nyílt intervallumok, ahol $\epsilon > 0$ tetszőleges valós szám.
 ## Belső pont
 Az $x_0 ∈ R$ pont a H halmaz belső pontja, ha $∃\epsilon > 0$. Amin $(x_0 − \epsilon, x_0 + \epsilon) ⊆ H$.
 Jele: `int(H)` (az angol interior szóból).

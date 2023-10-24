@@ -1,3 +1,8 @@
+---
+Óra neve: Matematikai Analízis 1.
+Előadó: Dr. Vágó Zsuzsanna Márta
+Dátum: 2023 Okt. 09.
+---
 # Háromszög egyenlőtlenség
 Tetszőleges a, b valós számokra:
 $$|a + b| \leq |a| + |b|$$

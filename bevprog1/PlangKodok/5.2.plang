@@ -1,0 +1,17 @@
+PROGRAM p
+VÁLTOZÓK:
+	tomb: VALÓS[3],
+	osszeg: VALÓS,
+	i: EGÉSZ
+
+i := 0
+osszeg := 0
+CIKLUS AMÍG i < |tomb|
+	tomb[i] := RND 10
+	osszeg := osszeg + tomb[i]
+	i := i + 1
+CIKLUS_VÉGE
+
+KI: osszeg / i
+
+PROGRAM_VÉGE

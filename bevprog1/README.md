@@ -1,15 +1,12 @@
 ---
-Előadó: Dr. Feldhoffer Gergely
 Óra neve: Bevezetés a programozásba I.
-Year: 2023 Szept. - Dec.
+Előadó: Dr. Feldhoffer Gergely
+Szemeszter: 2023 Szept. - Dec.
 Kód: P-ITSZT-0036
-tags:
-  - TODO
 ---
 # Tudnivalók
 - Online házi leadás és házi ellenőrző rendszer
 - ==Gyakorlatokon van katalógus==, de előadásokon nincs
-
 # Előadások
 Az előadások 45 percig tartanak, az anyagot prezentációval adják le:
 1. [[bevprog1/01.pdf|Bevezetés]]
@@ -23,7 +20,6 @@ Az előadások 45 percig tartanak, az anyagot prezentációval adják le:
 9. [[bevprog1/09.pdf|Rekordok 1]]
 10. [[bevprog1/10.pdf|Rekordok 2]]
 11. [[bevprog1/11.pdf|Esettanulmány]]
-
 # Gyakorlat
 - A gyakorlatok 2 óra 45 percig tartanak
 - Óra előtt egy [[PluszMinusz]] nevezetű kis ZH-t írunk

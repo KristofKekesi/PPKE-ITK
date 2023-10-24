@@ -5,14 +5,14 @@ Kékesi Kristóf vagyok, 2023 szeptemberében kezdtem meg a felsőbb oktatási t
 Ez a repo a jegyzeteimet (illetve felsőbb évesektől örökölt anyagokat) tartalmazza. Fontos, hogy a repot ajánlom, hogy Obsidian-nal nézd meg, hogy minden funkcióját ki tudd használni.
 
 # Hasznos információk
-- [[Targyak|Tárgyak]]
+- [[Tárgyak|Tárgyak]]
 - https://itk.ppke.hu/telefonkonyv
 - https://info.itk.ppke.hu
 
 # Utalások, csatolások
-A jegyzetekben utalások vannak más könyvekre, ezek:
+A jegyzetekben utalások vannak könyvekre, ezek:
 - Emelt Szintű Érettségi Kidolgozott Szóbeli Tételek Matematika 2023 (Corvina kiadó) ISBN 978 963 13 6896 3, mint Érettségi Tételek
 - Matematikai, fizikai, kémia összefüggések Négyjegyű függvénytáblázatok (Oktatási Hivatal) ISBN 978 963 19 6982 5, mint Függvénytábla
 - Lineáris Algebra tankönyv, [Miski Marcell](https://www.matekmarcival.hu)
 - Diszkrét Matematika tankönyv, [Miski Marcell](https://www.matekmarcival.hu)
-- Vágó Zsuzsanna Matematikai Analízis 1, mint Analízis 1. Jegyzet
+- [[Analízis 1. (2023).pdf|Vágó Zsuzsanna Matematikai Analízis 1 (2023)]], mint Analízis 1. Jegyzet

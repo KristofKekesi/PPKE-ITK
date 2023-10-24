@@ -1,0 +1,25 @@
+PROGRAM p
+VÁLTOZÓK:
+	bf: BEFÁJL,
+	a, b, min: EGÉSZ
+
+min := 0
+MEGNYIT bf: "a"
+BE bf: a, b
+CIKLUS AMÍG NEM VÉGE bf
+	HA min = 0 AKKOR
+		min := b - a
+	KÜLÖNBEN
+		HA b - a < min AKKOR
+			min := b - a
+		HA_VÉGE
+	HA_VÉGE
+	
+	a := b
+	BE bf: b
+CIKLUS_VÉGE
+LEZÁR bf
+
+KI: min
+
+PROGRAM_VÉGE
