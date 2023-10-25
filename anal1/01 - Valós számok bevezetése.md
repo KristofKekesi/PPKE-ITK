@@ -1,5 +1,5 @@
 ---
-Óra neve: Matematikai Analízis 1.
+Óra neve: Matematikai analízis 1.
 Előadó: Dr. Vágó Zsuzsanna Márta
 Dátum: 2023 Okt. 09.
 ---

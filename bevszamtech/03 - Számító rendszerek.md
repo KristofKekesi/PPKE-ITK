@@ -1,3 +1,8 @@
+---
+Óra neve: Bevezetés a számítástechnikába
+Előadó: Naszlady Márton Bese
+Dátum:
+---
 # Tizedes számok
 - ==Radix pont==: A tizedesvessző helyzete
 Képlet rá: a^1\*x1 + a^0\*x2+a^-1\*x-1+a^-2\*x-2

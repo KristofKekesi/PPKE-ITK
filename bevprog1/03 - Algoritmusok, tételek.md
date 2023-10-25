@@ -1,3 +1,8 @@
+---
+Óra neve: Bevezetés a programozásba I.
+Előadó: Dr. Feldhoffer Gergely
+Dátum:
+---
 # Algoritmus
 Az algoritmus egy megengedett lépésekből álló módszer, utasítássorozat, részletes útmutatás, recept, amely alkalmas arra, hogy valamilyen felmerülő problémára megoldást adjon.
 

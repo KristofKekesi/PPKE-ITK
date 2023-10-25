@@ -1,3 +1,8 @@
+---
+Óra neve: Bevezetés a számítástechnikába
+Előadó: Naszlady Márton Bese
+Dátum:
+---
 ## Neumann-elv (5 pont)
 - Teljesen elektronikus
 - Kettes számrendszer

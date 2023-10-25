@@ -1,29 +1,29 @@
 ---
 Óra neve: Matematikai analízis 1.
-Előadó: Dr. Vágó Zsuzsanna Márta
 Szemeszter: 2023 Szept. - Dec.
+Előadó: Dr. Vágó Zsuzsanna Márta
 Gyakorlatvezető: Várdainé Kollár Judit
 ---
 # Előadások
-1. [[anal1/01.pdf|Valós számok bevezetése]]
-2. [[anal1/02.pdf|Számsorozatok 1.]]
-3. [[anal1/03.pdf|Számsorozatok 2.]]
-4. [[anal1/04.pdf|Számsorozatok 3.]]
-5. [[anal1/05.pdf|Számsorozatok 4.]]
-6. [[anal1/06.pdf|Számsorok 1.]]
-7. [[anal1/07.pdf|Számsorok 2.]]
-8. [[anal1/08.pdf|Függvények 1.]]
-9. [[anal1/09.pdf|Függvények 2.]]
-10. [[anal1/10.pdf|Függvények 3.]]
+1. [[anal1/eloadasok/01.pdf|Valós számok bevezetése]]
+2. [[anal1/eloadasok/02.pdf|Számsorozatok 1.]]
+3. [[anal1/eloadasok/03.pdf|Számsorozatok 2.]]
+4. [[anal1/eloadasok/04.pdf|Számsorozatok 3.]]
+5. [[anal1/eloadasok/05.pdf|Számsorozatok 4.]]
+6. [[anal1/eloadasok/06.pdf|Számsorok 1.]]
+7. [[anal1/eloadasok/07.pdf|Számsorok 2.]]
+8. [[anal1/eloadasok/08.pdf|Függvények 1.]]
+9. [[anal1/eloadasok/09.pdf|Függvények 2.]]
+10. [[anal1/eloadasok/10.pdf|Függvények 3.]]
 # Jegyzeteim
-- [[01 - Valós számok bevezetése]]
-- [[02 - Számsorozatok 1.]]
-- [[03 - Számsorozatok 2.]]
+1. [[01 - Valós számok bevezetése|Valós számok bevezetése]]
+2. [[02 - Számsorozatok 1.|Számsorozatok 1.]]
+3. [[03 - Számsorozatok 2.|Számsorozatok 2.]]
 # Házi feladatok
-Minden héten fel vannak adva házi feladatok, mindkét gyakorlati alkalommal egy feladatsor. Minden feladatsorból eldönthetően egy-egy feladatot kell megoldani pluszpontért. A beadás opcionális.
+Minden héten fel vannak adva [[anal1/hf/INDEX|házi feladatok]], mindkét gyakorlati alkalommal egy feladatsor. Minden feladatsorból tetszés szerűen egy-egy feladatot kell megoldani pluszpontért. A beadás opcionális.
+Megesik néha, hogy kötelező házi feladatot ad fel [[Tárgyak#Várdainé Kollár Judit|Várdainé]], ilyenkor a házi feladat leadásával együtt lesz meg a katalógus az adott gyakorlaton.
 # KisZH-k
 A tantárgyból minden héten kisZH-t írunk gyakorlaton, az előző két előadás anyagából. ==Nem a második előadástól kezdődnek a kisZH-k, már az első után is lehet írni ha úgy jön ki.==
-## Kérdések
 ### 1. kisZH
 - Mi a [[01 - Valós számok bevezetése#Supremum|supremum]]?
 - Mi az [[01 - Valós számok bevezetése#Infimum|infimum]]?

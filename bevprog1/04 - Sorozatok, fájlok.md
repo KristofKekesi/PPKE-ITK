@@ -1,3 +1,8 @@
+---
+Óra neve: Bevezetés a programozásba I.
+Előadó: Dr. Feldhoffer Gergely
+Dátum:
+---
 # Sorozatok
 Több hasonló adat érkezik a program számára.
 ### Jellemző műveletek:

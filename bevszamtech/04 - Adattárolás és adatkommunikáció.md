@@ -1,3 +1,8 @@
+---
+Óra neve: Bevezetés a számítástechnikába
+Előadó: Naszlady Márton Bese
+Dátum:
+---
 # Adattárolás
 ### Volatilis (Volatile)
 Folyamatos energia kell a tároláshoz. Ha nincs áram sérül az adat.

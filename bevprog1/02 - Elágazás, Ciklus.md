@@ -1,3 +1,8 @@
+---
+Óra neve: Bevezetés a programozásba I.
+Előadó: Dr. Feldhoffer Gergely
+Dátum:
+---
 ## Plang szintaktika:
 - PROGRAM
 - PROGRAM_VÉGE

@@ -1,3 +1,8 @@
+---
+Óra neve: Bevezetés a számítástechnikába
+Előadó: Naszlady Márton Bese
+Dátum:
+---
 ## Számrendszer átírása 10-es számrendszerre
 ## Tízes számrendszer átírása más számrendszerre
 #### Pl: 15 tízes számrendszerben átírása kettes számrendszerbe.
