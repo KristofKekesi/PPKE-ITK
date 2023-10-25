@@ -108,7 +108,7 @@ Jele: `sup(H)`.
 A halmaz legnagyobb alsó korlátja.
 Jele: `inf(H)`.
 - Ha a H halmaznak az elemei közül van legkisebb, akkor az az infimuma.
-	`sup(H) = min(h)`
+	`inf(H) = min(h)`
 ## Ekvivalens
 Azonos.
 #TODO 
