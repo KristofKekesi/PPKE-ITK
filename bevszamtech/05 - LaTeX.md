@@ -34,3 +34,4 @@ Az Obszidián-ban is működik a `$$<kifejezés>$$`.
 - kihagyás: `\quad` $a \quad b$
 - végtelen: `\infty` $\infty$
 - hasonlóság: `\sim` $\sim$
+- szorzás jel: `\cdot` $\cdot$

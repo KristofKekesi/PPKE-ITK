@@ -5,9 +5,9 @@ Dátum:
 ---
 # Tizedes számok
 - ==Radix pont==: A tizedesvessző helyzete
-Képlet rá: a^1\*x1 + a^0\*x2+a^-1\*x-1+a^-2\*x-2
-	Pl: 10,5 vagy 10,01\[2]
-
+Képlet rá: 
+$$a^1\cdot x_1 + a^0\cdot x_2+a^{-1}\cdot x_{-1}+a^{-2}\cdot x_{-2}$$
+Pl: $10,5$ vagy $10,01_{[2]}$
 # Tört szám binárisban reprezentálva
 - Fix pontos (leírásban megadva hány rész egész és hány törtrész bit van)
 - Lebegő pontos
