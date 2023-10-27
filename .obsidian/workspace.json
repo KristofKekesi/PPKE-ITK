@@ -4,22 +4,47 @@
     "type": "split",
     "children": [
       {
-        "id": "9826094f168f5376",
+        "id": "71df27d7a603e571",
         "type": "tabs",
         "children": [
           {
-            "id": "b4e132d1dd55ef54",
+            "id": "a27458b3da18d18e",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "graph",
+              "state": {},
+              "pinned": true
+            }
+          },
+          {
+            "id": "32cc6d7dc3b7c550",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "fizalap/Alapok.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "7dcfce3140aaed8b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "bevprog1/ZH Gyakorlások.md",
+                "file": "kozgaz/Gyakorlóteszt kérdések.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -48,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:TODO",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,8 +94,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "e2e17cf46bd6e0c5",
@@ -86,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "bevprog1/ZH Gyakorlások.md",
+                "file": "kozgaz/Gyakorlóteszt kérdések.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "bevprog1/ZH Gyakorlások.md",
+                "file": "kozgaz/Gyakorlóteszt kérdések.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "bevprog1/ZH Gyakorlások.md"
+                "file": "kozgaz/Gyakorlóteszt kérdések.md"
               }
             }
           }
@@ -147,45 +171,46 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bad6bc3e7347c43d",
+  "active": "7dcfce3140aaed8b",
   "lastOpenFiles": [
-    "fizalap/03 Hazi.pdf",
+    "fizalap/Alapok.md",
+    "bevprog1/04 - Sorozatok, fájlok.md",
     "bevprog1/ZH Gyakorlások.md",
-    "fizalap/02 Hazi.pdf",
-    "bevprog1/05.pdf",
-    "bevprog1/05 - Tömbök, számábrázolás.md",
-    "README.md",
-    "Targyak.md",
-    "Tanárok.md",
     "ladm1/README.md",
     "anal1/README.md",
-    "ladm1/LA Tankonyv.pdf",
-    "ladm1/DM Tankonyv.pdf",
-    "dm1.md",
-    "dm1",
-    "ladm1/01 Gyakorlat.md",
-    "ladm1/Feladatgyujtemeny.pdf",
-    "fizalap/Alapok.md",
-    "anal1/02.pdf",
-    "anal1/03.pdf",
-    "ladm1/03 Gyakorlat.pdf",
-    "Tags.md",
-    "bevszamtech/02.md",
-    "bevszamtech/01.md",
-    "anal1/01 - Valós számok bevezetése.md",
-    "bevprog1/PluszMinusz.md",
-    "bevprog1/PlanG.md",
-    "bevprog1/04 - Sorozatok, fájlok.md",
-    "bevprog1/03 - Algoritmusok, tételek.md",
-    "bevprog1/02 - Elágazás, Ciklus.md",
-    "anal1/02.md",
-    "matalap/README.md",
     "bevprog1/README.md",
-    "bevszamtech/04 - Adattárolás és adatkommunikáció.md",
+    "bevszamtech/05 - LaTeX.md",
+    "bevprog1/cpp olvasás.md",
+    "bevprog1/PlanG.md",
+    "PluszMinusz.md",
+    "kozgaz/Gyakorlóteszt kérdések.md",
+    "bevprog1/PluszMinusz.md",
+    "anal1/04 - Függvények 2..md",
+    "anal1/01 - Valós számok bevezetése.md",
+    "ladm1/Nulladrendű logika.md",
+    "ladm1/01 - Matematikai Logika.md",
+    "ladm1/Gauss Elimináció.md",
+    "bevprog1/05 - Tömbök, számábrázolás.md",
+    "fizalap/README.md",
+    "fizalap/gyak/05 Gyakorlat.pdf",
+    "fizalap/eloadasok/06 - Egyenáram.pdf",
+    "fizalap/hf/INDEX.md",
+    "anal1/hf/INDEX.md",
+    "matalap/README.md",
+    "bevprog1/PlangKodok/INDEX.md",
+    "bevprog1/PlangKodok/plang.jar.md",
+    "kozgaz/02.md",
+    "bevprog1/02 - Elágazás, Ciklus.md",
+    "fizalap/hf/04 Házi.pdf",
+    "anal1/hf/02 HF.pdf",
+    "ladm1/gyak/07-08 Gyakorlat.pdf",
+    "ladm1/gyak/06 Gyakorlat.pdf",
+    "ladm1/gyak/06 Gyakorlat 1.pdf",
+    "ladm1/gyak/09 Gyakorlat.pdf",
+    "ladm1/gyak/01-02 Gyakorlat.pdf",
+    "fizalap/gyak/03 Gyakorlat.pdf",
     "bevszamtech/HalfAdder.jpeg",
     "bevszamtech/FullAdder.jpeg",
-    "bevszamtech/03.md",
-    "szamtech/04 - Adattárolás és adatkommunikáció.md",
     "szamtech/FullAdder.jpeg"
   ]
 }

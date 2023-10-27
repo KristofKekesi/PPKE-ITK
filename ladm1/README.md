@@ -5,4 +5,9 @@ Előadó: Dr. Lászlóffy András
 Gyakorlatvezető: Miski Marcell
 Kód:
 ---
+# Előadások
+# Gyakorlatok
+# Jegyzeteim
+- [[Gauss Elimináció]]
+- [[Nulladrendű logika]]
 #todo

@@ -1,4 +1,3 @@
-# Gauss Elimináció
 - ==Két vektor független, ha nem párhuzamosak==
 - Két vektor összefüggő, ha párhuzamosak
 - ==Az egyenlet homogén, ha a megoldásvektora az origó==

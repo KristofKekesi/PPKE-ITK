@@ -25,9 +25,9 @@ Ha $f(x_1) ≠ f(x_2)$ bármilyen $x_1,x_2\in X$ esetén ("Nincs két azonos y")
 ## Szürjektív [^4]
 Ha minden $y\in Y$-hoz létezik x, amely $f(x) = y$. ("Nincs két azonos x")
 ## Bijektív [^5]
-Ha a függvény [[03 - Számsorozatok 2.#Injektív|injektív]], és [[03 - Számsorozatok 2.#Szürjektív|szürjektív]] is, ilyenkor a függvény kölcsönösen egyértelmű az X és Y halmazok között.
+Ha a függvény [[03 - Számsorozatok 2. és Függvények 1.#Injektív|injektív]], és [[03 - Számsorozatok 2. és Függvények 1.#Szürjektív|szürjektív]] is, ilyenkor a függvény kölcsönösen egyértelmű az X és Y halmazok között.
 ## Inverz függvény [^1]
-Ha a függvény [[03 - Számsorozatok 2.#Bijektív|bijektív]], akkor létezik inverz függvénye:
+Ha a függvény [[03 - Számsorozatok 2. és Függvények 1.#Bijektív|bijektív]], akkor létezik inverz függvénye:
 $$f^{-1}: Y \to X$$ melyre:
 $$f^{-1}(f(x))=x$$
 $$f^{-1}(f(y))=y$$
@@ -40,8 +40,6 @@ $\forall y \in Y$ amely megjelenik képként, vagyis $$D_f = \{y\in Y: \exists x
 Jele: R<sub>f</sub> (az angol RANGE szóból)
 ## Függvény gráfja [^5]
 $$\{x, f(x) : x\in D\} \subset R^2$$
-## Folytonosság
-#TODO 
 
 [^1]: [[Analízis 1. (2023).pdf#page=33|Analízis 1. Jegyzet: 27. oldal]]
 [^2]: [[Analízis 1. (2023).pdf#page=39|Analízis 1. Jegyzet: 33. oldal]]

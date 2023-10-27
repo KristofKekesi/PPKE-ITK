@@ -9,12 +9,10 @@ Több hasonló adat érkezik a program számára.
 - inicializálás
 - következő elem olvasása
 - sorozat végének felismerése / lekérdezése
-
 ### Ismert hosszú sorozat
 - programba beleépített
 - felhasználó által megadott
 - érkező adatokból meghatározott
-
 ```
 Változók:
 	i, n: EGÉSZ,
@@ -29,12 +27,10 @@ CIKLUS AMÍG i < n
 	i := i+1
 CIKLUS_VÉGE
 ```
-
 ### Végjeles sorozat
 - speciális érték / karakter jelöli a sorozat végét
 - ==kötelező értékkészlet==
 - értékkészlet alapján meghatározzuk ami nem eleme
-
 ```
 Változók:
 	X : T
@@ -47,15 +43,12 @@ CIKLUS AMÍG X nem végjel
 
 CIKLUS_VÉGE
 ```
-
 # Fájlok
 - névvel azonosítható adattároló
 - ==A fájlok kezelése rendszertől, nyelvtől, kontextustól függ==
-
 ### Fájlok PlanG-ban
 - bemeneti fájl (BEFÁJL): csak olvassuk
 - kimeneti fájl (KIFÁJL): írunk
-
 ```
 VÁLTOZÓK:
 	a: BEFÁJL,
@@ -67,8 +60,7 @@ LEZÁR a
 
 KI: n
 ```
-%%  Beolvassuk a fájlnév nevű fájlt, majd kiírjuk az első elemét %%
-
+- Beolvassuk a fájlnév nevű fájlt, majd kiírjuk az első elemét
 ```
 VÁLTOZÓK:
 	a: BEFÁJL,
@@ -83,4 +75,4 @@ CIKLUS AMÍG NEM VÉGE a
 CIKLUS_VÉGE
 LEZÁR a
 ```
-%% Beolvassuk a fájlnév nevű fájlt, majd kiírjuk az összes elemét ameddig vége nem lesz. %%
+- Beolvassuk a fájlnév nevű fájlt, majd kiírjuk az összes elemét ameddig vége nem lesz.

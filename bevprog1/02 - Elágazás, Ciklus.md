@@ -43,7 +43,7 @@ Milyen bemeneteket kell minden esetben kezelnie a programnak
 
 Pl:
 - BE: a: nem negatív valós szám
-- KI: b: nem negatív valós szám, ahol `b*b=a`
+- KI: b: nem negatív valós szám, ahol $b\cdot b=a$
 ### Utófeltétel:
 
 ## Ciklusok

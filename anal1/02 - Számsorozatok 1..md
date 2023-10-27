@@ -17,7 +17,7 @@ $∀n ∈ N$ és $∀h ≥ −1$ valós szám esetén: $(1 + h)n ≥ 1 + hn$
 ## Számtani közép
 $$A=\frac{a_1+a_2+...+a_n}{n}=\frac{1}{n}\sum_{k=1}^n{a_k}$$
 ## Mértani közép
-$$G=\sqrt[n]{a_1*a_2*...*a_n}=\sqrt[n]{\prod_{k=1}^n{a_k}}$$
+$$G=\sqrt[n]{a_1\cdot a_2\cdot ...\cdot a_n}=\sqrt[n]{\prod_{k=1}^n{a_k}}$$
 ## Összefüggés közöttük
 
 $$A\geq G$$

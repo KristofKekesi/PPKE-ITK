@@ -15,5 +15,5 @@ A tárgyat az előadások első 5 percében kérik számon, ezt egy kisZH formá
 1. [[01 -  A számítástechnika gyökerei|A számítástechnika gyökerei]]
 2. [[02 -  Adatábrázolás és logikai áramkörök|Adatábrázolás és logikai áramkörök]]
 3. [[03 - Számító rendszerek|Számító rendszerek]]
-4. 
+4. [[04 - Adattárolás és adatkommunikáció|Adattárolás és adatkommunikáció]]
 5. [[05 - LaTeX|LaTeX]]

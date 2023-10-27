@@ -17,5 +17,4 @@ int main() {
 	input_file_stream.close(); /* Fájl bezárása */
 }
 ```
-
 - léteznie kell a beolvasandó fájloknak

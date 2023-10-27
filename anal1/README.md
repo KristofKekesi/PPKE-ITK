@@ -18,17 +18,18 @@ Gyakorlatvezető: Várdainé Kollár Judit
 # Jegyzeteim
 1. [[01 - Valós számok bevezetése|Valós számok bevezetése]]
 2. [[02 - Számsorozatok 1.|Számsorozatok 1.]]
-3. [[03 - Számsorozatok 2.|Számsorozatok 2.]]
+3. [[03 - Számsorozatok 2. és Függvények 1.|Számsorozatok 2. és Függvények 1.]]
+4. [[04 - Függvények 2.|Függvények 2.]]
 # Házi feladatok
 Minden héten fel vannak adva [[anal1/hf/INDEX|házi feladatok]], mindkét gyakorlati alkalommal egy feladatsor. Minden feladatsorból tetszés szerűen egy-egy feladatot kell megoldani pluszpontért. A beadás opcionális.
 Megesik néha, hogy kötelező házi feladatot ad fel [[Tárgyak#Várdainé Kollár Judit|Várdainé]], ilyenkor a házi feladat leadásával együtt lesz meg a katalógus az adott gyakorlaton.
 # KisZH-k
 A tantárgyból minden héten kisZH-t írunk gyakorlaton, az előző két előadás anyagából. ==Nem a második előadástól kezdődnek a kisZH-k, már az első után is lehet írni ha úgy jön ki.==
 ### 1. kisZH
-- Mi a [[01 - Valós számok bevezetése#Supremum|supremum]]?
-- Mi az [[01 - Valós számok bevezetése#Infimum|infimum]]?
-- Mi a [[01 - Valós számok bevezetése#Cantor-féle axióma|Cantor-féle axióma]]?
+- Mi a [[01 - Valós számok bevezetése#Supremum|supremum]] definíciója?
+- Mi az [[01 - Valós számok bevezetése#Infimum|infimum]] definíciója?
+- Mi a [[01 - Valós számok bevezetése#Cantor-féle axióma|Cantor-féle axióma]] definíciója?
 ### 2. kisZH
-- Mi a [[03 - Számsorozatok 2.#Határérték [ 1]|határérték]]?
+- Mi a [[03 - Számsorozatok 2. és Függvények 1.#Határérték [ 1]|határérték]] definíciója?
 ### 3. kisZH
-- Mi a [[03 - Számsorozatok 2.#Torlódási pont [ 3]|torlódási pont]]?
+- Mi a [[03 - Számsorozatok 2. és Függvények 1.#Torlódási pont [ 3]|torlódási pont]] definíciója?

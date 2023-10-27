@@ -1,6 +1,6 @@
 # 1. ZH gyakorló
 ## Plang pót zárthelyi feladatok
-### 1.) Milyen típusúak lehetnek az alábbi változók? Sorolj föl minél többet! (3 pont)
+ 1.) Milyen típusúak lehetnek az alábbi változók? Sorolj föl minél többet! (3 pont)
 a := |t| = 10 ÉS RND 1000 MOD x > 0
 Válasz: a: SZÖVEG, TÖMB; x: EGÉSZ, VALÓS
 ### 2.) Írj végtelen ciklust! (3 pont)
