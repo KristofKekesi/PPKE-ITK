@@ -35,3 +35,6 @@ Az Obszidián-ban is működik a `$$<kifejezés>$$`.
 - végtelen: `\infty` $\infty$
 - hasonlóság: `\sim` $\sim$
 - szorzás jel: `\cdot` $\cdot$
+# Hasznos dokumentumok
+- [[Csárdi Gábor - LaTeX nem túl röviden.pdf]]
+- [[LaTeX puska.pdf]]

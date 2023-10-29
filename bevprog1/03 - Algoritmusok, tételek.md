@@ -10,7 +10,7 @@ Az algoritmus egy megengedett lépésekből álló módszer, utasításs
 
 # Összegzés tétele
 Mennyi a sorozatban lévő számok összege?
-```
+```Plang
 VÁLTOZÓK:
 	összeg, a: T
 
@@ -22,7 +22,7 @@ VÁLTOZÓK:
 ```
 # Számlálás tétele
 Hány x elem van a sorozatban?
-```
+```Plang
 VÁLTOZÓK:
 	a: T,
 	számláló: EGÉSZ
@@ -36,7 +36,7 @@ CIKLUS_VÉGE
 ```
 # Lineáris keresés tétele
 Melyik az első eleme a sorozatnak ami teljesít egy feltételt?
-```
+```Plang
 VÁLTOZÓK:
 	a: T,
 	van: LOGIKAI,
@@ -55,7 +55,7 @@ CIKLUS_VÉGE
 ```
 # Maximum keresés tétele
 Melyik a sorozat legnagyobb eleme?
-```
+```Plang
 VÁLTOZÓK:
 	a, max: T,
 	i, hol: EGÉSZ

@@ -40,7 +40,7 @@ $\forall y \in Y$ amely megjelenik képként, vagyis $$D_f = \{y\in Y: \exists x
 Jele: R<sub>f</sub> (az angol RANGE szóból)
 ## Függvény gráfja [^5]
 $$\{x, f(x) : x\in D\} \subset R^2$$
-
+---
 [^1]: [[Analízis 1. (2023).pdf#page=33|Analízis 1. Jegyzet: 27. oldal]]
 [^2]: [[Analízis 1. (2023).pdf#page=39|Analízis 1. Jegyzet: 33. oldal]]
 [^3]: [[Analízis 1. (2023).pdf#page=50|Analízis 1. Jegyzet: 44. oldal]]

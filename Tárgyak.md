@@ -3,7 +3,7 @@
 |[[ladm1/README\|Lineáris Algebra és Diszkrét Matematika 1]]|4|[[Tárgyak#Dr. Lászlóffy András\|Dr. Lászlóffy András]] (előadó),<br /> [[Tárgyak#Miski Marcell\|Miski Marcell]] (gyakorlatvezető)|1. félév|
 |Testnevelés 1|0||1. félév|
 |A közgazdaságtan alapjai|5||1. félév|
-|[[matalap/README\|Matematikai alapismeretek]]|5|[[Tárgyak#Várdainé Kollár Judit\|Várdainé Kollár Judit]] (tárgyfelelős)|1. félév|
+|[[matalap/INDEX|Matematikai alapismeretek]]|5|[[Tárgyak#Várdainé Kollár Judit\|Várdainé Kollár Judit]] (tárgyfelelős)|1. félév|
 |Bevezetés a mérnökségbe|1|[[Tárgyak#Dr. Szolgay Péter Norbert\|Dr. Szolgay Péter Norbert]] (előadó)|1. félév|
 |Egyetemi pályaszocializáció|2|[[Tárgyak#Pusker Máté\|Pusker Máté]] (tárgyfelelős)|1. félév|
 |[[fizalap/README\|Fizikai alapismeretek]]|2||1. félév|
@@ -39,5 +39,5 @@
 - Gyakorlatvezető: Bevezetés a mérnökségbe
 ##### V.
 ###### Várdainé Kollár Judit
-- Tárgyfelelős: [[matalap/README|Matematikai Alapismeretek]]
+- Tárgyfelelős: [[matalap/INDEX|Matematikai Alapismeretek]]
 - Gyakorlatvezető: [[anal1/README|Matematikai analízis 1]]

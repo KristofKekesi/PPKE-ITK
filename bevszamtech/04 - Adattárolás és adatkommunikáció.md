@@ -27,7 +27,7 @@ Nem kell állandóan frissíteni a tárolt értéket.
 Minden címet ugyanannyi idő elérni.
 
 # Memória-hierarchia
-A gyors memóriák kicsik és drágák, ezért többfélét kell használni.
+A gyors memóriák kicsik és drágák, az elérési időt is meg kell fizetni, ezért többfélét kell használni.
 ```
            /\
           /  \

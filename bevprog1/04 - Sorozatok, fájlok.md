@@ -13,7 +13,7 @@ Több hasonló adat érkezik a program számára.
 - programba beleépített
 - felhasználó által megadott
 - érkező adatokból meghatározott
-```
+```Plang
 Változók:
 	i, n: EGÉSZ,
 	X : T
@@ -31,7 +31,7 @@ CIKLUS_VÉGE
 - speciális érték / karakter jelöli a sorozat végét
 - ==kötelező értékkészlet==
 - értékkészlet alapján meghatározzuk ami nem eleme
-```
+```Plang
 Változók:
 	X : T
 
@@ -49,7 +49,7 @@ CIKLUS_VÉGE
 ### Fájlok PlanG-ban
 - bemeneti fájl (BEFÁJL): csak olvassuk
 - kimeneti fájl (KIFÁJL): írunk
-```
+```Plang
 VÁLTOZÓK:
 	a: BEFÁJL,
 	n: EGÉSZ
@@ -61,7 +61,7 @@ LEZÁR a
 KI: n
 ```
 - Beolvassuk a fájlnév nevű fájlt, majd kiírjuk az első elemét
-```
+```Plang
 VÁLTOZÓK:
 	a: BEFÁJL,
 	n: EGÉSZ

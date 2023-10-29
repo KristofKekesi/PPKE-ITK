@@ -20,6 +20,9 @@ Gyakorlatvezető: Várdainé Kollár Judit
 2. [[02 - Számsorozatok 1.|Számsorozatok 1.]]
 3. [[03 - Számsorozatok 2. és Függvények 1.|Számsorozatok 2. és Függvények 1.]]
 4. [[04 - Függvények 2.|Függvények 2.]]
+# Analízis Jegyzet
+- [[Analízis 1. (2023).pdf]]
+- [[Analízis 1. (2010).pdf]]
 # Házi feladatok
 Minden héten fel vannak adva [[anal1/hf/INDEX|házi feladatok]], mindkét gyakorlati alkalommal egy feladatsor. Minden feladatsorból tetszés szerűen egy-egy feladatot kell megoldani pluszpontért. A beadás opcionális.
 Megesik néha, hogy kötelező házi feladatot ad fel [[Tárgyak#Várdainé Kollár Judit|Várdainé]], ilyenkor a házi feladat leadásával együtt lesz meg a katalógus az adott gyakorlaton.

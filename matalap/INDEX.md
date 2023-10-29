@@ -7,3 +7,4 @@ Year: 2023 Szept. - Dec.
 - [[Abszolútértékes és gyökös kifejezések.pdf]]
 - [[Egyenletek, egyenlőtlenségek.pdf]]
 - [[Exponenciális és logaritmusos feladatok.pdf]]
+- [[Hatványozás.png]]

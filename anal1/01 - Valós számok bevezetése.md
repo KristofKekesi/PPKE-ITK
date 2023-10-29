@@ -3,9 +3,9 @@
 Előadó: Dr. Vágó Zsuzsanna Márta
 Dátum: 2023 Okt. 09.
 ---
-# Számhalmazok
+# Számhalmazok[^1]
 ## N: természetes számok halmaza
-- jele: N (natural szóból ered)
+- jele: $N$ (az angol "natural" szóból ered)
 - Legkisebb eleme az 1
 - Minden elem után van következő
 
@@ -78,9 +78,9 @@ Például: $(a + b) \cdot c = (a \cdot c) + (b \cdot c)$.
 # Summa
 $$\sum_{futóindex}^{meddig} tag$$
 Például:
-- Első `n` szám összege
+- Első $n$ szám összege
 $$\sum_{k=1}^{n} k$$
-- Első `n` páros szám összege
+- Első $n$ páros szám összege
 $$\sum_{k=1}^{n} 2k$$
 - Hárommal osztható kétjegyű számok összege
 $$\sum_{k=4}^{33} 3k$$
@@ -121,7 +121,8 @@ Jele: $\text{ext}(H)$ (az angol exterior szóból).
 ## Határpont
 Az $x_0 ∈ R$ pont a H halmaz határpontja, ha $∃\epsilon > 0$. Ha a környezet tartalmaz H-n belüli (Belső pont) és H-n (Külső pont) kívüli pontokat is.
 Jele: $\delta (H)$
-
 - A halmaz nyílt, ha minden pontja belső pont
 - A halmaz zárt ha $\delta H ⊆ H$
 - A H halmaz lezárása $\overline{H} = H ∪ \delta H$
+---
+[^1]: [[Analízis 1. (2023).pdf#page=8|Analízis 1. Jegyzet: 2. oldal]]

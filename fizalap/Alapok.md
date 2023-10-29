@@ -25,7 +25,7 @@
 # Kinematika
 Mozgástan, a fizikai mozgások leírása.
 ## Sebesség
-Jele: $v$, neve az angol "velocity" szóból ered. 
+Jele: $v$, az angol "velocity" szóból ered. 
 - Az út és az idő hányadosa.
 $$v=\frac{s}{t}$$
 A sebesség mértékegysége.
@@ -41,13 +41,18 @@ A gyorsulás mértékegysége.
 $$|a|=\frac{|v|}{|t|}=\frac{\frac{m}{s}}{s}=\frac{m}{s^2}$$
 # Dinamika
 ## Erő
-#todo
+Jele: $f$, az angol "force" szóból ered.
+### Gravitációs erő
+$$F=m\cdot a_g\quad\quad a_g=\sim10 \quad\text{(gravitációs gyorsulás)}$$
+Az erő mértékegysége.
+$$|F|=|m|\cdot |a|=kg\frac{m}{s^2}=N\quad\text{(Newton)}$$
 ## Frekvencia
 Egy periódikus jelenség ismétlődési gyakorisága.
 $$f=\frac{1}{T}$$
 A frekvencia mértékegysége.
 $$|f|=\frac{1}{|T|}=\frac{1}{s}=Hz\quad\text{(Hertz)}$$
 ### Körfrekvencia
+$$\omega$$
 #TODO 
 ## Periódusidő
 #TODO 
@@ -58,6 +63,7 @@ $$|x| = m\quad\text{(méter)}$$
 ## Szögsebesség
 #TODO 
 ## Munka
+Jele: $w$, az angol "work" szóból ered.
 Munkavégzés ha  $a$ (a képletben gravitációs) gyorsulással szemben emelünk fel $h$ méter magasra $m$ súlyú testet.
 $$W=m\cdot a_g\cdot h$$
 A munka mértékegysége.

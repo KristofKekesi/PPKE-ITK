@@ -7,3 +7,4 @@
 - Szabadságfog: vezérelem nélküli sorok száma
 - ==Oszlopot nem cserélünk fel==
 - Sorokat felcserélhetünk
+- #TODO 

@@ -4,7 +4,7 @@
 a := |t| = 10 ÉS RND 1000 MOD x > 0
 Válasz: a: SZÖVEG, TÖMB; x: EGÉSZ, VALÓS
 ### 2.) Írj végtelen ciklust! (3 pont)
-```
+```Plang
 CIKLUS AMÍG IGAZ
 	ciklusmag
 CIKLUS_VÉGE
@@ -12,7 +12,7 @@ CIKLUS_VÉGE
 SZAM szoveg\[\|szoveg\| - 1\]
 ```
 ### 4.) Mit ír ki a kimenetre a kód? (3 pont)
-```
+```Plang
 PROGRAM bp1ppzh_01
 	VÁLTOZÓK:
 		i: EGÉSZ
@@ -37,7 +37,7 @@ Válasz: Maximumkeresés tételét, mert a legnagyobb értéket keressük egy ad
 x:=(67 + (t MOD 4)^2) * RND 45
 ### 8.) Javítsd ki a kódot úgy, hogy a hárommal osztható számokat írja ki 100 és n között! Tabuláld helyesen! (6 pont)  
 (specifikáció: BE: egész szám (n), n>100, KI: hárommal osztható számok 100 és n között)
-```
+```Plang
 program bp1ppzh_02
 változók:
 
@@ -53,7 +53,7 @@ program_vége
 ciklus_vége
 ```
 Javított:
-```
+```Plang
 PROGRAM bp1ppzh_02
 VÁLTOZÓK:
 	n, i, a: egész
@@ -70,7 +70,7 @@ CIKLUS_VÉGE
 PROGRAM_VÉGE
 ```
 ### 9.) Add meg egy tetszőleges szövegnek minden szavát külön-külön! (8 pont)
-```
+```Plang
 PROGRAM p
 
 VÁLTOZÓK:
@@ -98,7 +98,7 @@ PROGRAM_VÉGE
 ```
 ### 10.) Egy tetszőleges szövegről add meg, hány mondat található benne! (10 pont)
 Mondatnak tekintünk minden olyan sort, ami nagybetűvel kezdődik, és ponttal, felkiáltójellel vagy kérdőjellel végződik.
-```
+```Plang
 PROGRAM p
 
 VÁLTOZÓK:
@@ -124,7 +124,7 @@ PROGRAM_VÉGE
 ```
 ### 11.) Fésülj össze két monoton növekvő sorozatot fájlból! (12 pont)
 specifikáció: BE: két fájl, bennük növekvő sorrendben számok, KI: a két növekvő sorozat összefésülve (tehát növekvő sorrendben)
-```
+```Plang
 PROGRAM p
 
 VÁLTOZÓK:
@@ -164,7 +164,7 @@ Az alábbi PlanG kódot javítsd, illetve egészítsd ki úgy, hogy a mega
 ### a) (6 pont)
 bemenet: valós számok 10 hosszú (s) sorozata  
 kimenet: a -10 és 10 közötti nem nulla számok száma (c)
-```
+```Plang
     PROGRAM intervallum
        VÁLTOZÓK:
 
@@ -188,7 +188,7 @@ HA_VÉGE
     PROGRAM_VÉGE
 ```
 Válasz:
-```
+```Plang
 PROGRAM intervallum
 VÁLTOZÓK:
 	s: VALÓS[10],

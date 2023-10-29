@@ -26,6 +26,7 @@ Az előadások 45 percig tartanak, az anyagot prezentációval adják le:
 3. [[03 - Algoritmusok, tételek|Algoritmusok, tételek]]
 4. [[04 - Sorozatok, fájlok|Sorozatok, fájlok]]
 5. [[05 - Tömbök, számábrázolás|Tömbök számábrázolás]]
+- [[cpp olvasás]]
 # Gyakorlat
 - A gyakorlatok 2 óra 45 percig tartanak
 - Óra előtt egy [[bevprog1/README#PluszMinusz|PluszMinusz]] nevezetű kis ZH-t írunk.
