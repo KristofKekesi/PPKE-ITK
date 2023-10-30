@@ -124,5 +124,6 @@ Jele: $\delta (H)$
 - A halmaz nyílt, ha minden pontja belső pont
 - A halmaz zárt ha $\delta H ⊆ H$
 - A H halmaz lezárása $\overline{H} = H ∪ \delta H$
----
+
+
 [^1]: [[Analízis 1. (2023).pdf#page=8|Analízis 1. Jegyzet: 2. oldal]]

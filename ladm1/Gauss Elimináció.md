@@ -8,3 +8,4 @@
 - ==Oszlopot nem cserélünk fel==
 - Sorokat felcserélhetünk
 - #TODO 
+[[https://matrixcalc.org/slu.html||Mátrix számológép (Gauss elimináció megoldásához)]]

@@ -21,5 +21,7 @@ A házi feladatok adják a jegy 20%-át. A feladott feladatsorok [[fizalap/hf/IN
 3. [[03 Gyakorlat.pdf|Gyakorlat feladatsor]]
 4. [[04 Gyakorlat.pdf|Gyakorlat feladatsor]]
 5. [[05 Gyakorlat.pdf|Gyakorlat feladatsor]]
+## Megoldások
+1. [[01 Gyakorlat megoldás|Gyakorlat feladatsor megoldás]]
 # Hasznos dokumentumok
 - [[Fizika összefoglaló (2023).pdf]]
