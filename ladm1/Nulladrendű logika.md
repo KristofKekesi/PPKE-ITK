@@ -1,5 +1,13 @@
-## Szintaxis
-## Szemantika
+## Szintaxis [^1]
+A leírott kifejezés helyességét határozza meg.
+### Jelkészlet
+- betűk (ítéletváltozók) - atomok
+- I(gaz), H(amis) (konstansok) - atomok
+- $\neg, \lor, \land, \implies$ - műveleti szimbólumok
+- zárójelek
+### Formulaképzés
+## Szemantika [^1]
+A helyes kifejezés jelentését határozza meg.
 ## Interpretáció
 ## Modell
 ## Tautológia
@@ -18,3 +26,5 @@ Pl: Ha esik az eső sáros az út <- 1. premissza
 Esik az eső. <- 2. premissza
 - - - - - - - - - - -
 Sáros az út. <- következtetés
+
+[^1]: [[DM Tankonyv.pdf#page=32|Diszkrét Matematika tankönyv: 32. oldal]]

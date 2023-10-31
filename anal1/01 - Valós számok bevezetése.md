@@ -110,20 +110,19 @@ Jele: $\text{inf}(H)$.
 ## Ekvivalens
 Azonos.
 #TODO 
-# Környezet
+## Környezet
 Egy x<sub>0</sub> valós szám __Környezetei__ az $(x_0- ε; x_0 + ε)$ nyílt intervallumok, ahol $\epsilon > 0$ tetszőleges valós szám.
-## Belső pont
+### Belső pont
 Az $x_0 ∈ R$ pont a H halmaz belső pontja, ha $∃\epsilon > 0$. Amin $(x_0 − \epsilon, x_0 + \epsilon) ⊆ H$.
 Jele: $\text{int}(H)$ (az angol interior szóból).
-## Külső pont
+### Külső pont
 Az $x_0 ∈ R$ pont a H halmaz belső pontja, ha $∃\epsilon > 0$. Amin $(x_0 − \epsilon, x_0 + \epsilon) \cap H= \emptyset$.
 Jele: $\text{ext}(H)$ (az angol exterior szóból).
-## Határpont
+### Határpont
 Az $x_0 ∈ R$ pont a H halmaz határpontja, ha $∃\epsilon > 0$. Ha a környezet tartalmaz H-n belüli (Belső pont) és H-n (Külső pont) kívüli pontokat is.
 Jele: $\delta (H)$
 - A halmaz nyílt, ha minden pontja belső pont
 - A halmaz zárt ha $\delta H ⊆ H$
 - A H halmaz lezárása $\overline{H} = H ∪ \delta H$
-
 
 [^1]: [[Analízis 1. (2023).pdf#page=8|Analízis 1. Jegyzet: 2. oldal]]

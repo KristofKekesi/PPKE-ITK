@@ -29,3 +29,5 @@ A tárgy rövidített neve (pl.: fizalap).
 	- INDEX.md (jellegtől függően kötelező)
 - eloadasok (opcionális)
 	- INDEX.md (jellegtől függően kötelező)
+
+

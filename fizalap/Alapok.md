@@ -125,10 +125,13 @@ $$|U|=\frac{J}{C}=V \quad\text(Volt)$$
 ## Ekvipotenciál
 Ekvipotenciálon belül bármelyik két pont között a [[Alapok#Feszültség|feszültség]] nulla.
 ## Elektromos ellenállás
+#### Kiszámítása
 Ohm törvénye. Elektromos ellenállás áramerősség és feszültség alapján.
 $$R=\frac{U}{I}$$ 
-Az elektromos ellenállás mértékegysége.
+#### Az elektromos ellenállás mértékegysége.
 $$|R| = \frac{|U|}{|I|}=\frac{V}{A}=\ohm\quad\text{(Ohm)}$$
 ## Áramerősség
-Az áramerősség mértékegysége.
+#### Kiszámítása
+$$I=\frac{Q}{t}$$
+#### Az áramerősség mértékegysége.
 $$|I|=A \quad\text{(Amper)}$$
