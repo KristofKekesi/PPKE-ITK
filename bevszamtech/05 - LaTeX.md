@@ -18,7 +18,7 @@ Példa a preambulumra:
 ```
 # Matematikai kifejezések
 Minden Obszidián-ban használható matematikai kifejezés működő LaTeX kifejezés.
-Hasznos editor: [[https://latex.codecogs.com/eqneditor/editor.php||Codecogs LaTeX editor]]
+Hasznos editor: [Codecogs LaTeX editor](https://latex.codecogs.com/eqneditor/editor.php)
 ## Környezetek
 ### Sorközi  kifejezés
 Az Obsidian-ban is működik a `$<kifejezés>$`.

@@ -30,5 +30,3 @@
 - A közgazdaságtan eszközválasztás értelmében felfogott racionalitásfogalma szerint
 	- nincs olyan dolog, amelyekről elmondhatjuk, hogy mindenkinek arra „kell” vágynia, és
 	- a költség mindig csak a jövőben jelentkezhet
-
-#todo
