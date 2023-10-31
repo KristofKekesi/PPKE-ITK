@@ -37,3 +37,6 @@ A tantárgyból minden héten kisZH-t írunk gyakorlaton, az előző két előad
 - Mi a [[03 - Számsorozatok 2. és Függvények 1.#Határérték [ 1]|határérték]] definíciója?
 ### 3. kisZH
 - Mi a [[03 - Számsorozatok 2. és Függvények 1.#Torlódási pont [ 3]|torlódási pont]] definíciója?
+### 4. kisZH
+- Deriválhatóság fogalma
+- Mi a [[05 - Függvények 3.#Bolzano tétel [ 2]|Bolzano tétel]]?

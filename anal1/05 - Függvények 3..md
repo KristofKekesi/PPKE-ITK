@@ -32,8 +32,11 @@ $$\lim_{x\to0}{\frac{1-\cos x}{x^2}}=\frac{1}{2}$$
 $$\lim_{x\to\infty}{x^{\frac{1}{x}}}=1$$
 # Differenciálszámítás
 ## Differenciálhányados [^5]
-
+Adott $f$ függvény, és $x_0\in \text{int}D$. Az $x$ ponthoz tartozó differenciálhányados a szelő meredeksége.
+	$$\frac{f(x)-f(x_0)}{x-x_0},\quad\quad x\in D_f$$
 ## Derivált
+A differenciálhányados határértéke a derivált.
+$$f(x)'=\lim_{x\to x_0}{\frac{f(x)-f(x_0)}{x-x_0}}=\frac{df}{dx}(x_0)$$
 ## Deriválási szabályok
 $$(f+g)'(x_0)=f'(x_0)+g'(x_0)$$
 $$(f\cdot g)'(x_0)=f'(x_0)\cdot g(x_0)+f(x_0)\cdot g'(x_0)$$

@@ -41,6 +41,7 @@ Az osztályozásnál kétféle pontot kaphatsz. Jó válasz esetén +1, rossz v�
 4. Végjeles sorozat feldolgozása.
 5. Mi igaz egy tömb elemeinek a típusára?
 6. PlanG program átírása cpp-ra.
+7. Add meg egy tetszőleges, típussal rendelkező, kétparaméteres függvény szignatúráját!
 # Házi feladatok
 Minden héten (általában a gyakorlat után egy nappal) felkerülnek a heti házi feladatok. Ezeket nem kell kötötten a következő órára megcsinálni, de ajánlott, a PluszMinusz miatt. A házi feladatok a [feladatgyűjteményből](https://users.itk.ppke.hu/~flugi/bevprog_1415/feladatok.html) kerülnek ki, és egészen az év végéig van idő megoldani őket.
 A házi feladatokat érvényességét online lehet megnézni a [házi ellenőrző oldalon](https://users.itk.ppke.hu/~nemse/bevprog/). 
