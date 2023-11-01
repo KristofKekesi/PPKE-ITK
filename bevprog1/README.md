@@ -48,3 +48,4 @@ A házi feladatokat érvényességét online lehet megnézni a [házi ellenőrz�
 (Tipp: a URL paraméterében hasznosak a `lang`, `group` és az `id` paraméterek. Ezekkel megoldható, hogy automatikusan kiválaszd az adott nyelvet, és hogy csak a te házijaidat mutassa meg.)
 # Hasznos dokumentumok
 - [[plang kódok]]
+- [[ZH Gyakorlások]]

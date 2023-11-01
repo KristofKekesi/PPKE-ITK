@@ -1,6 +1,6 @@
-# 1. ZH gyakorló
-## Plang pót zárthelyi feladatok
- 1.) Milyen típusúak lehetnek az alábbi változók? Sorolj föl minél többet! (3 pont)
+# 1. ZH gyakorlás
+## PlanG pót zárthelyi feladatok
+### 1.) Milyen típusúak lehetnek az alábbi változók? Sorolj föl minél többet! (3 pont)
 a := |t| = 10 ÉS RND 1000 MOD x > 0
 Válasz: a: SZÖVEG, TÖMB; x: EGÉSZ, VALÓS
 ### 2.) Írj végtelen ciklust! (3 pont)
@@ -8,9 +8,9 @@ Válasz: a: SZÖVEG, TÖMB; x: EGÉSZ, VALÓS
 CIKLUS AMÍG IGAZ
 	ciklusmag
 CIKLUS_VÉGE
+```
 ### 3.) írj kifejezést! (3 pont)
 SZAM szoveg\[\|szoveg\| - 1\]
-```
 ### 4.) Mit ír ki a kimenetre a kód? (3 pont)
 ```Plang
 PROGRAM bp1ppzh_01

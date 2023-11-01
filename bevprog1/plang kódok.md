@@ -191,6 +191,30 @@ KI: a[(a @ b)+|b|:|a|]
 PROGRAM_VÉGE
 ```
 # 2. Vegyes feladatok
+## 2.9.plang
+> Sorold fel azokat a másodfokú egyenleteket, amelyek minden együtthatója 0 és 10 közötti egész szám, és pontosan egy megoldása van.
+```PlanG
+PROGRAM p
+VÁLTOZÓK:
+	a, b, c: EGÉSZ
+
+a := 0
+CIKLUS AMÍG a <= 10
+	a := a + 1
+	b := 0
+	CIKLUS AMÍG b <= 10
+		b := b + 1
+		c := 0
+		CIKLUS AMÍG c <= 10
+			c := c + 1
+			HA ((b^2) - (4*a*c)) = 0 AKKOR
+				KI: a, "x^2+", b, "x+", c, SV
+			HA_VÉGE
+		CIKLUS_VÉGE
+	CIKLUS_VÉGE
+CIKLUS_VÉGE
+PROGRAM_VÉGE
+```
 ## 2.10.plang
 > Add meg a Pascal-háromszög első N sorát.
 ```PlanG
@@ -268,6 +292,53 @@ CIKLUS AM�G i < |a|
 CIKLUS_VÉGE
 PROGRAM_VÉGE
 ```
+## 2.14a.plang
+> Egy tetszőleges szövegben keresd meg az "alma" szó első előfordulását, és cseréld le a "körte" szóra.
+```PlanG
+PROGRAM p
+VÁLTOZÓK:
+	a: SZÖVEG
+
+BE: a
+KI: a[0 : a @ "alma"], "körte", a [(a @ "alma") + 4: |a|]
+
+PROGRAM_VÉGE
+```
+## 2.14b.plang
+> Az "alma" és "körte" szavak helyett tetszőleges szót lehessen megadni.
+```PlanG
+PROGRAM p
+VÁLTOZÓK:
+	a, b, c: SZÖVEG
+
+BE: a, b, c
+KI: a[0 : a @ b], c, a [(a @ b) + |b|: |a|]
+
+PROGRAM_VÉGE
+```
+## 2.14c.plang
+> Az összes előfordulást cseréld le.
+```PlanG
+PROGRAM p
+VÁLTOZÓK:
+	a, b, c: SZÖVEG,
+	i: EGÉSZ
+
+BE: a, b, c
+
+i := 0
+CIKLUS AMÍG i < |a|
+	HA a @ b = i AKKOR
+		KI: c
+		a[i] := ' '
+		i := i + |b|
+	KÜLÖNBEN
+		KI: a[i]
+		i := i + 1
+	HA_VÉGE
+CIKLUS_VÉGE
+PROGRAM_VÉGE
+```
 ## 2.15.plang
 > Egy tetszőleges szöveg minden szavát alakítsd át nagybetűvel kezdődőre.
 ```PlanG
@@ -288,6 +359,50 @@ CIKLUS AMÍG i < |a|
 	HA_VÉGE
 	i := i + 1
 CIKLUS_VÉGE
+PROGRAM_VÉGE
+```
+## 2.16a.plang
+> Egy tetszőleges szövegből töröld ki az "alma" szó összes előfordulását.
+```PlanG
+PROGRAM p
+VÁLTOZÓK:
+	a: SZÖVEG,
+	n: EGÉSZ
+
+be: a
+n := 0
+CIKLUS AMÍG n < |a|
+	HA a[n:|a|] @ "alma" = 0 AKKOR
+		n := n + 4
+	KÜLÖNBEN
+		KI: a[n]
+		n := n + 1
+	HA_VÉGE
+CIKLUS_VÉGE
+PROGRAM_VÉGE
+```
+## 2.18.plang
+> Egy tetszőleges szövegben alakítsd át a kisbetűket nagybetűkké, a nagybetűket pedig kisbetűkké.
+```PlanG
+PROGRAM a
+VÁLTOZÓK:
+	a: SZÖVEG,
+	i: EGÉSZ
+
+BE: a
+
+i : = 0
+CIKLUS AMÍG i < |a|
+	HA a[i] = NAGY a[i] AKKOR
+		a[i] := KIS a[i]
+	KÜLÖNBEN
+		a[i] := NAGY a[i]
+	HA_VÉGE
+	i := i + 1
+CIKLUS_VÉGE
+
+KI: a
+
 PROGRAM_VÉGE
 ```
 ## 2.26a.plang
