@@ -381,6 +381,62 @@ CIKLUS AMÍG n < |a|
 CIKLUS_VÉGE
 PROGRAM_VÉGE
 ```
+## 2.16b.plang
+> Az "alma" helyett tetszőleges szót lehessen megadni.
+```PlanG
+PROGRAM p
+VÁLTOZÓK:
+	a, b: SZÖVEG,
+	n: EGÉSZ
+
+be: a, b
+
+n := 0
+CIKLUS AMÍG n < |a|
+	HA a[n:|a|] @ b = 0 AKKOR
+		n := n + |b|
+	KÜLÖNBEN
+		KI: a[n]
+		n := n + 1
+	HA_VÉGE
+CIKLUS_VÉGE
+PROGRAM_VÉGE
+```
+## 2.17a.plang
+> Döntsd el egy szövegről, hogy ugyanazzal a karekterrel kezdődik-e, mint amivel végződik.
+```PlanG
+PROGRAM p
+VÁLTOZÓK:
+	a: SZÖVEG,
+	x, y: EGÉSZ
+
+be: a
+x := a @ "(" + 1
+y := a @ ")"
+KI: a[x:y]
+
+PROGRAM_VÉGE
+```
+## 2.17b.plang
+> Azt is fogadd el egyezésnek, ha az egyik kisbetű, a másik nagybetű (pl. nagy A-val kezdődik, kis a-ra végződik).
+```PlanG
+PROGRAM p
+VÁLTOZÓK:
+	a: SZÖVEG,
+	x, y: EGÉSZ
+
+be: a
+
+x := a @ "(" + 1
+y := a @ ")"
+
+HA x = |a| VAGY y = |a| AKKOR
+	KI: "HIBA"
+KÜLÖNBEN
+	KI: a[x:y]
+HA_VÉGE
+PROGRAM_VÉGE
+```
 ## 2.18.plang
 > Egy tetszőleges szövegben alakítsd át a kisbetűket nagybetűkké, a nagybetűket pedig kisbetűkké.
 ```PlanG
@@ -403,6 +459,23 @@ CIKLUS_VÉGE
 
 KI: a
 
+PROGRAM_VÉGE
+```
+## 2.20.plang
+> Fordíts meg egy tetszőleges egész számsort.
+```PlanG
+PROGRAM p
+VÁLTOZÓK:
+	a: SZÖVEG,
+	n: EGÉSZ
+
+be: a
+
+n := 0
+CIKLUS AMÍG n < |a|
+	KI: a[|a| - n - 1]
+	n := n + 1
+CIKLUS_VÉGE
 PROGRAM_VÉGE
 ```
 ## 2.26a.plang
