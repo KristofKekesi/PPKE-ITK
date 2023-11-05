@@ -21,6 +21,7 @@ Gyakorlatvezető: Várdainé Kollár Judit
 3. [[03 - Számsorozatok 2. és Függvények 1.|Számsorozatok 2. és Függvények 1.]]
 4. [[04 - Függvények 2.|Függvények 2.]]
 5. [[05 - Függvények 3.|Függvények 3.]]
+- [[Deriválás]]
 # Analízis Jegyzet
 - [[Analízis 1. (2023).pdf]]
 - [[Analízis 1. (2010).pdf]]

@@ -3,8 +3,10 @@ Kékesi Kristóf vagyok, 2023 szeptemberében kezdtem meg a felsőbb oktatási t
 Ez a repo a jegyzeteimet (illetve felsőbb évesektől örökölt anyagokat) tartalmazza. Fontos, hogy a repot ajánlom, hogy Obsidian-nal nézd meg, hogy minden funkcióját ki tudd használni.
 # Hasznos információk
 - [[Tárgyak|Tárgyak]]
-- https://itk.ppke.hu/telefonkonyv
-- https://info.itk.ppke.hu
+-  [Telefonkönyv](https://itk.ppke.hu/telefonkonyv)
+- [A Tanulmányi Osztály oldala](https://info.itk.ppke.hu)
+- [[Beléptető]]
+- [[Animátor közösség]]
 # Utalások, csatolások
 A jegyzetekben utalások vannak könyvekre, ezek:
 - Emelt Szintű Érettségi Kidolgozott Szóbeli Tételek Matematika 2023 (Corvina kiadó) ISBN 978 963 13 6896 3, mint Érettségi Tételek

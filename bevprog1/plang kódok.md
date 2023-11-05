@@ -499,6 +499,40 @@ CIKLUS AMÍG NEM (a = 1)
 CIKLUS_VÉGE
 PROGRAM_VÉGE
 ```
+## 2.26b.plang
+> Az első N természetes szám felbontását add meg.
+```PlanG
+PROGRAM a
+VÁLTOZÓK:
+	n, m, a, i: EGÉSZ
+
+BE: n
+
+a := 1
+CIKLUS AMÍG a <= n
+	m := a
+	HA a = 1 AKKOR
+		KI: a, ": ", a, SV
+	KÜLÖNBEN
+		KI: a, ": "
+	HA_VÉGE
+	
+	CIKLUS AMÍG NEM (a = 1)
+		i := 2
+		CIKLUS AMÍG i < a + 1
+			HA a MOD i = 0 AKKOR
+				KI: i, " "
+				a := a DIV i
+				i := 1
+			HA_VÉGE
+			i := i + 1
+		CIKLUS_VÉGE
+		KI: SV
+	CIKLUS_VÉGE
+	a := m + 1
+CIKLUS_VÉGE
+PROGRAM_VÉGE
+```
 ## 2.32.plang
 > Fésülj össze két monoton sorozatot fájlból.
 ```PlanG
@@ -536,6 +570,73 @@ CIKLUS_VÉGE
 PROGRAM_VÉGE
 ```
 # 3. Programozási tételek
+## 3.2.plang
+> Add meg egy természetes szám osztóinak összegét.
+```PlanG
+PROGRAM számláló
+VÁLTOZÓK:
+	n, i, összeg: EGÉSZ
+
+összeg := 0
+BE: n
+
+i := 2
+CIKLUS AMÍG i < n
+	HA n MOD i = 0 AKKOR
+		összeg := összeg + 1
+	HA_VÉGE
+	i := i + 1
+CIKLUS_VÉGE
+KI: összeg
+
+PROGRAM_VÉGE
+```
+## 3.4.plang
+> Add meg egy természetes szám legnagyobb valódi osztóját.
+```PlanG
+PROGRAM maximum
+VÁLTOZÓK:
+	n, i, max: EGÉSZ
+
+max := 0
+BE: n
+
+i := 2
+CIKLUS AMÍG i < n
+	HA n MOD i = 0 ÉS i > max AKKOR
+		max := i
+	HA_VÉGE
+	i := i + 1
+CIKLUS_VÉGE
+
+HA max = 0 AKKOR
+	KI: "nincs valódi osztója"
+KÜLÖNBEN
+	KI: max
+HA_VÉGE
+
+PROGRAM_VÉGE
+```
+## 3.8b.plang
+> Adj össze tetszőleges számú számot.
+```PlanG
+PROGRAM p
+VÁLTOZÓK:
+	m, i, a, összeg: EGÉSZ  
+
+BE: m
+összeg := 0
+
+i := 0
+CIKLUS AMÍG i < m
+	BE: a
+	összeg := összeg + a
+	i := i + 1
+CIKLUS_VÉGE
+KI: összeg
+
+PROGRAM_VÉGE
+```
 ## 3.10.plang
 > Add meg egy tetszőleges egész számsorról, hogy hány eleme kisebb az átlagánál.
 ```PlanG
@@ -622,6 +723,191 @@ CIKLUS_VÉGE
 
 LEZÁR bf
 KI: min
+
+PROGRAM_VÉGE
+```
+## 3.16.plang
+> Add meg egy tetszőleges egész számsorban a szomszédos elemek átlagos különbségét.
+```PlanG
+PROGRAM számláló
+VÁLTOZÓK:
+	n, i, a, előző: EGÉSZ,
+	összeg: VALÓS
+
+összeg := 0
+
+BE: n
+BE: a
+előző := a
+
+i := 0
+CIKLUS AMÍG i < n - 1
+	BE: a
+	összeg := előző - a
+	i := i + 1
+CIKLUS_VÉGE
+KI: összeg / (n - 1)
+
+PROGRAM_VÉGE
+```
+## 3.18.plang
+> Add meg egy tetszőleges egész számsorban a prímszámok számát.
+```PlanG
+PROGRAM p
+VÁLTOZÓK:
+	m, i, j, a, hány: EGÉSZ,
+	van: LOGIKAI
+
+BE: m
+hány := m
+
+i := 0
+CIKLUS AMÍG i < m
+	BE: a
+	
+	j := 2
+	van := HAMIS
+	CIKLUS AMÍG j < a ÉS NEM van
+		HA a MOD j = 0 AKKOR
+			van := IGAZ
+			hány := hány - 1
+		HA_VÉGE
+		j := j + 1
+	CIKLUS_VÉGE
+	i := i + 1
+CIKLUS_VÉGE
+KI: hány
+
+PROGRAM_VÉGE
+```
+## 3.21.plang
+> 1. Egy tetszőleges szövegről add meg, hány kis "a" betű van benne.
+```PlanG
+PROGRAM p
+VÁLTOZÓK:
+	n: SZÖVEG,
+	i, számláló: EGÉSZ
+
+BE: n
+számláló := 0
+
+i := 0
+CIKLUS AMÍG i < |n|
+	HA n[i] = 'a' AKKOR
+		számláló := számláló + 1
+	HA_VÉGE
+	i := i + 1
+CIKLUS_VÉGE
+KI: számláló
+
+PROGRAM_VÉGE
+```
+## 3.24.plang
+> Add meg egy tetszőleges szövegből a leghosszabb sort.
+```PlanG
+PROGRAM p
+VÁLTOZÓK:
+	a, max: SZÖVEG,
+	n, i, számláló: EGÉSZ
+
+BE: n
+BE: a
+max := a
+
+i := 0
+CIKLUS AMÍG i < n - 1
+	BE: a
+	HA |a| > |max| AKKOR
+		max := a
+	HA_VÉGE
+	i := i + 1
+CIKLUS_VÉGE
+
+KI: max
+PROGRAM_VÉGE
+```
+## 3.25.plang
+> Döntsd el egy tetszőleges szövegről, hogy a sorai ABC-sorrendben vannak-e.
+```PlanG
+PROGRAM p
+VÁLTOZÓK:
+	m, i: EGÉSZ,
+	a: SZÖVEG,
+	előtte: KARAKTER,
+	feltétel: LOGIKAI
+
+BE: m, a, a
+előtte := a[0]
+feltétel := IGAZ
+
+i := 0
+CIKLUS AMÍG i < m - 1 ÉS feltátel
+	BE: a
+	HA előtte > a[0] AKKOR
+		feltétel := HAMIS
+	HA_VÉGE
+	i := i + 1
+	
+	előtte := a[0]
+CIKLUS_VÉGE
+KI: feltetel
+
+PROGRAM_VÉGE
+```
+## 3.34.plang
+> Tetszőleges, a csúcsai koordinátáival adott sokszögnek add meg a kerületét.
+```PlanG
+PROGRAM p
+VÁLTOZÓK:
+	n, i, x, y, előző_x, előző_y, első_x, első_y: EGÉSZ,
+	összeg: VALÓS
+
+BE: n
+összeg := 0
+
+BE: első_x, első_y
+előző_x := első_x
+előző_y := első_y
+
+i := 0
+CIKLUS AMÍG i < n -1
+	BE: x, y
+	összeg := összeg + (((x - előző_x)^2) + ((y - előző_y)^2))^0.5
+	előző_x := x
+	előző_y := y
+	i := i + 1
+CIKLUS_VÉGE
+
+összeg := összeg + (((x - első_x)^2) + ((y - első_y)^2))^0.5
+KI: összeg
+
+PROGRAM_VÉGE
+```
+## 3.36.plang
+> Tetszőleges, koordinátákkal adott pontsorozatban add meg az origótól legtávolabb eső pontot.
+```PlanG
+PROGRAM p
+VÁLTOZÓK:
+	n, i, x, y, max_x, max_y: EGÉSZ,
+	max, uj: VALÓS
+
+BE: n, x, y
+max_x := x
+max_y := y
+
+i := 0
+CIKLUS AMÍG i < n -1
+	BE: x, y
+	max := (((max_x)^2) + ((max_y)^2))^0.5
+	uj := (((x)^2) + ((y)^2))^0.5
+	
+	HA uj > max AKKOR
+		max_x := x
+		max_y := y
+	HA_VÉGE
+	i := i + 1
+CIKLUS_VÉGE
+KI: "(",max_x, "; ", max_y, ")"
 
 PROGRAM_VÉGE
 ```

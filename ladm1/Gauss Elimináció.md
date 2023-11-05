@@ -4,7 +4,7 @@
 # Gauss-Jordan Elimináció [^1]
 Egyenletrendszer megoldása mátrix alakú felírása alapján.
 - Oszlopokat felcserélhetünk, ==sorokat nem==
-[[https://matrixcalc.org/slu.html||Mátrix számológép (Gauss elimináció megoldásához)]]
+[Mátrix számológép (Gauss elimináció megoldásához)](https://matrixcalc.org/slu.html)
 ## Vezérelem [^2]
 Minden sorban és oszlopban kiválaszthatunk egy (nem nulla) számot.
 ## Rang [^2]
@@ -30,6 +30,13 @@ Inhomogén egyenletrendszerről beszélünk ha nem [[#Homogén egyenletrendszer|
 - [[01-02 Gyakorlat.pdf|01-02 Gyakorlat feladatsor]]
 - [[03 Gyakorlat.pdf|03 Gyakorlat feladatsor]]
 - [[04-05 Gyakorlat.pdf|04-05 Gyakorlat feladatsor]]
+
+![[Gauss Elimináció.png]]
+[[Tárgyak#Miski Marcell||Miski Marcell]] féle infografika.
+![[Gauss Elimináció metsző egyenesek.pdf]]
+[[Tárgyak#Miski Marcell||Miski Marcell]] féle infografika.
+![[Magtér.pdf]]
+[[Tárgyak#Miski Marcell||Miski Marcell]] féle infografika.
 
 ---
 
