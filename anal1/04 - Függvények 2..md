@@ -15,6 +15,8 @@ $$\lim_{n\to\infty}{x_n}=x_0\text{,}\quad\text{és}$$ $$\lim_{x\to\infty}{f(x_n)
 ## Függvény határérték [^3]
 Adott $f$ függvény és $x_0\in R$. 
 $$\lim_{x\to x_0}{f(x)} = a$$
+### Baloldali határérték
+### Jobboldali határérték
 #TODO 
 
 [^1]: [[Analízis 1. (2023).pdf#page=76|Analízis 1. Jegyzet 70. oldal]]

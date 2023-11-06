@@ -3,7 +3,7 @@ Kékesi Kristóf vagyok, 2023 szeptemberében kezdtem meg a felsőbb oktatási t
 Ez a repo a jegyzeteimet (illetve felsőbb évesektől örökölt anyagokat) tartalmazza. Fontos, hogy a repot ajánlom, hogy Obsidian-nal nézd meg, hogy minden funkcióját ki tudd használni.
 # Hasznos információk
 - [[Tárgyak|Tárgyak]]
--  [Telefonkönyv](https://itk.ppke.hu/telefonkonyv)
+- [Telefonkönyv](https://itk.ppke.hu/telefonkonyv)
 - [A Tanulmányi Osztály oldala](https://info.itk.ppke.hu)
 - [[Beléptető]]
 - [[Animátor közösség]]

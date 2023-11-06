@@ -1,3 +1,8 @@
+---
+aliases:
+  - Ítéletkalkulus
+  - Kijelentéskalkulus
+---
 ## Szintaxis [^1]
 A leírott kifejezés helyességét határozza meg.
 ### Jelkészlet
@@ -70,15 +75,34 @@ Két formula ekvivalens amennyibe az igazságértékük minden interpretációba
 ## Formalizálás
 A formalizálás során a kijelentéseket matematikai nyelvre fogalmazzuk meg.
 ## Normálformák
-### Konjunktív normálforma
+Az adott műveleteket úgy alakítjuk át, hogy azokat adott sorrendben végezzük el.
 ### Diszjunktív normálforma
+### Konjunktív normálforma
+Utoljára éselünk. Ehhez a következő átalakításokra lesz szükségünk:
+- $A \oplus B$: $(A \lor B)\land(\neg A \lor\neg B)$
+- $A\equiv B$: $(A \implies B)\land(B \implies A)$
+- $A\implies B$: $\neg A\lor B$
+- $A\lor(B\land C)$: $(A\lor B)\land(A\lor C)$
+## Klóz
+[[Nulladrendű logika#Konjunktív normálforma|Konjunktív]] és [[Nulladrendű logika#Diszjunktív normálforma|diszjunktív normálformák]] esetén is amiket össze[[Nulladrendű logika#Konjunkció - metszet - és|és]]elünk ([[Nulladrendű logika#Konjunktív normálforma|konjunktív normálformák]] esetén), vagy össze[[Nulladrendű logika#Diszjunkció - unió - vagy|vagy]]olunk ([[Nulladrendű logika#Diszjunktív normálforma|diszjunktív normálforma]] esetén) klózoknak hívunk.
+# Rezolúció
+Rezolúciót akkor használunk, amikor azt szeretnénk belátni, hogy egy kifejezés minden interpretációban igaz, vagyis tautológia.
+Ilyenkor a kifejezés megfordítására próbálunk igaz példát hozni, indirekt bizonyítást alkalmazunk. Mivel a tautológia megfordítása a kontradikció, amennyiben az eredeti állításunk igaz, nem fogunk tudni modellt találni a megfordítására.
+## Gyakorlati lépések
+1. [[Nulladrendű logika#Formalizálás|Formalizáció]]
+2. Premisszák (feltételek) felírása egymás alá
+3. Következmény [[Nulladrendű logika#Komplementer|tagadása]]
+4. Tagadott következmény [[Nulladrendű logika#Konjunktív normálforma|konjunktív normálformára hozása]]
+5. [[Nulladrendű logika#Klóz|Klózok]] egymás alá írása
+6. Kiejtegetés
+7. Üres klóz
 ## Doepikon következmény
 A B formula az d formuka logikai következménye, ha B igaz minden olyan interpretációra, ahol d igaz.
 Jele: #TODO
 ## Modus Ponens
 #TODO 
 
-Nulladrendű logika = ítéletkalkulus = kijelentéskalkulus
+
 Logika helyes következtetése, sémák elmélete
 Pl: Ha esik az eső sáros az út <- 1. premissza
 Esik az eső. <- 2. premissza

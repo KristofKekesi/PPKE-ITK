@@ -1,3 +1,7 @@
+---
+aliases:
+  - Gauss-Jordan Elimináció
+---
 # Vektorok (előismeret)
 - Független vektorok: amennyiben nem párhuzamosak.
 - Összefüggő vektorok: amennyiben párhuzamosak.

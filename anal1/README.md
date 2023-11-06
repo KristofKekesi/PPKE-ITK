@@ -21,6 +21,7 @@ Gyakorlatvezető: Várdainé Kollár Judit
 3. [[03 - Számsorozatok 2. és Függvények 1.|Számsorozatok 2. és Függvények 1.]]
 4. [[04 - Függvények 2.|Függvények 2.]]
 5. [[05 - Függvények 3.|Függvények 3.]]
+6. [[06 - Függvények 4.|Függvények 4.]]
 - [[Deriválás]]
 # Analízis Jegyzet
 - [[Analízis 1. (2023).pdf]]
@@ -41,3 +42,4 @@ A tantárgyból minden héten kisZH-t írunk gyakorlaton, az előző két előad
 ### 4. kisZH
 - Deriválhatóság fogalma
 - Mi a [[05 - Függvények 3.#Bolzano tétel [ 2]|Bolzano tétel]]?
+### 5. kisZH
