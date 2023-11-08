@@ -1,3 +1,6 @@
+# Feladatgyűjtemény
+<iframe width="100%" height="512px" src="https://users.itk.ppke.hu/~flugi/bevprog_1415/feladatok.html"></iframe>
+
 # 1. Kifejezések
 # 2. Vegyes feladatok
 # 3. Programozási tételek

@@ -13,9 +13,11 @@ Kód:
 4.  [[ladm1/gyak/06 Gyakorlat.pdf|Gyakorlati feladatok]]
 5.  [[ladm1/gyak/07-08 Gyakorlat.pdf|Gyakorlati feladatok]]
 6.  [[ladm1/gyak/09 Gyakorlat.pdf|Gyakorlati feladatok]]
+7. [[11 Gyakorlat.pdf|Gyakorlati feladatok]]
 # Jegyzeteim
 - [[Gauss Elimináció]]
 - [[Nulladrendű logika]]
+- [[Vektoralgebra]]
 # Tankönyvek, feladatgyűjtemény, jegyzet
 - [[DM Tankonyv.pdf]]
 - [[LA Tankonyv.pdf]]

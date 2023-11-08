@@ -16,8 +16,13 @@ Szemeszter: 2023 Szept. - Dec.
 3. [[03 - Számító rendszerek|Számító rendszerek]]
 4. [[04 - Adattárolás és adatkommunikáció|Adattárolás és adatkommunikáció]]
 5. [[05 - LaTeX|LaTeX]]
+6. [[06 - GNU Linux|GNU Linux]]
 # Hasznos dokumentumok
 - [[első nagy ZH segédlet 2023.pdf]]
 - [[nagy ZH összefoglaló 2016.pdf]]
 # Számonkérések
 A tárgyat az előadások első 5 percében kérik számon, ezt egy kisZH formájában. Ezeken 0 és 2 pont közötti eredményeket lehet elérni. Az aláírás feltételét képezni a katalógus, és hogy leosztva minden kisZH-ra jusson minimum egy pontod.
+### 4. kisZH
+$$
+f_\beta(x)=\prod_{n=0}^{\infty}{\frac{\lg{(\beta^2+x)}}{n^{\beta+x}}}
+$$

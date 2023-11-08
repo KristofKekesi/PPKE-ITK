@@ -10,12 +10,16 @@ $$(x_0-\delta, x_0+\delta)\backslash\{x_0\}\subset D_f\quad\quad\delta>0.$$
 Vagyis: Ha egy $x_0$ [[01 - Valós számok bevezetése#Környezet|környezetében]], amiből kivesszük az $x_0$-t, eleme a függvény [[03 - Számsorozatok 2. és Függvények 1.#Értékkészlet [ 4]|értékkészlet]]ének akkor szakadási pont.
 ### Osztályozásuk:
 - #### Elsőfajú szakadás
-	$x_0$-ban elsőjajú szakadás van, ha létezik a függvénynek az $x_0$-ba tartó baloldali, és jobboldali határértékei és ezek kisebbek, mint végtelen.
+	$x_0$-ban elsőfajú szakadás van, ha létezik a függvénynek az $x_0$-ba tartó baloldali, és jobboldali határértékei és ezek kisebbek, mint végtelen.
 	Megszüntethető szakadás, ha a két oldalsó szélsőérték megegyezik, és
 	$$\lim_{x\to x_0}{f(x)≠f(x)}.$$
 - #### Másodfajú szakadás
 	Ha nem elsőfajú.
 ## Bolzano tétel [^2]
+Adott $f: [a,b]\to R$ folytonos függvény. Tegyük fel, hogy $f(a)\leq0\leq f(b)$. Ekkor $\exists\epsilon\in(a, b)$ , ahol $f(\epsilon)=0$.
+
+Másképpen:
+Ha van egy folytonos zárt függvényem aminek az egyik vége negatív, a másik pozitív, akkor biztosan lesz olyan pontja amely nulla.
 ## Inverz függvény folytonossága [^2]
 Adott $f$ függvény, amely $f:[a, b]\to R$, szigorúan monoton növekvő, folytonos.
 $$c\in[f(a), f(b)]\quad\quad\mathcal{E}\in[a, b]$$
@@ -33,7 +37,7 @@ $$\lim_{x\to\infty}{x^{\frac{1}{x}}}=1$$
 # Differenciálszámítás
 ## Differenciálhányados [^5]
 Adott $f$ függvény, és $x_0\in \text{int}D$. Az $x$ ponthoz tartozó differenciálhányados a szelő meredeksége.
-	$$\frac{f(x)-f(x_0)}{x-x_0},\quad\quad x\in D_f$$
+$$\frac{f(x)-f(x_0)}{x-x_0},\quad\quad x\in D_f$$
 ## Derivált
 A differenciálhányados határértéke a derivált.
 $$f(x)'=\lim_{x\to x_0}{\frac{f(x)-f(x_0)}{x-x_0}}=\frac{df}{dx}(x_0)$$

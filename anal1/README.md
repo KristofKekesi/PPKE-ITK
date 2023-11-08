@@ -43,3 +43,6 @@ A tantárgyból minden héten kisZH-t írunk gyakorlaton, az előző két előad
 - Deriválhatóság fogalma
 - Mi a [[05 - Függvények 3.#Bolzano tétel [ 2]|Bolzano tétel]]?
 ### 5. kisZH
+- [[06 - Függvények 4.#Elégséges feltétel lokális szélsőértékre|Szélsőérték elégséges feltétele]]
+- [[06 - Függvények 4.#Lokális szélsőértékek \[ 3\]|Lokális szélsőérték]]
+- Inverz függvény deriváltja

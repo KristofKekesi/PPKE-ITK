@@ -35,6 +35,39 @@ Az Obszidián-ban is működik a `$$<kifejezés>$$`.
 - végtelen: `\infty` $\infty$
 - hasonlóság: `\sim` $\sim$
 - szorzás jel: `\cdot` $\cdot$
+# Ábrák
+Be kell importálni a `\usepackage{graphicx}`-t a [[05 - LaTeX#Preambulum|preambulumba]].
+```LaTeX
+\begin{figure}
+	\centering
+	\includegraphics{kép.png}
+	\caption{Szöveg a képről}
+\end{figure}
+```
+### Ábrák elhelyezése az oldal belül
+`\begin{figure}[!ht]`
+- `h`
+- `t`
+- `b`
+- `p`: külön oldalon helyezi el, ahol csak ábrák vannak
+- `!`
+### Ábrák mérete
+```LaTex
+\includegraphics[width=0.5\textwidth]
+\includegraphics[scale=0.5]
+```
+# Táblázat
+Hasznos editor: [Tablesgenerator](https://www.tablesgenerator.com)
+```LaTeX
+\begin{tabular}{|l||rc}
+	szöveg & szöveg \\
+	\hline
+	szöveg & szöveg
+\end{tabular}
+```
+# Hivatkozás
+-biblatex
+#todo
 # Hasznos dokumentumok
 - [[Csárdi Gábor - LaTeX nem túl röviden.pdf]]
 - [[LaTeX puska.pdf]]

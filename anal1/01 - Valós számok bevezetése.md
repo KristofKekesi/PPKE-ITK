@@ -109,7 +109,6 @@ Jele: $\text{inf}(H)$.
 	$\text{inf}(H) = \text{min}(h)$
 ## Ekvivalens
 Azonos.
-#TODO 
 ## Környezet
 Egy x<sub>0</sub> valós szám __Környezetei__ az $(x_0- ε; x_0 + ε)$ nyílt intervallumok, ahol $\epsilon > 0$ tetszőleges valós szám.
 ### Belső pont
