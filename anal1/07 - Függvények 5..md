@@ -17,9 +17,12 @@ Másszóval:
 $x_0\in D_f$ inflexiós pont, ha ebben a pontban vált a függvény [[07 - Függvények 5.#Konvex|konvex]]ből [[07 - Függvények 5.#Konkáv|konkáv]]ba vagy fordítva.
 $$f''(x_0)=0$$
 # Integrálszámítás
-#todo
 ### Integrálszámítás I. alaptétele[^2]
+Legyen $f,g: (a,b)\to R$ olyan differenciálható függvények, melyekre $f'(x)=g'(x)$ teljesül minden $x\in(a,b)$-re. Ekkor $\exists c\in R$, melyre
+$$f(x)=g(x)+c\quad\quad\forall x\in(a,b).$$
 ### Primitív függvény[^3]
+Adott $f: I\to R$, ahol $I\subset R$. Az $F: I\to R$ függvény $f$ primitívfüggvénye, ha
+$$F'(x)=f(x)\quad\quad\forall x\in I.$$
 ### Határozatlan integrál[^4]
 A primitív függvények halmaza a határozatlan integrál.
 $$\int{f(x)dx=\{H: I\implies R\quad|\quad H'(x)= f(x)\}}=\{F+x: c\in R\},$$

@@ -7,6 +7,7 @@ Dátum: 2023 Nov. 06.
 ## Cosinus függvény[^1]
 ## Érintő egyese
 Legyen $x_0$ az $f$ függvény értelmezési tartományának belső pontja, itt differenciálható. Ekkor a függvény $x_0$ pontjához tartozó érintő egyenese
+$$x_0\in D_f\quad\quad y_0=f(x_0)\quad\quad m=f'(x_0)$$
 $$y-y_0=m(x-x_0)\quad\Rightarrow\quad y=m(x-x_0)+y_0.$$
 ## Lokális szélsőértékek [^3]
 ### Lokális minimum
@@ -19,7 +20,7 @@ $$f(x_0)\ge f(x)\quad\quad\forall x\in U\cap D_f.$$
 Legyen $f: D_f\to R$, $x_0$-ban kétszer folytonosan differenciálható, és $f'(x)=0$. Ekkor $f''(x_0)≠0$ esetén $x_0$-ban lokális szélsőérték van. Sőt,
 $$f''(x_0)>0\quad\quad\ x_0\text{ lokális minimum}$$
 $$f''(x_0)<0\quad\quad\ x_0\text{ lokális maximum}$$
-==Ha $f''(x)=0$, még nem eldönthető, vajon $x_0$-ban szélsőértéke van-e a függvénynek.==
+==Ha $f''(x)=0$, még nem eldönthető, vajon $x_0$-ban szélsőértéke van-e a függvénynek.== (Innen az elégséges)
 ### Szükséges feltétel lokális szélsőértékre
 Legyen $f: D_f\to R$, $x_0$-ban differenciálható. Ekkor
 $$f'(x)=0.$$
@@ -43,12 +44,14 @@ Legyen $f: [a, b]\to R$. Tegyük fel, hogy $f$
 - folytonos $[a,b]$-n, és differenciálható $(a,b)$-n
 - $f(a)=f(b)$
 $$\exists\epsilon\in(a,b)\quad\quad f'(\epsilon)=0$$
-Másképpen:
-Ha egy függvény folytonos, és két helyen is felveszi ugyan azt az értékét lesz $\epsilon$ pontja, ahol a deriváltja $0$ lesz. (Stacionárius pont.)
+**Másképpen**:
+Ha egy függvény folytonos, és két helyen is felveszi ugyan azt az értékét lesz $\epsilon$ pontja, ahol a deriváltja $0$ lesz ([[06 - Függvények 4.#Stacionárius pont [ 4]|Stacionárius pont]]).
+![[rolle.png]]
 ### Lagrange-féle középérték tétel
 Legyen $f: [a,b]\to R$. Tegyük fel, hogy $f$
 - folytonos $[a,b]$-n, és differenciálható $(a,b)$-n
 $$\exists\epsilon\in(a,b)\quad\quad f'(\epsilon)=\frac{f(b)-f(a)}{b-a}.$$
+![[lagrange.png]]
 ## Inverz függvény deriváltja [^7]
 Tegyük fel, hogy $f$ szigorúan monoton, differenciálható függvény, melyre $f'(x)≠0, x\in D_f$ mellett. Ekkor $f^{-1}$ is differenciálható, és
 $$(f^{-1})(y)=\frac{1}{f'(f^{-1}(y))}.$$

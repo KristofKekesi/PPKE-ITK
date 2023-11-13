@@ -12,7 +12,10 @@ Kód:
 4. [[04 - Energia, munka, teljesítmény.pdf|Energia, munka, teljesítmény]]
 5. [[05 - Elektrosztatika.pdf|Elektrosztatika]]
 6. [[06 - Egyenáram.pdf|Egyenáram]]
-# [[Alapok|Jegyzetem]]
+# Jegyzetem
+- [[Dinamika]]
+- [[Kinematika]]
+- [[Elektrosztatika]]
 # Házi feladatok
 A házi feladatok adják a jegy 20%-át. A feladott feladatsorok [[fizalap/hf/INDEX|itt találhatóak]].
 # Gyakorlat feladatsorok
