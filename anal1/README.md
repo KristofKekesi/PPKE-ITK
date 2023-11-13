@@ -22,10 +22,19 @@ Gyakorlatvezető: Várdainé Kollár Judit
 4. [[04 - Függvények 2.|Függvények 2.]]
 5. [[05 - Függvények 3.|Függvények 3.]]
 6. [[06 - Függvények 4.|Függvények 4.]]
+7. [[07 - Függvények 5.|Függvények 5.]]
 - [[Deriválás]]
 # Analízis Jegyzet
 - [[Analízis 1. (2023).pdf]]
 - [[Analízis 1. (2010).pdf]]
+# Feladatsorok
+- [[anal1/hf/INDEX|Házi feladatok]]
+- [[Példatár.pdf|Példatár]]
+- [[Deriválás feladatsor.pdf|Deriválás feladatsor]]
+# Hasznos dokumentumok
+- [[Határérték.pdf]]
+- [[Integrálás.pdf]]
+- [[Deriválás.pdf]]
 # Házi feladatok
 Minden héten fel vannak adva [[anal1/hf/INDEX|házi feladatok]], mindkét gyakorlati alkalommal egy feladatsor. Minden feladatsorból tetszés szerűen egy-egy feladatot kell megoldani pluszpontért. A beadás opcionális.
 Megesik néha, hogy kötelező házi feladatot ad fel [[Tárgyak#Várdainé Kollár Judit|Várdainé]], ilyenkor a házi feladat leadásával együtt lesz meg a katalógus az adott gyakorlaton.

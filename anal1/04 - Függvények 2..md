@@ -6,7 +6,7 @@ Dátum: 2023 Okt. 26.
 ## Folytonosság [^1]
 Egy adott $f$ függvény ($f: D \to R$) folytonos, ha minden tetszőleges $x_0$ pontra teljesül, hogy
 $$\forall x \in D, \quad |x-x_0| < \delta \quad\Rightarrow\quad |f(x)-f(x_0)| < \epsilon.$$
-###### Magyarázásképp:
+**Magyarázásképp**:
 Ha a függvény folytonos, minden egymáshoz közeli x értékhez egymáshoz közeli y érték kell hogy tartozzon.
 ## Sorozatfolytonosság [^2]
 Az $f$ függvény [[03 - Számsorozatok 2. és Függvények 1.#Értelmezési tartomány [ 4]|értelmezési tartomány]]ának ($D_f$) egy $x_0$ pontjában sorozatfojtonos, ha $\forall(x_n)\subset D_f$ sorozatra, melyre

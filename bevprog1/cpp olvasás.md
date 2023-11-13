@@ -1,20 +1,33 @@
+## Fejállomány
 ```cpp
 #include <fstream> /* Fejállomány */
+```
+## Típusok
+- ifstream ('Input File Stream'): fájlbeolvasás
+```cpp
+ifstream valtozonev_in("filename.txt"); /* Befájl */
+```
+- ofstream ('Output File Stream'): fájlba írás
+```cpp
+ofstream valtozonev_out; /* Kifájl */
+```
+## Olvasás
+```cpp
+ifstream valtozonev_in("filename.txt"); /* Befájl */
 
-int main() {
-	int variable;
-	
-	ifstream input_file_stream("filename.txt"); /* Befájl */
-	ofstream output_file_stream; /* Kifájl */
-	
-	/* Ajánlott: megnézni hogy sikerült e a beolvasás */
-	if (!input_file_stream.good()) {
-		cout << 0
-	}
-	
-	input_file_stream.good() /* Olvasható-e még */
-	input_file_stream >> variable /* Olvasás fájlból */
-	input_file_stream.close(); /* Fájl bezárása */
+/* Ajánlott: megnézni hogy sikerült e a beolvasás */
+if (!valtozonev_in.good()) {
+	valtozonev_in >> variable; /* Olvasás fájlból */
 }
+
+valtozonev_in.close(); /* Fájl bezárása */
 ```
 - léteznie kell a beolvasandó fájloknak
+### Egész sor beolvasása
+```cpp
+readline(valtozonev_in, variable);
+```
+- használható a terminálon is
+
+#todo 
+ws

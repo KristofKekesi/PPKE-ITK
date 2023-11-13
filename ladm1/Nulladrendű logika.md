@@ -96,23 +96,57 @@ Ilyenkor a kifejezés megfordítására próbálunk igaz példát hozni, indirek
 5. [[Nulladrendű logika#Klóz|Klózok]] egymás alá írása
 6. Kiejtegetés
 7. Üres klóz
-## Doepikon következmény
-A B formula az d formuka logikai következménye, ha B igaz minden olyan interpretációra, ahol d igaz.
-Jele: #TODO
+# Következmény
+Jele: $\models$
+- Kontradikció következménye bármi
+- Tautológia következménye tautológia
+$$\alpha\models\beta\Leftrightarrow\alpha\implies\beta\equiv1\Leftrightarrow\alpha\land\neg\beta\equiv0$$
+# Következtetési sémák bizonyítása
 ## Modus Ponens
-#TODO 
-
-
-Logika helyes következtetése, sémák elmélete
-Pl: Ha esik az eső sáros az út <- 1. premissza
-Esik az eső. <- 2. premissza
-- - - - - - - - - - -
-Sáros az út. <- következtetés
-
+| $A$ | $B$ | $A\implies B$ |
+|---|---|---|
+|0|0|1|
+|1|0|0|
+|0|1|0|
+|**1**|**1**|**1**|
+A negyedik sorban igazak a feltételek, itt igaz a következmény is.
+## Modus Tollens
+| $A$ | $B$ | $A\implies B$ | $\neg A$ | $\neg B$ |
+|---|---|---|---|---|
+|0|0|1|1|1|
+|1|0|0|0|1|
+|0|1|0|1|0|
+|1|1|1|0|0|
+Az első sorban igazak a feltételek, itt igaz a következmény is.
+## Diszjunktív szillogizmus
+| $A$ | $B$ | $A\lor B$ | $\neg A$ |
+|---|---|---|---|
+|0|0|0|1|
+|0|1|1|1|
+|1|0|1|0|
+|1|1|1|0|
+A második sorban igazak a feltételek, itt igaz a következmény is.
+## Hipotetikus szillogizmus
+| $A$ | $B$ | $C$ | $A\implies B$ | $B\implies C$ | $A\implies C$ |
+|---|---|---|---|--|--|
+|0|0|0|1|1|1|
+|0|0|1|1|1|1|
+|0|1|0|1|0|0|
+|0|1|1|1|1|1|
+|1|0|0|0|1|1|
+|1|0|1|0|1|1|
+|1|1|0|1|0|0|
+|1|1|1|1|1|1|
+Minden sorban amiben a feltételek igazak igaz a következmény is.
 # Feladatok
+- [[LA Feladatgyujtemeny.pdf#page=11|Lineáris Algebra Feladatgyűjtemény 11. oldal.]]
 - [[06 Gyakorlat.pdf|06 Gyakorlat feladatsor]]
 - [[07-08 Gyakorlat.pdf|07-08 Gyakorlat feladatsor]]
 - [[09 Gyakorlat.pdf|09 Gyakorlat feladatsor]]
+### Megoldások
+- [[06 Gyakorlat Megoldás.pdf|06 Gyakorlat feladatsor megoldás]]
+- [[07-08 Gyakorlat Megoldás.pdf|07-08 Gyakorlat feladatsor megoldás]]
+- [[09 Gyakorlat Megoldás.pdf|09 Gyakorlat feladatsor megoldás]]
 # Hasznos dokumentumok
 - [[Matematikai Logika.pdf]]
 

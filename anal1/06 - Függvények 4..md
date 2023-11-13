@@ -7,8 +7,7 @@ Dátum: 2023 Nov. 06.
 ## Cosinus függvény[^1]
 ## Érintő egyese
 Legyen $x_0$ az $f$ függvény értelmezési tartományának belső pontja, itt differenciálható. Ekkor a függvény $x_0$ pontjához tartozó érintő egyenese
-$$y=f(x_0)+(x-x_0)f'(x_0)$$
-$$y-y_0=m(x-x_0)$$
+$$y-y_0=m(x-x_0)\quad\Rightarrow\quad y=m(x-x_0)+y_0.$$
 ## Lokális szélsőértékek [^3]
 ### Lokális minimum
 Ha $x_0$-nak legalább egy környezete van, amelyre
@@ -51,11 +50,12 @@ Legyen $f: [a,b]\to R$. Tegyük fel, hogy $f$
 - folytonos $[a,b]$-n, és differenciálható $(a,b)$-n
 $$\exists\epsilon\in(a,b)\quad\quad f'(\epsilon)=\frac{f(b)-f(a)}{b-a}.$$
 ## Inverz függvény deriváltja [^7]
-#todo 
+Tegyük fel, hogy $f$ szigorúan monoton, differenciálható függvény, melyre $f'(x)≠0, x\in D_f$ mellett. Ekkor $f^{-1}$ is differenciálható, és
+$$(f^{-1})(y)=\frac{1}{f'(f^{-1}(y))}.$$
 
 [^1]: [[Analízis 1. (2023).pdf#page=74|Analízis 1. Jegyzet 68. oldal]]
 [^3]: [[Analízis 1. (2023).pdf#page=123|Analízis 1. Jegyzet 117. oldal]]
 [^4]: [[Analízis 1. (2023).pdf#page=124|Analízis 1. Jegyzet 118. oldal]]
 [^5]: [[Analízis 1. (2023).pdf#page=120|Analízis 1. Jegyzet 114. oldal]]
 [^6]: [[Analízis 1. (2023).pdf#page=125|Analízis 1. Jegyzet 119. oldal]]
-[^6]: [[Analízis 1. (2023).pdf#page=121|Analízis 1. Jegyzet 115. oldal]]
+[^7]: [[Analízis 1. (2023).pdf#page=121|Analízis 1. Jegyzet 115. oldal]]

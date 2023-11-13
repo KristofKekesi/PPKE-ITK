@@ -18,7 +18,7 @@ Vagyis: Ha egy $x_0$ [[01 - Valós számok bevezetése#Környezet|környezetébe
 ## Bolzano tétel [^2]
 Adott $f: [a,b]\to R$ folytonos függvény. Tegyük fel, hogy $f(a)\leq0\leq f(b)$. Ekkor $\exists\epsilon\in(a, b)$ , ahol $f(\epsilon)=0$.
 
-Másképpen:
+**Másképpen**:
 Ha van egy folytonos zárt függvényem aminek az egyik vége negatív, a másik pozitív, akkor biztosan lesz olyan pontja amely nulla.
 ## Inverz függvény folytonossága [^2]
 Adott $f$ függvény, amely $f:[a, b]\to R$, szigorúan monoton növekvő, folytonos.
@@ -33,7 +33,8 @@ Legyen $f: [a, b]\to R$ függvény folytonos.
 ## Nevezetes határértékek [^4]
 $$\lim_{x\to0}{\frac{\sin x}{x}}=1$$
 $$\lim_{x\to0}{\frac{1-\cos x}{x^2}}=\frac{1}{2}$$
-$$\lim_{x\to\infty}{x^{\frac{1}{x}}}=1$$
+$$\lim_{x\to\infty}{x^{\frac{1}{x}}}=1\quad\quad\text{Mert:}$$
+$$x^{\frac{1}{x}}=\sqrt[x]{x}$$
 # Differenciálszámítás
 ## Differenciálhányados [^5]
 Adott $f$ függvény, és $x_0\in \text{int}D$. Az $x$ ponthoz tartozó differenciálhányados a szelő meredeksége.

@@ -1,3 +1,8 @@
+---
+Óra neve: Bevezetés a számítástechnikába
+Előadó: Naszlady Márton Bese
+Dátum: 2023 Nov. 08.
+---
 # Operációs rendszer
 Céljai:
 - kényelmesen használható felületet ad

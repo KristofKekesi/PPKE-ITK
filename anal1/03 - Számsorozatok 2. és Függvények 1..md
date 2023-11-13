@@ -4,7 +4,7 @@ Előadó: Dr. Vágó Zsuzsanna Márta
 Dátum: 2023 Okt. 12.
 ---
 ## Konvergens [^1]
-Ha tart valahova, A határértéke. 
+Ha tart valahova, a határértéke nem $\infty$ és nem $-\infty$. 
 $|a_n-A| < \epsilon$, $\forall n > N$. Másként leírva $\lim_{n\to \infty}a_n = A$
 ## Divergens [^1]
 Ha nem konvergens.

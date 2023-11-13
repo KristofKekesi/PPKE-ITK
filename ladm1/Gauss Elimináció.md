@@ -21,12 +21,13 @@ A [[#Vezérelem [ 2]|vezérelem]]ekek száma mindkét, az együttható oldalár�
 Más néven a magtér dimenziója. A szabad változók ([[#vezérelem [ 2]|vezérelem]]mel nem rendelkező oszlopok) száma.
 ## Nullsor [^3]
 Olyan sor a mátrixban, ahol minden szám nulla. (még a megoldáshalmazban is).
+- ===Jelentése: voltak benne összefüggő vektorok.==
 ## Tilos sor [^4]
 Olyan sor ahol az együttható oldalán ($A$) csak nullák vannak, míg a megoldáshalmaz ($b$) nem nulla.
-- ==Jelentése: nem lesz megoldása az egyenlet rendszernek==
+- ==Jelentése: nem lesz megoldása az egyenlet rendszernek.==
 ## Homogén egyenletrendszer
 Ha a megoldásvektor ($b$) nulla, homogén egyenletrendszerről beszélünk.
-- ==Jelentése: mindig lesz legalább egy megoldása. Ez a triviális megoldás, a nulla==.
+- ==Jelentése: mindig lesz legalább egy megoldása. Ez a triviális megoldás, a nulla.==
 ## Inhomogén egyenletrendszer
 Inhomogén egyenletrendszerről beszélünk ha nem [[#Homogén egyenletrendszer|homogén]], vagyis ha a megoldásvektor ($b$) nem nulla.
 # Feladatok
@@ -34,6 +35,10 @@ Inhomogén egyenletrendszerről beszélünk ha nem [[#Homogén egyenletrendszer|
 - [[01-02 Gyakorlat.pdf|01-02 Gyakorlat feladatsor]]
 - [[03 Gyakorlat.pdf|03 Gyakorlat feladatsor]]
 - [[04-05 Gyakorlat.pdf|04-05 Gyakorlat feladatsor]]
+### Megoldások
+- [[01-02 Gyakorlat Megoldás.pdf|01-02 Gyakorlat feladatsor megoldás]]
+- [[03 Gyakorlat Megoldás.pdf|03 Gyakorlat feladatsor megoldás]]
+- [[04-05 Gyakorlat Megoldás.pdf|04-05 Gyakorlat feladatsor megoldás]]
 
 ![[Gauss Elimináció.png]]
 [[Tárgyak#Miski Marcell||Miski Marcell]] féle infografika.
