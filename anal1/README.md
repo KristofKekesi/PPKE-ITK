@@ -55,3 +55,6 @@ A tantárgyból minden héten kisZH-t írunk gyakorlaton, az előző két előad
 - [[06 - Függvények 4.#Elégséges feltétel lokális szélsőértékre|Szélsőérték elégséges feltétele]]
 - [[06 - Függvények 4.#Lokális szélsőértékek \[ 3\]|Lokális szélsőérték]]
 - Inverz függvény deriváltja
+### 6. kisZH
+- [[07 - Függvények 5.#Integrálszámítás I. alaptétele[ 2]|Integrálszámítás I. alaptétele]]
+- [[07 - Függvények 5.#Primitív függvény[ 3]|Primitív függvény]]

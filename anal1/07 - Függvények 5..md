@@ -25,9 +25,10 @@ Adott $f: I\to R$, ahol $I\subset R$. Az $F: I\to R$ függvény $f$ primitívfü
 $$F'(x)=f(x)\quad\quad\forall x\in I.$$
 ### Határozatlan integrál[^4]
 A primitív függvények halmaza a határozatlan integrál.
-$$\int{f(x)dx=\{H: I\implies R\quad|\quad H'(x)= f(x)\}}=\{F+x: c\in R\},$$
+$$\int{f(x)dx=\{H: I\implies R\quad|\quad H'(x)= f(x)\}}=\{F+c: c\in R\},$$
 ahol $F: I\implies R$ tetszőleges primitív függvény.
 
 [^1]: [[Analízis 1. (2023).pdf#page=130|Analízis 1. Jegyzet 124. oldal]]
 [^2]: [[Analízis 1. (2023).pdf#page=127|Analízis 1. Jegyzet 121. oldal]]
-
+[^3]: [[Analízis 1. (2023).pdf#page=134|Analízis 1. Jegyzet 128. oldal]]
+[^4]: [[Analízis 1. (2023).pdf#page=135|Analízis 1. Jegyzet 129. oldal]]

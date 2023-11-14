@@ -25,9 +25,8 @@ valtozonev_in.close(); /* Fájl bezárása */
 - léteznie kell a beolvasandó fájloknak
 ### Egész sor beolvasása
 ```cpp
-readline(valtozonev_in, variable);
+getline(valtozonev_in, variable);
 ```
 - használható a terminálon is
-
 #todo 
 ws
