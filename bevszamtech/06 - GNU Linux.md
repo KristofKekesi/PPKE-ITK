@@ -25,6 +25,7 @@ Közvetlen kapcsolat a hardware-rel. Kezeli a
 GNU + Linux -> GNU/Linux -> Linux
 ![](https://upload.wikimedia.org/wikipedia/commons/1/1b/Linux_Distribution_Timeline.svg)
 ## Fájl struktúra
+#todo
 ```
 . \
 |__ bin
@@ -32,5 +33,12 @@ GNU + Linux -> GNU/Linux -> Linux
 |__ temp
 ```
 ### Abszolút elérési út
+#todo
 ### Relatív elérési út
 #todo 
+## Alap parancsok
+- copy
+- man
+- mkdir
+- rmdir
+- cd

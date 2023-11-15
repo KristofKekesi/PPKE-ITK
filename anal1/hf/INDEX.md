@@ -9,3 +9,5 @@ Típus: Házi feladatok
 [[03 HF (Hétfő).pdf]]
 [[03 HF (Péntek).pdf]]
 [[04 HF.pdf]]
+[[05 HF.png]]
+[[05 HF.pdf]]

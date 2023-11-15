@@ -10,6 +10,7 @@ Szemeszter: 2023 Szept. - Dec.
 4. [[bevszamtech/eloadasok/04.pdf| Adattárolás, adatkommunikáció]]
 5. [[bevszamtech/eloadasok/05.pdf|LaTeX]]
 6. [[bevszamtech/eloadasok/06.pdf|LaTeX és GNU Linux]]
+7. [[bevszamtech/eloadasok/07.pdf|Linux]]
 # Jegyzeteim
 1. [[01 -  A számítástechnika gyökerei|A számítástechnika gyökerei]]
 2. [[02 -  Adatábrázolás és logikai áramkörök|Adatábrázolás és logikai áramkörök]]

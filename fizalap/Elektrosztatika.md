@@ -13,11 +13,11 @@ $$|C|=\frac{|Q|}{|U|}=\frac{C}{V}=F\quad\text{(Farád)}$$
 Munkára való képesség.
 
 ## Feszültség
-[[fizalap/Alapok|Potenciál]]különbség két pont között.
+[[#Potenciál|Potenciál]]különbség két pont között.
 A feszültség mértékegysége.
 $$|U|=\frac{J}{C}=V \quad\text(Volt)$$
 ## Ekvipotenciál
-Ekvipotenciálon belül bármelyik két pont között a [[Alapok#Feszültség|feszültség]] nulla.
+Ekvipotenciálon belül bármelyik két pont között a [[#Feszültség|feszültség]] nulla.
 ## Elektromos ellenállás
 #### Kiszámítása
 Ohm törvénye. Elektromos ellenállás áramerősség és feszültség alapján.

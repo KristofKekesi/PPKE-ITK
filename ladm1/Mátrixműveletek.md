@@ -1,3 +1,7 @@
+Felbontási tétel térben
+Lineárisan független 3 vektor
+Lineárisan összefüggő 3 vektor
+Sík normálvektoros egyenlete
 ## Szakasz
 ## Vektor
 ### Nullvektor

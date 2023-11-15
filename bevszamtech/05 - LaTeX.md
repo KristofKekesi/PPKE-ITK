@@ -65,9 +65,16 @@ Hasznos editor: [Tablesgenerator](https://www.tablesgenerator.com)
 	szöveg & szöveg
 \end{tabular}
 ```
-# Hivatkozás
--biblatex
-#todo
+# Hivatkozások (biblatex)
+```LaTeX
+% Preambulum
+\usepackage[style = ieee]{biblatex} \addbibresource{hivatkozasok.bib}
+
+\cite{hivatkozás}
+
+% Hivatkozás megjelenítése alul
+\printbibliography
+```
 # Hasznos dokumentumok
 - [[Csárdi Gábor - LaTeX nem túl röviden.pdf]]
 - [[LaTeX puska.pdf]]

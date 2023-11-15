@@ -28,5 +28,12 @@ valtozonev_in.close(); /* Fájl bezárása */
 getline(valtozonev_in, variable);
 ```
 - használható a terminálon is
-#todo 
-ws
+```cpp
+getline(cin, variable);
+```
+### Whitespace (ws)
+Megszabadul a feles karakterektől
+```cpp
+// a,          b => a, b
+getline(cin, a >> ws >> b)
+```
