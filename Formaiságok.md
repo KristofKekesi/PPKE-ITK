@@ -31,3 +31,7 @@ A tárgy rövidített neve (pl.: fizalap).
 	- INDEX.md (jellegtől függően kötelező)
 
 
+
+
+# [[BACKLOG.canvas|BACKLOG]]
+Itt van lejegyezve mit kell módosítanom a repón.
