@@ -22,6 +22,7 @@ Szemeszter: 2023 Szept. - Dec.
 - [[1. ZH segédlet (2023).pdf]]
 - [[2. ZH összefoglaló (2016).pdf]]
 - [[2. Zárthelyi (2020).pdf]]
+- [[Bash Shell.pdf]]
 # Számonkérések
 A tárgyat az előadások első 5 percében kérik számon, ezt egy kisZH formájában. Ezeken 0 és 2 pont közötti eredményeket lehet elérni. Az aláírás feltételét képezni a katalógus, és hogy leosztva minden kisZH-ra jusson minimum egy pontod.
 ### 4. kisZH

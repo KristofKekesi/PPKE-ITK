@@ -6,7 +6,7 @@ $$(f+g)'=f'+g'$$
 $$(f\cdot g)'=f'\cdot g+f\cdot g'$$
 $$(\frac{f}{g})'=\frac{f'\cdot g-f\cdot g'}{g^2}$$
 $$(f\circ g)'=f'(g(x))\cdot g'(x)$$
-## Kifejezések deriválása
+## Elemi függvények deriválása
 $$(x^a)'=ax^{a-1}\quad\quad\text{Ezért:}$$
 $$x'=1$$
 $$cf'=c\cdot f'$$
@@ -18,4 +18,8 @@ $$(\tan x)'=\frac{1}{\cos^2x}$$$$(\log_ax)'=\frac{1}{x\cdot\ln a}\quad\quad\text
 $$(\ln x)'=\frac{1}{x}$$
 ## Deriválós feladatok:
 - [[04 HF.pdf]]
-- [[Deriválás feladatsor.pdf]]
+- [[Deriválás feladatsor 1.pdf]]
+- [[Deriválás feladatsor 2.pdf]]
+## Elemi függvények deriváltja
+Szili László féle derivált táblázat.
+![[Deriválás.pdf]]

@@ -7,6 +7,8 @@ Ez a repo a jegyzeteimet (illetve felsőbb évesektől örökölt anyagokat) tar
 - [A Tanulmányi Osztály oldala](https://info.itk.ppke.hu)
 - [[Beléptető]]
 - [[Animátor közösség]]
+- [[Szerverek]]
+- 
 # Utalások, csatolások
 A jegyzetekben utalások vannak könyvekre, ezek:
 - Emelt Szintű Érettségi Kidolgozott Szóbeli Tételek Matematika 2023 (Corvina kiadó) ISBN 978 963 13 6896 3, mint Érettségi Tételek

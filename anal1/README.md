@@ -31,7 +31,7 @@ Gyakorlatvezető: Várdainé Kollár Judit
 # Feladatsorok
 - [[anal1/hf/INDEX|Házi feladatok]]
 - [[Példatár.pdf|Példatár]]
-- [[Deriválás feladatsor.pdf|Deriválás feladatsor]]
+- [[Deriválás feladatsor 1.pdf|Deriválás feladatsor]]
 # Hasznos dokumentumok
 - [[Határérték.pdf]]
 - [[Integrálás.pdf]]

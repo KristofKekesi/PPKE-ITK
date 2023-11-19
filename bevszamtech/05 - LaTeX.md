@@ -7,7 +7,7 @@ Dátum: 2023 Okt. 25.
 A LaTeX dokumentum `\begin{document}` előtti része. Általában globális paramétereit tudjuk beállítani.
 Példa a preambulumra:
 ```latex
-\documentclass[a4paper]{article}
+\documentclass[a4paper]{article} %méretarány
 \usepackage[utf8]{inputenc} \usepackage[magyar]{babel} \usepackage{amsmath} %matematikai modul
 \usepackage[pdftex,unicode,raiselinks,colorlinks]{hyperref} %működő linkek
 \usepackage[magyar]{babel} %magyar nyelv beállítása

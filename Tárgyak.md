@@ -9,7 +9,7 @@
 |[[fizalap/README\|Fizikai alapismeretek]]|2||1. félév|
 |[[anal1/README\|Matematikai analízis 1]]|4|[[Tárgyak#Dr. Gerencsérné Dr. Vágó Zsuzsanna Márta\|Dr. Gerencsérné Dr. Vágó Zsuzsanna Márta]] (előadó),<br />[[Tárgyak#Várdainé Kollár Judit\|Várdainé Kollár Judit]] (gyakorlatvezető)|1. félév|
 |[[bevprog1/README\|Bevezetés a programozásba 1]]|4||1. félév|
-|A fizika kultúrtörténete|2|[[Tárgyak#Dr. Csurgay Árpád Istvánné\|Dr. Csurgay Árpád Istvánné]] (előadó)|1. félév|
+|[[fizkult/README\|A fizika kultúrtörténete]]|2|[[Tárgyak#Dr. Csurgay Árpád Istvánné\|Dr. Csurgay Árpád Istvánné]] (előadó)|1. félév|
 |[[bevszamtech/README\|Bevezetés a számítástechnikába]]|2|[[Tárgyak#Naszlady Márton Bese\|Naszlady Márton Bese]] (előadó és gyakorlatvezető)|1. félév|
 |Bevezetés a kereszténységbe|2|[[Tárgyak#Kunszabó Zoltán\|Kunszabó Zoltán]] (előadó)|1. félév|
 # Tanárok

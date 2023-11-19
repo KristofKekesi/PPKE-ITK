@@ -25,20 +25,112 @@ Közvetlen kapcsolat a hardware-rel. Kezeli a
 GNU + Linux -> GNU/Linux -> Linux
 ![](https://upload.wikimedia.org/wikipedia/commons/1/1b/Linux_Distribution_Timeline.svg)
 ## Fájl struktúra
-#todo
 ```
-. \
-|__ bin
-|__ home
-|__ temp
+. /
+|__ bin/
+|__ etc/
+|__ opt/
+|__ tmp/
+|__ usr/
+	|__ bin/
+	|__ man/
+	|__ lib/
+	|__ local/
+	|__ share/
+|__ var/
+	|__ log/
+	|__ tmp/
+	|__ lock/
+|__ home/
+|__ temp/
 ```
 ### Abszolút elérési út
-#todo
+Elérési út a gyökérből kezdődően.
+```
+/home/kekkr/public_html/
+```
 ### Relatív elérési út
-#todo 
+A jelenlegi "working directory"-ból kezdődően az elérési út.
+- Jelenlegi mappa: `./`
+- Visszalépés: `../`
+```
+../../fish.txt
+```
+## Jogosultságok
+Öröklődnek a fa struktúrában a jogosultságok.
+- Olvasás (r)
+- Írás (w)
+- Futtatás (x)
+### Csoportok
+Minden 
+- Tulajdonos: akié az adott fájl
+- Csoport: amelyik csoporthoz tartozik a fájl
+- Más: e fentiek közül egyik se
+```c
+drwxrwxrwx
+- típus
+	- l: link
+	- d: mappa
+	- -: fájl
+ --- tulajdonos jogosultságai
+    --- csoport jogosultságai
+       --- más jogosultságai
+```
+## Linkek
+### Hard link
+- Meghajtón lévő adatra mutat
+### Soft link
+- [[#Hard link]]re mutat
+## Csatlakozás szerverhez
+[[SSH segédlet.pdf]]
+[[Szerverek]]
 ## Alap parancsok
-- copy
-- man
-- mkdir
-- rmdir
-- cd
+### Copy (`cp`)
+```shell
+cp honnan hova
+```
+### Manual (`man`)
+```shell
+man parancs_neve
+```
+### Make directory (`mkdir`)
+```shell
+mkdir uj_mappa_neve
+```
+### Remove directory (`rmdir`)
+```shell
+rmdir mappa_neve
+```
+### Change directory (`cd`)
+```shell
+cd eleresi_ut
+```
+### Print working directory (`pwd`)
+```shell
+pwd
+```
+### Jogosultság lekérdezése
+```shell
+ls -l
+```
+- Itt sorba látjuk a fájlokat, vele együtt a jogosultságokat.
+### Jogosultság módosítása (`chmod`)
+```shell
+chmod 777
+```
+- Első számjegy: Tulajdonos
+- Második számjegy: Csoport
+- Harmadik számjegy: Más
+### Link készítése
+```shell
+ln -s eleresi_ut
+```
+## Összetett műveletek
+### Joker karakterek
+- `*`: Bármennyi bármilyen karakterrel helyettesíthető
+- `?`: Kérdőjelenként bármilyen karakterrel helyettesíthető
+- `[a,b,c]`: A zárójelen belülről bármelyik karakterrel helyettesíthető
+```shell
+ls *.txt
+find -name "???"
+```

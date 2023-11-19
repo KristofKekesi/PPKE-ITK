@@ -27,6 +27,8 @@ $$F'(x)=f(x)\quad\quad\forall x\in I.$$
 A primitív függvények halmaza a határozatlan integrál.
 $$\int{f(x)dx=\{H: I\implies R\quad|\quad H'(x)= f(x)\}}=\{F+c: c\in R\},$$
 ahol $F: I\implies R$ tetszőleges primitív függvény.
+**Informálisan**:
+$$\frac{dF(x)}{dx}=f(x)\quad\quad\Rightarrow\quad\quad dF(x)=f(x)dx$$
 
 [^1]: [[Analízis 1. (2023).pdf#page=130|Analízis 1. Jegyzet 124. oldal]]
 [^2]: [[Analízis 1. (2023).pdf#page=127|Analízis 1. Jegyzet 121. oldal]]
