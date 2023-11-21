@@ -4,21 +4,54 @@
     "type": "split",
     "children": [
       {
-        "id": "71df27d7a603e571",
+        "id": "90d558a03ba414ea",
         "type": "tabs",
         "children": [
           {
-            "id": "a27458b3da18d18e",
+            "id": "b13b0b2211538123",
             "type": "leaf",
             "pinned": true,
             "state": {
-              "type": "graph",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "anal1/08 - Integrálás 1..md",
+                "mode": "source",
+                "source": false
+              },
               "pinned": true
             }
           },
           {
-            "id": "c4ec4dbfde478649",
+            "id": "ddc9f454ad025031",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "anal1/09 - Integrálás 2..md",
+                "mode": "preview",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "68d5ba1df56abc1e",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 2
+      },
+      {
+        "id": "68d4b4f2300e29c3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5379aa56e723f326",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -28,69 +61,8 @@
               },
               "pinned": true
             }
-          },
-          {
-            "id": "534d1dc6929d21fc",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "fizalap/Alapok.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "8a55e5587078b641",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "fizalap/Fizika összefoglaló (2023).pdf"
-              }
-            }
-          },
-          {
-            "id": "f9ced0e163973376",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "fizalap/gyak/01 Gyakorlat.pdf"
-              }
-            }
-          },
-          {
-            "id": "a961c982171364ae",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "anal1/04 - Függvények 2..md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e5bfe9ce469849b1",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "anal1/05 -.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true
-            }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "vertical"
@@ -136,7 +108,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -156,7 +129,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "anal1/04 - Függvények 2..md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,7 +145,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "anal1/04 - Függvények 2..md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -195,12 +166,11 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "anal1/04 - Függvények 2..md"
-              }
+              "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -214,47 +184,53 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "a961c982171364ae",
+  "active": "68d5ba1df56abc1e",
   "lastOpenFiles": [
-    "anal1/04 - Függvények 2..md",
-    "anal1/Analízis 1. (2023).pdf",
-    "fizalap/gyak/01 Gyakorlat megoldás.md",
-    "fizalap/Alapok.md",
-    "fizalap/Fizika összefoglaló (2023).pdf",
-    "fizalap/gyak/01 Gyakorlat.pdf",
-    "anal1/05 -.md",
-    "fizalap/README.md",
-    "Formaiságok.md",
+    "anal1/09 - Integrálás 2..md",
     "anal1/README.md",
-    "anal1/03 - Számsorozatok 2. és Függvények 1..md",
-    "Untitled",
-    "anal1/01 - Valós számok bevezetése.md",
-    "anal1/02 - Számsorozatok 1..md",
-    "bevszamtech/02 -  Adatábrázolás és logikai áramkörök.md",
     "README.md",
+    "matalap/Jelölések.md",
     "ladm1/Gauss Elimináció.md",
-    "ladm1/README.md",
+    "anal1/08 - Integrálás 1..md",
+    "anal1/Analízis 1. (2023).pdf",
+    "bevszamtech/eloadasok/06.pdf",
+    "bevszamtech/eloadasok/07.pdf",
+    "bevszamtech/eloadasok/08.pdf",
+    "BACKLOG.canvas",
     "ladm1/Nulladrendű logika.md",
-    "bevszamtech/05 - LaTeX.md",
-    "ladm1/DM Tankonyv.pdf",
-    "ladm1/LA Tankonyv.pdf",
-    "bevprog1/ZH Gyakorlások.md",
-    "bevprog1/README.md",
-    "bevprog1/04 - Sorozatok, fájlok.md",
-    "bevszamtech/04 - Adattárolás és adatkommunikáció.md",
-    "bevszamtech/03 - Számító rendszerek.md",
-    "bevprog1/03 - Algoritmusok, tételek.md",
-    "bevprog1/02 - Elágazás, Ciklus.md",
+    "ladm1/Matematikai Logika.pdf",
+    "anal1/07 - Függvények 5..md",
+    "bevprog1/cpp olvasás.md",
+    "Tárgyak.md",
+    "Szerverek.md",
+    "Beléptető.md",
+    "Animátor közösség.md",
+    "matalap/README.md",
+    "ladm1/Mátrixműveletek.md",
+    "kozgaz/README.md",
+    "fizkult/README.md",
+    "fizalap/README.md",
+    "fizalap/Elektrosztatika.md",
     "bevszamtech/README.md",
-    "ladm1/gyak/09 Gyakorlat.pdf",
-    "ladm1/gyak/07-08 Gyakorlat.pdf",
-    "bevprog1/05 - Tömbök, számábrázolás.md",
+    "bevszamtech/06 - GNU Linux.md",
+    "bevszamtech/05 - LaTeX.md",
+    "bevprog1/cpp kódok.md",
+    "anal1/Integrálás.md",
+    "anal1/Deriválás.md",
+    "fizkult/Kékesi Kristóf (2023) - Az univerzum múltja, jövője, kulturálisan és tudományosan.pdf",
+    "fizkult/Az univerzum múltja, jövője, kultúrálisan és tudományosan.zip",
+    "fizkult/forráskód",
+    "fizkult/Juhász Kinga (2019) - Az idő felfogása az évszázadok során.pdf",
+    "bevszamtech/eloadasok/05.pdf",
+    "anal1/hf/05 HF.png",
+    "ladm1/segítő dokumentumok/Gauss Elimináció.png",
+    "fizalap/hf/Relation.canvas",
+    "fizalap/hf/04.canvas",
     "matalap/Hatványozás.png",
-    "matalap/Exponenciális és logaritmusos feladatok.pdf",
-    "matalap/Egyenletek, egyenlőtlenségek.pdf",
     "bevszamtech/HalfAdder.jpeg",
     "bevszamtech/FullAdder.jpeg",
     "szamtech/FullAdder.jpeg"

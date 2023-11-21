@@ -3,28 +3,33 @@ aliases:
   - Gauss-Jordan Elimináció
 ---
 # Vektorok (előismeret)
-- Független vektorok: amennyiben nem párhuzamosak.
-- Összefüggő vektorok: amennyiben párhuzamosak.
+- Független vektorok: 
+	- 2 vektor esetén: amennyiben nem párhuzamosak,
+	- 3 vektor esetén: amennyiben nem egysíkúak,
+	- 4 vektor esetén: amennyiben nem egyhipersíkúak.
+- Összefüggő vektorok: amennyiben nem függetlenek.
+	- Ha több sor van mint oszlop.
 # Gauss-Jordan Elimináció [^1]
 Egyenletrendszer megoldása mátrix alakú felírása alapján.
-- Oszlopokat felcserélhetünk, ==sorokat nem==
+- ==Sorokat nem cserélhetünk fel==, oszlopokat igen
 [Mátrix számológép (Gauss elimináció megoldásához)](https://matrixcalc.org/slu.html)
 ## Vezérelem [^2]
 Minden sorban és oszlopban kiválaszthatunk egy (nem nulla) számot.
 ## Rang [^2]
 [[#Vezérelem [ 2]|Vezérelem]]ek száma a megoldásvektoron kívűl, az együttható ($A$) oldaláról.
 - Ez adja meg a képtér dimenzióját
+- jele: $\text{rang}(A)$
 ## Bővített mátrix rangja
 A [[#Vezérelem [ 2]|vezérelem]]ekek száma mindkét, az együttható oldaláról és a megoldásvektor oldaláról is.
-- Jele: $(A|b)$
+- Jele: $\text{rang}(A|b)$
 ## Szabadsági fok [^4]
 Más néven a magtér dimenziója. A szabad változók ([[#vezérelem [ 2]|vezérelem]]mel nem rendelkező oszlopok) száma.
 ## Nullsor [^3]
 Olyan sor a mátrixban, ahol minden szám nulla. (még a megoldáshalmazban is).
-- ===Jelentése: voltak benne összefüggő vektorok.==
+- Ha azonos az oszlopok száma és a sorok száma azonos, ===jelentése: voltak benne összefüggő vektorok==
 ## Tilos sor [^4]
 Olyan sor ahol az együttható oldalán ($A$) csak nullák vannak, míg a megoldáshalmaz ($b$) nem nulla.
-- ==Jelentése: nem lesz megoldása az egyenlet rendszernek.==
+- ==Jelentése: nem lesz megoldása az egyenletrendszernek.==
 ## Homogén egyenletrendszer
 Ha a megoldásvektor ($b$) nulla, homogén egyenletrendszerről beszélünk.
 - ==Jelentése: mindig lesz legalább egy megoldása. Ez a triviális megoldás, a nulla.==

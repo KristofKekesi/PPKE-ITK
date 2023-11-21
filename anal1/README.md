@@ -23,6 +23,8 @@ Gyakorlatvezető: Várdainé Kollár Judit
 5. [[05 - Függvények 3.|Függvények 3.]]
 6. [[06 - Függvények 4.|Függvények 4.]]
 7. [[07 - Függvények 5.|Függvények 5.]]
+8. [[08 - Integrálás 1.|Integrálás 1.]]
+9. [[09 - Integrálás 2.|Integrálás 2.]]
 - [[Deriválás]]
 - [[Integrálás]]
 # Analízis Jegyzet
