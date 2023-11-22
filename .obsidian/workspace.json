@@ -16,8 +16,21 @@
               "state": {},
               "pinned": true
             }
+          },
+          {
+            "id": "b81bd12454ea3205",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02/bevmeres/README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -83,6 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "02/bevmeres/README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,6 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "02/bevmeres/README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -120,7 +135,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "02/bevmeres/README.md"
+              }
             }
           }
         ],
@@ -142,9 +159,16 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "33cba85853f48d61",
+  "active": "b81bd12454ea3205",
   "lastOpenFiles": [
+    "02/bevmeres/Paulicsek Ádám (2021) - Mikrokontroller 1.pdf",
+    "02/bevmeres/Paulicsek Ádám (2021) - Mikrokontroller 2.pdf",
     "02/bevmeres/README.md",
+    "02/bevmeres/Paulicsek Ádám (2021) - GPS mérés.pdf",
+    "02/bevmeres/Típushibák.pdf",
+    "01/anal1/Deriválás feladatsor 1.pdf",
+    "01/anal1/Deriválás.md",
+    "01/anal1/Deriválás.pdf",
     "README.md",
     "Licenszek.md",
     "02/bevmeres/Nagy Dániel (2019) - Méter mérés.pdf",
@@ -152,12 +176,6 @@
     "02/bevmatlab/README.md",
     "02/bevmatlab/matlab.pdf",
     "02/bevmeres/Pákozdi Gergely (2019) - Méter mérés.pdf",
-    "02/bevmeres/Juhász Kinga (2020) - Méter mérés.pdf",
-    "02/bevmeres/Heiszman Henrik - RFID, NFC.pdf",
-    "02/bevmeres/Heiszman Henrik - LabVIEW 1.pdf",
-    "02/bevmeres/Heiszman Henrik - LabVIEW 2.pdf",
-    "02/bevmeres/Radványi Zita (2023) - Feszültségosztó.pdf",
-    "02/bevmeres/Heiszman Henrik - Méter mérés.pdf",
     "01/anal1/01 - Valós számok bevezetése.md",
     "BACKLOG.canvas",
     "01/ladm1/Mátrixműveletek.md",
@@ -179,8 +197,6 @@
     "01/bevszamtech/Bevezetés a Számítástechnikába.md",
     "01/anal1/Matematikai Analízis 1.md",
     "01/ladm1/Gauss Elimináció.md",
-    "01/ladm1/Nulladrendű logika.md",
-    "01/anal1/07 - Függvények 5..md",
     "01/anal1/hf/05 HF.png",
     "01/ladm1/segítő dokumentumok/Gauss Elimináció.png",
     "fizalap/hf/Relation.canvas",

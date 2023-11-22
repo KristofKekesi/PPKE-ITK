@@ -4,8 +4,8 @@
 ## Műveletek deriválása
 $$(f+g)'=f'+g'$$
 $$(f\cdot g)'=f'\cdot g+f\cdot g'$$
-$$(\frac{f}{g})'=\frac{f'\cdot g-f\cdot g'}{g^2}$$
-$$(f\circ g)'=f'(g(x))\cdot g'(x)$$
+$$\bigg(\frac{f}{g}\bigg)'=\frac{f'\cdot g-f\cdot g'}{g^2}$$
+$$(f\circ g)'=f'\big(g(x)\big)\cdot g'(x)$$
 ## Elemi függvények deriválása
 $$(x^a)'=ax^{a-1}\quad\quad\text{Ezért:}$$
 $$x'=1$$

@@ -8,10 +8,13 @@
 [[Heiszman Henrik - LabVIEW 2.pdf]]
 ###### GPS
 [[Radványi Zita (2023) - GPS mérés.pdf]]
+[[Paulicsek Ádám (2021) - GPS mérés.pdf]]
 [[Heiszman Henrik - GPS mérés.pdf]]
 ###### Mikrokontroller
 [[Radványi Zita (2023) - Mikrokontroller 1.pdf]]
 [[Radványi Zita (2023) - Mikrokontroller 2.pdf]]
+[[Paulicsek Ádám (2021) - Mikrokontroller 1.pdf]]
+[[Paulicsek Ádám (2021) - Mikrokontroller 2.pdf]]
 ###### Méter mérés
 [[Juhász Kinga (2020) - Méter mérés.pdf]]
 [[Kiss Réka (2019) - Méter mérés.pdf]]
