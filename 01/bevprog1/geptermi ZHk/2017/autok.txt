@@ -1,0 +1,9 @@
+Opel;DUJ-357;65
+Mazda;SMP-252;70
+Ford;AND-289;69
+Jeep;QXY-489;89
+Chevrolet;LET-860;101
+Audi;IOO-001;99
+BMW;BTJ-536;85
+Renault;PJE-264;72
+

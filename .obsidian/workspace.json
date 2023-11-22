@@ -4,61 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "90d558a03ba414ea",
+        "id": "2e8d03d28a357d39",
         "type": "tabs",
         "children": [
           {
-            "id": "b13b0b2211538123",
+            "id": "33cba85853f48d61",
             "type": "leaf",
             "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "anal1/08 - Integrálás 1..md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "ddc9f454ad025031",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "anal1/09 - Integrálás 2..md",
-                "mode": "preview",
-                "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "68d5ba1df56abc1e",
-            "type": "leaf",
             "state": {
               "type": "graph",
-              "state": {}
-            }
-          }
-        ],
-        "currentTab": 2
-      },
-      {
-        "id": "68d4b4f2300e29c3",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "5379aa56e723f326",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "anal1/Analízis 1. (2023).pdf"
-              },
+              "state": {},
               "pinned": true
             }
           }
@@ -108,8 +63,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -188,51 +142,52 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "68d5ba1df56abc1e",
+  "active": "33cba85853f48d61",
   "lastOpenFiles": [
-    "anal1/09 - Integrálás 2..md",
-    "anal1/README.md",
+    "02/bevmeres/README.md",
     "README.md",
-    "matalap/Jelölések.md",
-    "ladm1/Gauss Elimináció.md",
-    "anal1/08 - Integrálás 1..md",
-    "anal1/Analízis 1. (2023).pdf",
-    "bevszamtech/eloadasok/06.pdf",
-    "bevszamtech/eloadasok/07.pdf",
-    "bevszamtech/eloadasok/08.pdf",
+    "Licenszek.md",
+    "02/bevmeres/Nagy Dániel (2019) - Méter mérés.pdf",
+    "02/bevmeres/Kiss Réka (2019) - Méter mérés.pdf",
+    "02/bevmatlab/README.md",
+    "02/bevmatlab/matlab.pdf",
+    "02/bevmeres/Pákozdi Gergely (2019) - Méter mérés.pdf",
+    "02/bevmeres/Juhász Kinga (2020) - Méter mérés.pdf",
+    "02/bevmeres/Heiszman Henrik - RFID, NFC.pdf",
+    "02/bevmeres/Heiszman Henrik - LabVIEW 1.pdf",
+    "02/bevmeres/Heiszman Henrik - LabVIEW 2.pdf",
+    "02/bevmeres/Radványi Zita (2023) - Feszültségosztó.pdf",
+    "02/bevmeres/Heiszman Henrik - Méter mérés.pdf",
+    "01/anal1/01 - Valós számok bevezetése.md",
     "BACKLOG.canvas",
-    "ladm1/Nulladrendű logika.md",
-    "ladm1/Matematikai Logika.pdf",
-    "anal1/07 - Függvények 5..md",
-    "bevprog1/cpp olvasás.md",
+    "01/ladm1/Mátrixműveletek.md",
+    "01/bevszamtech/02 -  Adatábrázolás és logikai áramkörök.md",
+    "01/bevszamtech/08 Shell.md",
+    "01/bevszamtech/06 - GNU Linux.md",
+    "01/bevprog1/geptermi ZHk/ZH feladatok.md",
+    "01/bevprog1/ZH Gyakorlások.md",
     "Tárgyak.md",
-    "Szerverek.md",
-    "Beléptető.md",
-    "Animátor közösség.md",
-    "matalap/README.md",
-    "ladm1/Mátrixműveletek.md",
-    "kozgaz/README.md",
-    "fizkult/README.md",
-    "fizalap/README.md",
-    "fizalap/Elektrosztatika.md",
-    "bevszamtech/README.md",
-    "bevszamtech/06 - GNU Linux.md",
-    "bevszamtech/05 - LaTeX.md",
-    "bevprog1/cpp kódok.md",
-    "anal1/Integrálás.md",
-    "anal1/Deriválás.md",
-    "fizkult/Kékesi Kristóf (2023) - Az univerzum múltja, jövője, kulturálisan és tudományosan.pdf",
-    "fizkult/Az univerzum múltja, jövője, kultúrálisan és tudományosan.zip",
-    "fizkult/forráskód",
-    "fizkult/Juhász Kinga (2019) - Az idő felfogása az évszázadok során.pdf",
-    "bevszamtech/eloadasok/05.pdf",
-    "anal1/hf/05 HF.png",
-    "ladm1/segítő dokumentumok/Gauss Elimináció.png",
+    "01/kozgaz/A közgazdaságtan alapjai.md",
+    "01/fizkult/A fizika kulturtörténete.md",
+    "01/bevprog1/Bevezetés a Programozásba 1.md",
+    "01/anal1/08 - Integrálás 1..md",
+    "01/anal1/09 - Integrálás 2..md",
+    "01/matalap/Matematikai Alapismeretek.md",
+    "01/matalap/Jelölések.md",
+    "01/ladm1/Lineáris Algebra és Diszkrét Matematika.md",
+    "01/fizalap/Fizikai Alapismeretek.md",
+    "01/bevszamtech/Bevezetés a Számítástechnikába.md",
+    "01/anal1/Matematikai Analízis 1.md",
+    "01/ladm1/Gauss Elimináció.md",
+    "01/ladm1/Nulladrendű logika.md",
+    "01/anal1/07 - Függvények 5..md",
+    "01/anal1/hf/05 HF.png",
+    "01/ladm1/segítő dokumentumok/Gauss Elimináció.png",
     "fizalap/hf/Relation.canvas",
     "fizalap/hf/04.canvas",
-    "matalap/Hatványozás.png",
-    "bevszamtech/HalfAdder.jpeg",
-    "bevszamtech/FullAdder.jpeg",
+    "01/matalap/Hatványozás.png",
+    "01/bevszamtech/HalfAdder.jpeg",
+    "01/bevszamtech/FullAdder.jpeg",
     "szamtech/FullAdder.jpeg"
   ]
 }

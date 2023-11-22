@@ -9,7 +9,7 @@ Ez a repo a jegyzeteimet (illetve felsőbb évesektől örökölt anyagokat) tar
 - [[Beléptető]]
 - [[Animátor közösség]]
 - [[Szerverek]]
-- 
+- [[Licenszek]]
 # Utalások, csatolások
 A jegyzetekben utalások vannak könyvekre, ezek:
 - Emelt Szintű Érettségi Kidolgozott Szóbeli Tételek Matematika 2023 (Corvina kiadó) ISBN 978 963 13 6896 3, mint Érettségi Tételek
