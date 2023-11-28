@@ -140,13 +140,13 @@ A második sorban igazak a feltételek, itt igaz a következmény is.
 Minden sorban amiben a feltételek igazak igaz a következmény is.
 # Feladatok
 - [[LA Feladatgyujtemeny.pdf#page=11|Lineáris Algebra Feladatgyűjtemény 11. oldal.]]
-- [[06 Gyakorlat.pdf|06 Gyakorlat feladatsor]]
-- [[07-08 Gyakorlat.pdf|07-08 Gyakorlat feladatsor]]
-- [[09 Gyakorlat.pdf|09 Gyakorlat feladatsor]]
+- [[06 Nulladrendű logika.pdf|06 Gyakorlat feladatsor]]
+- [[07-08 Rezolúció.pdf|07-08 Gyakorlat feladatsor]]
+- [[09 Következmény és Rezolúció.pdf|09 Gyakorlat feladatsor]]
 ### Megoldások
-- [[06 Gyakorlat Megoldás.pdf|06 Gyakorlat feladatsor megoldás]]
-- [[07-08 Gyakorlat Megoldás.pdf|07-08 Gyakorlat feladatsor megoldás]]
-- [[09 Gyakorlat Megoldás.pdf|09 Gyakorlat feladatsor megoldás]]
+- [[06 Megoldás.pdf|06 Gyakorlat feladatsor megoldás]]
+- [[07-08 Megoldás.pdf|07-08 Gyakorlat feladatsor megoldás]]
+- [[09 Megoldás.pdf|09 Gyakorlat feladatsor megoldás]]
 # Hasznos dokumentumok
 - [[Matematikai Logika.pdf]]
 

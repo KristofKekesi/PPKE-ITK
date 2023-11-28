@@ -4,33 +4,95 @@
     "type": "split",
     "children": [
       {
-        "id": "2e8d03d28a357d39",
+        "id": "c845383f33d41f68",
         "type": "tabs",
+        "dimension": 56.02134146341463,
         "children": [
           {
-            "id": "33cba85853f48d61",
+            "id": "71bae21e3ce66e3e",
             "type": "leaf",
             "pinned": true,
             "state": {
-              "type": "graph",
-              "state": {},
+              "type": "pdf",
+              "state": {
+                "file": "01/anal1/hf/06 HF.pdf"
+              },
               "pinned": true
             }
           },
           {
-            "id": "b81bd12454ea3205",
+            "id": "11174cc5ba599a45",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02/bevmeres/README.md",
+                "file": "01/anal1/Integrálás.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "6b9a34efa6b529b7",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "01/anal1/Példatár.pdf"
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "1cefc0ce8ceff427",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "01/anal1/Deriválás.pdf"
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "a67e6099af0afaa8",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01/anal1/11 - Differenciál egyenletek.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
+      },
+      {
+        "id": "e8cda3ce4b230dc3",
+        "type": "tabs",
+        "dimension": 43.978658536585364,
+        "children": [
+          {
+            "id": "22e837688f2ffc5c",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "01/anal1/Analízis 1. (2023).pdf"
+              },
+              "pinned": true
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -96,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02/bevmeres/README.md",
+                "file": "01/anal1/05 - Függvények 3..md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02/bevmeres/README.md",
+                "file": "01/anal1/05 - Függvények 3..md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02/bevmeres/README.md"
+                "file": "01/anal1/05 - Függvények 3..md"
               }
             }
           }
@@ -159,46 +221,84 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "b81bd12454ea3205",
+  "floating": {
+    "id": "7d216382723216b3",
+    "type": "floating",
+    "children": [
+      {
+        "id": "3ea755011a48b2fc",
+        "type": "window",
+        "children": [
+          {
+            "id": "70e3d92456faaf94",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "1080f5d5dfed0886",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "01/anal1/05 - Függvények 3..md",
+                    "mode": "preview",
+                    "source": false
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 306,
+        "y": 312,
+        "width": 800,
+        "height": 400,
+        "maximize": false,
+        "zoom": -0.5
+      }
+    ]
+  },
+  "active": "1080f5d5dfed0886",
   "lastOpenFiles": [
-    "02/bevmeres/Paulicsek Ádám (2021) - Mikrokontroller 1.pdf",
-    "02/bevmeres/Paulicsek Ádám (2021) - Mikrokontroller 2.pdf",
-    "02/bevmeres/README.md",
-    "02/bevmeres/Paulicsek Ádám (2021) - GPS mérés.pdf",
-    "02/bevmeres/Típushibák.pdf",
-    "01/anal1/Deriválás feladatsor 1.pdf",
-    "01/anal1/Deriválás.md",
-    "01/anal1/Deriválás.pdf",
+    "01/anal1/04 - Függvények 2..md",
+    "01/anal1/03 - Számsorozatok 2. és Függvények 1..md",
+    "01/anal1/02 - Számsorozatok 1..md",
+    "01/anal1/01 - Valós számok bevezetése.md",
+    "01/anal1/hf/INDEX.md",
+    "01/anal1/11 - Differenciál egyenletek.md",
+    "01/anal1/10 - Integrálás 3..md",
+    "Tárgyak.md",
+    "Szerverek.md",
     "README.md",
     "Licenszek.md",
-    "02/bevmeres/Nagy Dániel (2019) - Méter mérés.pdf",
-    "02/bevmeres/Kiss Réka (2019) - Méter mérés.pdf",
+    "Beléptető.md",
+    "Animátor közösség.md",
+    "02/bevmeres/README.md",
     "02/bevmatlab/README.md",
-    "02/bevmatlab/matlab.pdf",
-    "02/bevmeres/Pákozdi Gergely (2019) - Méter mérés.pdf",
-    "01/anal1/01 - Valós számok bevezetése.md",
-    "BACKLOG.canvas",
-    "01/ladm1/Mátrixműveletek.md",
-    "01/bevszamtech/02 -  Adatábrázolás és logikai áramkörök.md",
-    "01/bevszamtech/08 Shell.md",
-    "01/bevszamtech/06 - GNU Linux.md",
-    "01/bevprog1/geptermi ZHk/ZH feladatok.md",
-    "01/bevprog1/ZH Gyakorlások.md",
-    "Tárgyak.md",
-    "01/kozgaz/A közgazdaságtan alapjai.md",
-    "01/fizkult/A fizika kulturtörténete.md",
-    "01/bevprog1/Bevezetés a Programozásba 1.md",
-    "01/anal1/08 - Integrálás 1..md",
-    "01/anal1/09 - Integrálás 2..md",
+    "01/matalap/Tört átalakítások.md",
     "01/matalap/Matematikai Alapismeretek.md",
     "01/matalap/Jelölések.md",
+    "01/matalap/Görög abc.md",
+    "01/ladm1/Vektorok és Mátrixok.md",
+    "01/ladm1/Nulladrendű logika.md",
     "01/ladm1/Lineáris Algebra és Diszkrét Matematika.md",
-    "01/fizalap/Fizikai Alapismeretek.md",
-    "01/bevszamtech/Bevezetés a Számítástechnikába.md",
-    "01/anal1/Matematikai Analízis 1.md",
     "01/ladm1/Gauss Elimináció.md",
-    "01/anal1/hf/05 HF.png",
+    "01/kozgaz/A közgazdaságtan alapjai.md",
+    "01/fizkult/A fizika kulturtörténete.md",
+    "01/fizalap/Kinematika.md",
+    "01/anal1/Analízis 1. (2023).pdf",
+    "01/matalap/Hatvány, gyök,logaritmus.pdf",
+    "BACKLOG.canvas",
+    "01/ladm1/segítő dokumentumok/Adjungtált mátrix.pdf",
+    "01/ladm1/segítő dokumentumok/Diagonalizáció.pdf",
     "01/ladm1/segítő dokumentumok/Gauss Elimináció.png",
+    "01/ladm1/segítő dokumentumok/Főtengelytranszformáció.pdf",
+    "01/ladm1/LA Tankonyv.pdf",
+    "01/fizalap/A fizika alapjai.pdf",
+    "01/anal1/hf/06 HF.pdf",
+    "01/fizalap/eloadasok/10 - Félvezetők.pdf",
+    "01/anal1/Példatár.pdf",
+    "01/anal1/hf/05 HF.png",
     "fizalap/hf/Relation.canvas",
     "fizalap/hf/04.canvas",
     "01/matalap/Hatványozás.png",

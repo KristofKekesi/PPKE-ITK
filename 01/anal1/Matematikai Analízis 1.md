@@ -25,6 +25,8 @@ Gyakorlatvezető: Várdainé Kollár Judit
 7. [[07 - Függvények 5.|Függvények 5.]]
 8. [[08 - Integrálás 1.|Integrálás 1.]]
 9. [[09 - Integrálás 2.|Integrálás 2.]]
+10. [[10 - Integrálás 3.|Integrálás 3.]]
+11. [[11 - Differenciál egyenletek|Integrálás 4.]]
 - [[Deriválás]]
 - [[Integrálás]]
 # Analízis Jegyzet
@@ -61,4 +63,34 @@ A tantárgyból minden héten kisZH-t írunk gyakorlaton, az előző két előad
 ### 6. kisZH
 - [[07 - Függvények 5.#Integrálszámítás I. alaptétele[ 2]|Integrálszámítás I. alaptétele]]
 - [[07 - Függvények 5.#Primitív függvény[ 3]|Primitív függvény]]
-## 
+### 7. kisZH
+- Parciális integrálás
+### 8. kisZH
+- Integrálfüggvény
+- Differenciálegyenlet általános alakja
+# ZHk
+## 1. ZH
+**Témakörök**:
+- Teljes indukció
+- Valós számhalmazok
+- Számtani-mértani közép
+- Számsorozatok
+- Korlátosság-konvergencia
+- Határérték meghatározása
+- Az $e$ szám
+- Rekurzív sorozatok
+- Rendőr elv
+- Függvények
+	- Függvény határérték, folytonosság
+	- Nevezetes határértékek
+	- Szakadási helyek osztályozása
+	- Deriválás, a szabályok használata
+	- Érintő egyenes egyenlete
+	- Szélsőérték meghatározás
+	- Szöveges szélsőérték
+## 2. ZH
+**Témakörök**:
+- Integrálás
+- Deriválás
+- Teljes függvény vizsgálat
+- Differenciálegyenlet

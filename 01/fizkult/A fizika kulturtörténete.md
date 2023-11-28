@@ -9,3 +9,4 @@ A tárgyra kapott jegyet egy beadandó adja meg. Egy saját témát kell kidolgo
 # Pár példa már beadottakból
 - [[Kékesi Kristóf (2023) - Az univerzum múltja, jövője, kulturálisan és tudományosan.pdf|Kékesi Kristóf (2023) - Az univerzum múltja, jövője, kulturálisan és tudományosan]]
 - [[Juhász Kinga (2019) - Az idő felfogása az évszázadok során.pdf|Juhász Kinga (2019) - Az idő felfogása az évszázadok során]]
+- [[Péter Márk - Gábor Dénes.pdf|Péter Márk - Gábor Dénes]]

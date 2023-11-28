@@ -20,6 +20,9 @@ $$(\ln x)'=\frac{1}{x}$$
 - [[04 HF.pdf]]
 - [[Deriválás feladatsor 1.pdf]]
 - [[Deriválás feladatsor 2.pdf]]
+- [[Példatár.pdf#page=48|Analízis példatár 47. oldal]]
 ## Elemi függvények deriváltja
 Szili László féle derivált táblázat.
 ![[Deriválás.pdf]]
+## Ellenőrzéshez online kalkulátor
+[Derivative Calculator](https://www.derivative-calculator.net)

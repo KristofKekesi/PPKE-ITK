@@ -9,6 +9,8 @@ Típus: Házi feladatok
 [[03 Házi.pdf]]
 [[04 Házi.pdf]]
 [[05 Házi.pdf]]
+[[06 Házi.pdf]]
+[[07 Házi.pdf]]
 # Házi feladat megoldások
 [[01 Házi megoldás.pdf]]
 [[02 Házi megoldás.pdf]]

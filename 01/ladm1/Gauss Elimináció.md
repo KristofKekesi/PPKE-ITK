@@ -37,13 +37,14 @@ Ha a megoldásvektor ($b$) nulla, homogén egyenletrendszerről beszélünk.
 Inhomogén egyenletrendszerről beszélünk ha nem [[#Homogén egyenletrendszer|homogén]], vagyis ha a megoldásvektor ($b$) nem nulla.
 # Feladatok
 - [[LA Feladatgyujtemeny.pdf#page=7|Lineáris Algebra Feladatgyűjtemény 7. oldal.]]
-- [[01-02 Gyakorlat.pdf|01-02 Gyakorlat feladatsor]]
-- [[01/ladm1/gyak/03 Gyakorlat.pdf|03 Gyakorlat feladatsor]]
-- [[04-05 Gyakorlat.pdf|04-05 Gyakorlat feladatsor]]
+- [[01-02 Gauss elimináció.pdf|01-02 Gyakorlat feladatsor]]
+- [[03 Gauss ellimináció.pdf|03 Gyakorlat feladatsor]]
+- [[04-05 Gauss-Jordan elimináció.pdf|04-05 Gyakorlat feladatsor]]
+- [[Gauss Elimináció]]
 ### Megoldások
-- [[01-02 Gyakorlat Megoldás.pdf|01-02 Gyakorlat feladatsor megoldás]]
-- [[03 Gyakorlat Megoldás.pdf|03 Gyakorlat feladatsor megoldás]]
-- [[04-05 Gyakorlat Megoldás.pdf|04-05 Gyakorlat feladatsor megoldás]]
+- [[01-02 Megoldás.pdf|01-02 Gyakorlat feladatsor megoldás]]
+- [[03 Megoldás.pdf|03 Gyakorlat feladatsor megoldás]]
+- [[04-05 Megoldás.pdf|04-05 Gyakorlat feladatsor megoldás]]
 
 ![[Gauss Elimináció.png]]
 [[Tárgyak#Miski Marcell||Miski Marcell]] féle infografika.

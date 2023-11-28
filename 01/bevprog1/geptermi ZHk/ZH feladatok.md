@@ -16,17 +16,18 @@ Distance (in ligthyear) - A csillag Nap-tól vett távolsága fényévekben
 Gliese - A csillag Gliese kódja   
 Other Names/Notes - A csillag egyéb neve jegyzetei  
 ```
-Egy kis matek segítség:   
-- RA átváltása rad-ra: (óra+perc/60)/24*360*PI/180 (=lambda)   
-- DEC átváltása rad-ra: fok+fokmásodperc*60*PI/180 (=phi)   
-Ekvatoriális koordináta rendszerről Descartes koordináta rendszerre áttérés, ahol R a távolság:   
-- X = R*cos(phi)*cos(lambda)   
-- Y = R*cos(phi)*sin(lambda)   
-- Z = R*sin(phi)   
-Két térbeli pont p1(x1,y1,z1) illetve p2(x2,y2,z2) távolságának kiszámítása:   
-- D = négyzetgyök( (X2-X1)^2 + (Y2-Y1)^2 + (Z2-Z1)^2 )   
+###### Egy kis matek segítség:   
+- RA átváltása radiánra: $$\lambda=(\text{óra}+\text{perc}/60)/24360\pi/180$$
+- DEC átváltása radiánra:
+$$\phi=\text{fok}+\text{fokmásodperc}\cdot60\pi/180$$
+Ekvatoriális koordináta rendszerről Descartes koordináta rendszerre áttérés, ahol $R$ a távolság: 
+- $X=R\cdot\cos(\phi)\cdot\cos(\lambda)$
+- $Y=R\cdot\cos(\phi)\cdot\sin(\lambda)$
+- $Z=R\cdot\sin(\phi)$
+Két térbeli pont $p_1(x_1,y_1,z_1)$ illetve $p_2(x_2,y_2,z_2)$ távolságának kiszámítása:   
+- $D=\sqrt{(x_2-x_1)^2+(y_2-y_1)^2+(z_2-z_1)^2}$
 ###### A csoport
-1. Mekkora a szabad szemmel látható (Látszólagos fényesség <=6) csillagok átlagos távolsága a Földtől? (Az adat nélküli törpe csillagokat nem számítva)
+1. Mekkora a szabad szemmel látható ($\text{Látszólagos fényesség}\leq6$) csillagok átlagos távolsága a Földtől? (Az adat nélküli törpe csillagokat nem számítva)
 2. Melyik a második leggyakoribb csillag szín kód? 
 3. Melyik két csillag van a legtávolabb egymástól az adatbázisban szereplők közül?
 ###### B csoport

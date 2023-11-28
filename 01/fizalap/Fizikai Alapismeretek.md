@@ -12,7 +12,11 @@ Kód:
 4. [[04 - Energia, munka, teljesítmény.pdf|Energia, munka, teljesítmény]]
 5. [[05 - Elektrosztatika.pdf|Elektrosztatika]]
 6. [[06 - Egyenáram.pdf|Egyenáram]]
-# Jegyzetem
+7. [[07 - Mágneses tér.pdf|Mágneses tér]]
+8. [[08 - Váltakozó áram.pdf|Váltakozó áram]]
+9. [[09 - Optika.pdf|Optika]]
+10. [[10 - Félvezetők.pdf|Félvezetők]]
+# Jegyzeteim
 - [[Dinamika]]
 - [[Kinematika]]
 - [[Elektrosztatika]]
@@ -31,4 +35,5 @@ A házi feladatok adják a jegy 20%-át. A feladott feladatsorok [[01/fizalap/hf
 - [[A fizika alapjai.pdf]]
 
 # ZHk
+A feladatokat a [netfizika](https://www.netfizika.hu) oldalról tölti le.
 - [[1 ZH képlettár.pdf]]

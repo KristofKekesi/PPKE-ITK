@@ -14,3 +14,5 @@ $$\int_{b}^{a}{f(x)}=\bigg[F(x)\bigg]^a_b$$
 Egyéb jelölés: $\text{Igaz}=I\quad\text{Hamis}=H$
 Preferált jelölés:
 $$\text{Igaz}=1\quad\quad\text{Hamis}=0$$
+### Lemma
+Olyan állítás, ami segít megérteni a feladatot, eljutni valahova.

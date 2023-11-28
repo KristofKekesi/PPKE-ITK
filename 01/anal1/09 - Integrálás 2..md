@@ -28,7 +28,6 @@ $f:[a,b]\to R$ integrálható
 $\phi:[\alpha,\beta]\to[a,b]$ differenciálható, szigorúan monoton
 **Ekkor**:
 $$\int_a^b{f(x)}dx=\int_\alpha^\beta{f\big(\phi(t)\big)\phi'(t)}dt$$
-## Improprius integrál [^4]
 ## Lokálisan integrálható
 $$A(t)=\int_1^t{\frac{1}{x^2}}=\bigg[\frac{x^{-1}}{-1}\bigg]=\frac{t^{-1}}{-1}-\frac{1}{-1}=1-\frac{1}{t}$$
 
@@ -37,4 +36,3 @@ $$\int_1^\infty{\frac{1}{x}}dx=1$$
 [^1]: [[Analízis 1. (2023).pdf#page=152|Analízis 1. Jegyzet 146. oldal]]
 [^2]: [[Analízis 1. (2023).pdf#page=147|Analízis 1. Jegyzet 141. oldal]]
 [^3]: [[Analízis 1. (2023).pdf#page=148|Analízis 1. Jegyzet 142. oldal]]
-[^4]: [[Analízis 1. (2023).pdf#page=155|Analízis 1. Jegyzet 149. oldal]]

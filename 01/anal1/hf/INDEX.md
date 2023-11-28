@@ -10,4 +10,5 @@ Típus: Házi feladatok
 [[03 HF (Péntek).pdf]]
 [[04 HF.pdf]]
 [[05 HF.png]]
-[[Deriválás feladatsor 2.pdf]]
+[[06 HF.pdf]]
+[[07 HF.pdf]]

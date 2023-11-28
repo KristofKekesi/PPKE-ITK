@@ -49,4 +49,4 @@ A házi feladatokat érvényességét online lehet megnézni a [házi ellenőrz�
 # Hasznos dokumentumok
 - [[plang kódok]]
 - [[cpp kódok]]
-- [[ZH Gyakorlások]]
+- [[ZH feladatok]]

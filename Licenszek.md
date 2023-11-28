@@ -8,8 +8,8 @@
 - Termius Education licence
 - Ingyenes .me domain 1 évre (Namecheap)
 - Ingyenes .live domain (Name.com)
-- Ingyenes .tech domain (.tech domains
-- és még sok más
+- Ingyenes .tech domain (.tech domains)
+- …
 A jelentkezéshez a ponttal.elvalasztott.nev@hallgato.ppke.hu email címet add meg, kell majd a diákigazolványod is.
 ## Matlab [^Matlab]
 Bejelentkezés a ponttal.elvalasztott.nev@hallgato.ppke.hu email címmel.
