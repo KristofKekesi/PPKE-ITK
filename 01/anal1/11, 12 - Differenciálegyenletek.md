@@ -1,7 +1,7 @@
 ---
 Óra neve: Matematikai analízis 1.
 Előadó: Dr. Vágó Zsuzsanna Márta
-Dátum: 2023 Nov. 27.
+Dátum: 2023 Nov. 27. és 2023 Nov. 30.
 aliases:
   - DE
 ---
@@ -52,10 +52,26 @@ $$y'=f(x,y)=a(x)y+b(x)$$
 Itt $a(x)$ és $b(x)$ adott függvények.
 ### Homogén lineáris differenciálegyenlet
 Ha $b(x)=0$.
+$$y'=ay$$
+$$y(x)=ce^{A(x)}\quad C\in R;\quad A'(x)=a(x)$$
+
+**Állítás**:
+Ha $y_1$ és $y_2$ növekvő, akkor a homogén lineáris differenciálegyenlet $Z=\alpha Y_1+\beta Y_2$ is növekvő.
 **Tétel**:
 $y'=a(x)y$ egyenlet megoldása vektortér. Ez a vektortér 1D-s.
 ### Inhomogén lineáris differenciálegyenlet
 Ha $b(x)≠0$.
+$$y'=ay+b\quad a(x);\quad b(x)$$
+$$y(x)=ue^{A(x)}\quad u=u(x)$$
+**Például**:
+$$y'=3y+e^x$$
+#### Állandók variálása (módszer)
+1. Lépés: Homogén általános megoldása ($y_{általános}$)
+2. Lépés: Inhomogén partikuláris megoldása ($y_p$)
+3. Inhomogén általános megoldása: $y_ih=y_p+y_{általános}$
+4. + Kezdeti feltétel
+
+
 
 [^1]: [[Analízis 1. (2023).pdf#page=172|Analízis 1. Jegyzet 166. oldal]]
 [^2]: [[Analízis 1. (2023).pdf#page=175|Analízis 1. Jegyzet 169. oldal]]

@@ -8,13 +8,13 @@ Erre kíváncsi:
 $$F=\{x_0=a<x_1<...<x_n=b\}$$
 
 ---
-$$m_k=inf\{f(x),\quad x\in[x_{k-1}, x_k]\}$$
+$$m_k=\inf\{f(x),\quad x\in[x_{k-1}, x_k]\}$$
 $$s_n=\sum_{k=1}^{n}{n_k\Delta x_k}\quad\quad\Delta x_k=x_k-x_{k-1}$$
 $$M_k=\sup\{f(x),\quad [x_{k-1}, x_k]\}$$
 $$S_n=\sum_{k=1}^{n}{M_k\Delta x_k\quad\quad\Delta x_k=x_k-x_{k-1}}$$
 **Állítás**:
 $$s_n\leq S_n$$
-$$F(valami)=F'$$
+$$F(\text{valami})=F'$$
 $$s_n\leq s'_n\quad\quad S_n\leq S'_n$$
 $$\forall F\text{ és }F'$$
 $$s(F)\leq S(F')$$
@@ -26,8 +26,8 @@ $$\delta(F)=\max\{x_k-x_{k-1}:k=1,…,n\}.$$
 ## Riemann integrálható
 $$\text{R}[a,b]=\{f: [a,b]\to R\quad{\text{integrálható}}\}$$
 ## Riemann összeg [^4]
-$$\sigma(F)=\sum_{k=1}^{n}{f(\epsilon_k)\Delta x_k},$$
-ahol $\epsilon_k\in[x_{k-1},x_k]$ tetszőleges pont az intervallumban. 
+$$\sigma(F)=\sum_{k=1}^{n}{f(\varepsilon_k)\Delta x_k},$$
+ahol $\varepsilon_k\in[x_{k-1},x_k]$ tetszőleges pont az intervallumban. 
 ## Riemann állandó
 ## Dirichlet függvény [^6]
 ## Newton-Leibniz tétel [^3]

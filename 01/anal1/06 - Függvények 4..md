@@ -43,14 +43,14 @@ $$f'(x_0)=0\quad\quad x_0\in D_f$$
 Legyen $f: [a, b]\to R$. Tegyük fel, hogy $f$
 - folytonos $[a,b]$-n, és differenciálható $(a,b)$-n
 - $f(a)=f(b)$
-$$\exists\epsilon\in(a,b)\quad\quad f'(\epsilon)=0$$
+$$\exists\varepsilon\in(a,b)\quad\quad f'(\varepsilon)=0$$
 **Másképpen**:
-Ha egy függvény folytonos, és két helyen is felveszi ugyan azt az értékét lesz $\epsilon$ pontja, ahol a deriváltja $0$ lesz ([[06 - Függvények 4.#Stacionárius pont [ 4]|Stacionárius pont]]).
+Ha egy függvény folytonos, és két helyen is felveszi ugyan azt az értékét lesz $\varepsilon$ pontja, ahol a deriváltja $0$ lesz ([[06 - Függvények 4.#Stacionárius pont [ 4]|Stacionárius pont]]).
 ![[rolle.png]]
 ### Lagrange-féle középérték tétel
 Legyen $f: [a,b]\to R$. Tegyük fel, hogy $f$
 - folytonos $[a,b]$-n, és differenciálható $(a,b)$-n
-$$\exists\epsilon\in(a,b)\quad\quad f'(\epsilon)=\frac{f(b)-f(a)}{b-a}.$$
+$$\exists\varepsilon\in(a,b)\quad\quad f'(\varepsilon)=\frac{f(b)-f(a)}{b-a}.$$
 ![[lagrange.png]]
 ## Inverz függvény deriváltja [^7]
 Tegyük fel, hogy $f$ szigorúan monoton, differenciálható függvény, melyre $f'(x)≠0, x\in D_f$ mellett. Ekkor $f^{-1}$ is differenciálható, és

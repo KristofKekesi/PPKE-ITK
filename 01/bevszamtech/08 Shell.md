@@ -1,3 +1,9 @@
+---
+Óra neve: Bevezetés a számítástechnikába
+Előadó: Naszlady Márton Bese
+Dátum: 2023 Nov. 22.
+---
+
 Első sor
 ```sh
 #!/bin/bash

@@ -16,7 +16,7 @@ Vagyis: Ha egy $x_0$ [[01 - Valós számok bevezetése#Környezet|környezetébe
 - #### Másodfajú szakadás
 	Ha nem elsőfajú.
 ## Bolzano tétel [^2]
-Adott $f: [a,b]\to R$ folytonos függvény. Tegyük fel, hogy $f(a)\leq0\leq f(b)$. Ekkor $\exists\epsilon\in(a, b)$ , ahol $f(\epsilon)=0$.
+Adott $f: [a,b]\to R$ folytonos függvény. Tegyük fel, hogy $f(a)\leq0\leq f(b)$. Ekkor $\exists\varepsilon\in(a, b)$ , ahol $f(\varepsilon)=0$.
 
 **Másképpen**:
 Ha van egy folytonos zárt függvényem aminek az egyik vége negatív, a másik pozitív, akkor biztosan lesz olyan pontja amely nulla.

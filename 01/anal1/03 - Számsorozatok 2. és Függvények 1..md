@@ -4,17 +4,17 @@ Előadó: Dr. Vágó Zsuzsanna Márta
 Dátum: 2023 Okt. 12.
 ---
 ## Konvergens [^1]
-Ha tart valahova, a határértéke nem $\infty$ és nem $-\infty$. 
-$|a_n-A| < \epsilon$, $\forall n > N$. Másként leírva $\lim_{n\to \infty}a_n = A$
+Ha tart valahova és a határértéke nem $\infty$ és nem $-\infty$. 
+$|a_n-A| < \varepsilon$, $\forall n > N$. Másként leírva $\lim_{n\to \infty}a_n = A$
 ## Divergens [^1]
 Ha nem konvergens.
 ## Határérték [^1]
 A sorozat ha konvergens, van határértéke, ez az A.
-$|a_n - A| < \epsilon$, $\forall \epsilon > N$. Másképp kifejezve: $\lim_{n\to \infty}{a_n} = A$
+$|a_n - A| < \varepsilon$, $\forall \varepsilon > N$. Másképp kifejezve: $\lim_{n\to \infty}{a_n} = A$
 ## Rekurzív sorozat [^2]
 Olyan sorozat aminek a képletében hivatkozunk egy a sorozat másik elemére.
 ## Torlódási pont [^3]
-$t$ akkor torlódási pontja a sorozatnak, ha a $t$ pont [[01 - Valós számok bevezetése#Környezet|környezet]]ében a sor végtelen sok eleme található meg. Vagyis  a $(t-\epsilon; t + \epsilon)$ intervallumon belül ($\epsilon > 0$), végtelen sok eleme van a sornak. 
+$t$ akkor torlódási pontja a sorozatnak, ha a $t$ pont [[01 - Valós számok bevezetése#Környezet|környezet]]ében a sor végtelen sok eleme található meg. Vagyis  a $(t-\varepsilon; t + \varepsilon)$ intervallumon belül ($\varepsilon > 0$), végtelen sok eleme van a sornak. 
 # Függvények
 ## X, Y halmazok [^4]
 Adott két halmaz (X, Y) ezek között fennáll egy $f: X \to Y$ leképezés. $x\in X$ hozzárendelünk egyetlen y elemet az Y halmazból. Ezt így jelöljük:

@@ -15,6 +15,7 @@ Gyakorlatvezető: Várdainé Kollár Judit
 8. [[01/anal1/eloadasok/08.pdf|Függvények 1.]]
 9. [[01/anal1/eloadasok/09.pdf|Függvények 2.]]
 10. [[01/anal1/eloadasok/10.pdf|Függvények 3.]]
+11. [[11, 12 - Differenciálegyenletek|Differenciálegyenletek]]
 # Jegyzeteim
 1. [[01 - Valós számok bevezetése|Valós számok bevezetése]]
 2. [[02 - Számsorozatok 1.|Számsorozatok 1.]]
@@ -26,7 +27,7 @@ Gyakorlatvezető: Várdainé Kollár Judit
 8. [[08 - Integrálás 1.|Integrálás 1.]]
 9. [[09 - Integrálás 2.|Integrálás 2.]]
 10. [[10 - Integrálás 3.|Integrálás 3.]]
-11. [[11 - Differenciál egyenletek|Integrálás 4.]]
+11. [[11, 12 - Differenciálegyenletek|Integrálás 4.]]
 - [[Deriválás]]
 - [[Integrálás]]
 # Analízis Jegyzet
@@ -90,7 +91,11 @@ A tantárgyból minden héten kisZH-t írunk gyakorlaton, az előző két előad
 	- Szöveges szélsőérték
 ## 2. ZH
 **Témakörök**:
-- Integrálás
+- Határozott és határozatlan integrálok
+	- helyettesítéses integrálok
+	- parciális integrál
+	- improprius integrál
+	- alkalmazások
 - Deriválás
 - Teljes függvény vizsgálat
 - Differenciálegyenlet

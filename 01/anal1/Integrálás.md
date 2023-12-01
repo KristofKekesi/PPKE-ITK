@@ -1,5 +1,5 @@
 Konstans kiemelése.
-$$\int{cf}=c\int{f}$$
+$$\int{cf}=c\cdot\int{f}$$
 $$\int x^ndx=\frac{x^{n+1}}{n+1}+c\quad\quad c\in R$$
 $$\int{a^xdx}=\frac{a^{x}}{\ln a}+c\quad\quad c\in R\quad\quad\text{Ezért:}$$
 $$\int{e^x}dx=\frac{e^x}{\ln e}+c=e^x+c\quad\quad c\in R$$
@@ -13,5 +13,6 @@ Szili László féle integrál táblázat.
 ## Integrálós feladatok
 - [[06 HF.pdf]]
 - [[Példatár.pdf#page=83|Példatár 82. oldal]]
+- $\int_{-\pi}^{\pi}{\cos^4(x)\cdot\sin^2(x)}dx$
 ## Ellenőrzéshez online kalkulátor
 [Integral Calculator](https://www.integral-calculator.com)

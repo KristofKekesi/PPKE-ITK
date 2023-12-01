@@ -13,7 +13,7 @@ $$\kappa=\frac{\int_a^b{f(x)dx}}{b-a}.$$
 **Állítás**:
 Tegyük fel, $m\leq f(x)\leq M\quad\forall x$. Ekkor $m\leq\kappa\leq M$.
 **Következmény**:
-Tegyük fel, $f$ folytonos. Ekkor $\exists\epsilon\in(a,b)\quad f(\epsilon)=\kappa$.
+Tegyük fel, $f$ folytonos. Ekkor $\exists\varepsilon\in(a,b)\quad f(\varepsilon)=\kappa$.
 ## Parciális integrálás [^3]
 Legyenek $f,g:[a,b]\to R$, integrálható függvények.
 #### Határozatlan integrálás
