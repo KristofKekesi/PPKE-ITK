@@ -16,3 +16,8 @@ Dátum: 2023 Nov. 29.
 - BitBucket
 ## Verzió
 - Revision number
+- Név
+- Leírás
+- …
+# Git CLI (Git Command Line Interface)
+#todo

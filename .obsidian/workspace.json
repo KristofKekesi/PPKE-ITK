@@ -8,14 +8,82 @@
         "type": "tabs",
         "children": [
           {
-            "id": "6712c41c8d6d5434",
+            "id": "5ecada4517ecb482",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "pdf",
+              "state": {
+                "file": "01/anal1/Példatár.pdf"
+              }
+            }
+          },
+          {
+            "id": "9d43b4173a861653",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "BACKLOG.canvas",
+                "viewState": {
+                  "x": 441.70237341772145,
+                  "y": -349.5206333034252,
+                  "zoom": -0.35643606215266577
+                }
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "9d9848c7a47b1c95",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01/anal1/témakörök/Teljes függvény vizsgálat.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "190f9498d1ee191a",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "01/anal1/hf/05 HF.png"
+              }
+            }
+          },
+          {
+            "id": "036697b7bb91f49d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01/anal1/témakörök/Határérték.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "eba75002181c55a0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01/anal1/témakörök/Deriválás.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -81,6 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "01/anal1/témakörök/Határérték.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +166,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "01/anal1/témakörök/Határérték.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +188,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "01/anal1/témakörök/Határérték.md"
+              }
             }
           }
         ],
@@ -140,18 +212,36 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "6712c41c8d6d5434",
+  "active": "036697b7bb91f49d",
   "lastOpenFiles": [
-    "01/anal1/hf/07 HF.pdf",
-    "01/anal1/Parciális törtekre bontás.md",
-    "01/fizalap/hf/07 Házi.pdf",
-    "01/anal1/Deriválás.md",
-    "01/anal1/Integrálás.pdf",
-    "01/matalap/Jelölések.md",
-    "01/anal1/Integrálás.md",
+    "01/anal1/hf/05 HF.png",
+    "01/anal1/témakörök/Teljes függvény vizsgálat.md",
+    "01/anal1/témakörök/Határérték.md",
+    "01/anal1/Példatár.pdf",
+    "01/anal1/témakörök/Deriválás.md",
+    "BACKLOG.canvas",
     "01/anal1/Matematikai Analízis 1.md",
+    "01/kozgaz/Közgáz.zip",
+    "01/kozgaz/Közgáz/új.docx",
+    "01/kozgaz/Közgáz/Közgaz másolata.xlsx",
+    "01/anal1/Integrál feladat.pdf",
+    "01/anal1/Differenciálegyenlet feladat.pdf",
+    "01/kozgaz/Közgáz/~$kozgaz.docx",
+    "01/kozgaz/Közgáz/~$zgaz_kerdesek_valaszok.docx",
+    "01/kozgaz/Közgáz/kozgaz_kerdesek_valaszok.docx",
+    "01/kozgaz/Közgáz/kozgaz.docx",
+    "01/kozgaz/A közgazdaságtan alapjai.md",
+    "01/ladm1/Lineáris Algebra és Diszkrét Matematika.md",
+    "01/anal1/témakörök/Integrálás.md",
+    "01/anal1/témakörök/Parciális törtekre bontás.md",
+    "01/anal1/gyakorlatok/todo.md",
+    "01/anal1/Untitled.md",
+    "01/bevszamtech/09 Verziókezelés.md",
+    "01/fizalap/Fizikai Alapismeretek.md",
+    "01/fizalap/gyak/01 Gyakorlat megoldás.md",
+    "Formaiságok.md",
+    "01/matalap/Jelölések.md",
     "01/anal1/11, 12 - Differenciálegyenletek.md",
-    "01/anal1/Analízis 1. (2023).pdf",
     "01/anal1/12 - Differenciálegyenletek.md",
     "02/bevmeres/README.md",
     "01/anal1/09 - Integrálás 2..md",
@@ -161,25 +251,7 @@
     "01/anal1/04 - Függvények 2..md",
     "01/anal1/03 - Számsorozatok 2. és Függvények 1..md",
     "01/anal1/01 - Valós számok bevezetése.md",
-    "01/matalap/Görög abc.md",
-    "01/anal1/Deriválás feladatsor 2.pdf",
-    "Szerverek.md",
-    "README.md",
-    "01/anal1/02 - Számsorozatok 1..md",
-    "01/anal1/07 - Függvények 5..md",
-    "01/anal1/10 - Integrálás 3..md",
-    "01/bevszamtech/09 Verziókezelés.md",
-    "01/bevszamtech/eloadasok/09 - Verziókezelés.pdf",
-    "01/bevszamtech/08 Shell.md",
-    "01/bevszamtech/06 - GNU Linux.md",
-    "01/bevszamtech/05 - LaTeX.md",
-    "01/anal1/hf/06 HF.pdf",
-    "01/anal1/Példatár.pdf",
-    "01/ladm1/gyak/10 Mátrixműveletek.pdf",
-    "01/ladm1/gyak/11 Mátrixműveletek.pdf",
-    "BACKLOG.canvas",
     "01/ladm1/segítő dokumentumok/Gauss Elimináció.png",
-    "01/anal1/hf/05 HF.png",
     "fizalap/hf/Relation.canvas",
     "fizalap/hf/04.canvas",
     "01/matalap/Hatványozás.png",

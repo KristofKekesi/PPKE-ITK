@@ -28,6 +28,11 @@ A házi feladatok adják a jegy 20%-át. A feladott feladatsorok [[01/fizalap/hf
 3. [[01/fizalap/gyak/03 Gyakorlat.pdf|Gyakorlat feladatsor]]
 4. [[04 Gyakorlat.pdf|Gyakorlat feladatsor]]
 5. [[05 Gyakorlat.pdf|Gyakorlat feladatsor]]
+6. [[06 Gyakorlat (egyenáram).pdf|Egyenáram feladatsor]]
+7. [[07 Gyakorlat (mágnesességtan).pdf|Mágnesességtan feladatsor]]
+8. [[08 Gyakorlat (váltóáram).pdf|Váltóáram feladatsor]]
+9. [[09 Gyakorlat (optika).pdf|Optika feladatsor]]
+10. [[10 Gyakorlat (félvezetők).pdf|Félvezetők feladatsor]]
 ## Megoldások
 1. [[01 Gyakorlat megoldás|Gyakorlat feladatsor megoldás]]
 # Hasznos dokumentumok

@@ -37,6 +37,8 @@ Gyakorlatvezető: Várdainé Kollár Judit
 - [[01/anal1/hf/INDEX|Házi feladatok]]
 - [[Példatár.pdf|Példatár]]
 - [[Deriválás feladatsor 1.pdf|Deriválás feladatsor]]
+- [[Integrál feladat.pdf]]
+- [[Differenciálegyenlet feladat.pdf]]
 # Hasznos dokumentumok
 - [[Határérték.pdf]]
 - [[Integrálás.pdf]]
@@ -97,5 +99,5 @@ A tantárgyból minden héten kisZH-t írunk gyakorlaton, az előző két előad
 	- improprius integrál
 	- alkalmazások
 - Deriválás
-- Teljes függvény vizsgálat
+- [[Teljes függvény vizsgálat]]
 - Differenciálegyenlet

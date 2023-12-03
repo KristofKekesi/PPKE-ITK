@@ -5,6 +5,9 @@ Előadó: Dr. Lászlóffy András
 Gyakorlatvezető: Miski Marcell
 Kód:
 ---
+# Általános
+Az előadásokon, és a gyakorlatokon kötelező a részvétel, katalógus alkalmanként van. Az aláírást megszerezve vizsgaidőszakban vizsgát kell tenni.
+- [[Viszga tételsor (2023).pdf|Tételsor (2023)]]
 # Gyakorlatok
 1. [[01-02 Gauss elimináció.pdf|Gyakorlati feladatok (Gauss elimináció)]]
 2. [[03 Gauss ellimináció.pdf|Gyakorlati feladatok (Gauss elimináció)]]
@@ -29,7 +32,7 @@ Kód:
 7. [[10 Megoldás.pdf|Gyakorlati feladat megoldások (Mátrixműveletek)]]
 8. [[11 Megoldás.pdf|Gyakorlati feladat megoldások (Mátrixműveletek)]]
 9. [[12 Megoldás.pdf|Gyakorlati feladat megoldások (Vektoralgebra)]]
-10. [[13-14 Megoldás.pdf|Gyakorlati feladat megoldások (Vektor szorzazok)]] 
+10. [[13-14 Megoldás.pdf|Gyakorlati feladat megoldások (Vektor szorzatok)]] 
 11. [[15 Megoldás.pdf|Gyakorlati feladat megoldások (Vektoralgebra a geometriában)]]
 12. [[16-17 Megoldás.pdf|Gyakorlati feladat megoldások (Mátrix inverze, egyenletrendezés)]]
 13. [[18 Megoldás.pdf|Gyakorlati feladat megoldások (Determinánsok)]]
