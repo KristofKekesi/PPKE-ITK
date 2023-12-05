@@ -21,6 +21,7 @@ Szemeszter: 2023 Szept. - Dec.
 - [[05 - LaTeX|LaTeX]]
 - [[06 - GNU Linux|GNU Linux]]
 - [[08 Shell|Shell]]
+- [[09 Verziókezelés|Verziókezelés]]
 # Hasznos dokumentumok
 - [[1. ZH segédlet (2023).pdf]]
 - [[2. ZH összefoglaló (2016).pdf]]

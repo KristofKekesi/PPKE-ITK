@@ -4,8 +4,9 @@
 		{"id":"9c20e09d06db43e3","type":"text","text":"anal házi javítása","x":220,"y":-340,"width":250,"height":60},
 		{"id":"f97c0537e0e394db","type":"text","text":"ladm 2. zh minta zh","x":220,"y":-260,"width":250,"height":60},
 		{"id":"df480abec0de281b","type":"text","text":"Sík és pont távolsága\nGrahm smidt \nortogonalizáció\nskalár (vektor vektorból szám)\n- |a||b|cos gamma\n- akbk summája\nvektoriális\nvegyes","x":220,"y":-180,"width":250,"height":360},
-		{"id":"ae4be84b38d83bfb","type":"text","text":"2. függvény vizsgálat, L'Hopital\n3. integrálás deriválás, parciális\n4. improprius, helyettesítéses integrálás\n5. Differenciálegyenletek","x":-180,"y":-880,"width":650,"height":480},
-		{"id":"6c3fee4be5c3760a","x":520,"y":-880,"width":670,"height":1060,"type":"text","text":"```query\ntag:todo\n```"}
+		{"id":"ae4be84b38d83bfb","type":"text","text":"3. integrálás deriválás, parciális\n4. improprius, helyettesítéses integrálás\n5. Differenciálegyenletek","x":-180,"y":-880,"width":650,"height":480},
+		{"id":"6c3fee4be5c3760a","type":"text","text":"```query\ntag:todo\n```","x":520,"y":-880,"width":670,"height":680},
+		{"id":"c29123680b94786b","type":"text","text":"```query\n==\n```","x":520,"y":-180,"width":670,"height":360}
 	],
 	"edges":[
 		{"id":"6c5a053d1c91babf","fromNode":"df480abec0de281b","fromSide":"left","toNode":"a674e450cc191c59","toSide":"right"}

@@ -4,10 +4,10 @@ Előadó: Naszlady Márton Bese
 Dátum:
 ---
 # Tizedes számok
-- ==Radix pont==: A tizedesvessző helyzete
-Képlet rá: 
+- Radix pont: A tizedesvessző helyzete
 $$a^1\cdot x_1 + a^0\cdot x_2+a^{-1}\cdot x_{-1}+a^{-2}\cdot x_{-2}$$
-Pl: $10,5$ vagy $10,01_{[2]}$
+> [!example]- Példa
+> Pl: $10,5$ vagy $10,01_{[2]}$
 # Tört szám binárisban reprezentálva
 - Fix pontos (leírásban megadva hány rész egész és hány törtrész bit van)
 - Lebegő pontos
@@ -16,13 +16,13 @@ Pl: $10,5$ vagy $10,01_{[2]}$
 	- előjelét
 	- a normálalak egészrészét
 	- a normálalak törtrészét
-	- hányadikon van a 10
+	- hányadikon van a "10" (a számrendszer alapja)
 
 ## Binárisra átváltva
 - 11101,101 - Normálalakra váltjuk
 - 1,1101101 x 2^4
 - Előjel: pozitív (0)
-- egészrész: 1 - ==Igazabol nincs erre szükség mert definícióból következik hogy nem lehet más mint 1==
+- egészrész: 1 - ==Igazábol nincs erre szükség mert definícióból következik hogy nem lehet más mint 1==
 - törtrész: 11011010
 - kitevő: 4 => 10\[2]
 Képlet: ELŐJEL 1,MANTISZA x 2 \^KARAKTERISZTIKA
@@ -36,7 +36,7 @@ Képlet: ELŐJEL 1,MANTISZA x 2 \^KARAKTERISZTIKA
 	0 01100 0000000000
 
 # ALU - Arithmetic Logic Unit
-- upside down gatya
+"upside down gatya"
 ```
 A        B
  ____    ____

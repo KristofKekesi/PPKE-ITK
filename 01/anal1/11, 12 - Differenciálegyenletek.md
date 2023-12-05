@@ -71,8 +71,6 @@ $$y'=3y+e^x$$
 3. Inhomogén általános megoldása: $y_ih=y_p+y_{általános}$
 4. + Kezdeti feltétel
 
-
-
 [^1]: [[Analízis 1. (2023).pdf#page=172|Analízis 1. Jegyzet 166. oldal]]
 [^2]: [[Analízis 1. (2023).pdf#page=175|Analízis 1. Jegyzet 169. oldal]]
 [^3]: [[Analízis 1. (2023).pdf#page=170|Analízis 1. Jegyzet 164. oldal]]

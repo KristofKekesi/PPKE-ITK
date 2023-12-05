@@ -20,4 +20,28 @@ Dátum: 2023 Nov. 29.
 - Leírás
 - …
 # Git CLI (Git Command Line Interface)
-#todo
+Git repó klónozása.
+```sh
+git clone eleresi_ut
+```
+Repó naprakészre frissítése.
+```sh
+git pull
+```
+Minden fájl hozzáadása a githez.
+```sh
+git add .
+git add *
+```
+Módosítások mentése.
+```sh
+git commit -m "commit message"
+```
+Módosítások közzététele.
+```sh
+git push
+```
+Ág összeolvasztása.
+```sh
+git merge
+```

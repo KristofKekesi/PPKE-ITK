@@ -4,7 +4,7 @@ Előadó: Naszlady Márton Bese
 Dátum: 2023 Nov. 08.
 ---
 # Operációs rendszer
-Céljai:
+**Céljai**:
 - kényelmesen használható felületet ad
 - elrejti a hardware körülményességeit
 - okosan használja az erőforrásokat
@@ -58,9 +58,9 @@ A jelenlegi "working directory"-ból kezdődően az elérési út.
 ```
 ## Jogosultságok
 Öröklődnek a fa struktúrában a jogosultságok.
-- Olvasás (r)
-- Írás (w)
-- Futtatás (x)
+- Olvasás (r, 1, 001)
+- Írás (w, 2, 010)
+- Futtatás (x, 3, 100)
 ### Csoportok
 Minden 
 - Tulajdonos: akié az adott fájl
@@ -125,6 +125,8 @@ chmod 777
 ```shell
 ln -s eleresi_ut
 ```
+## Git parancsok
+![[09 Verziókezelés#Git CLI (Git Command Line Interface)]]
 ## Összetett műveletek
 ### Joker karakterek
 - `*`: Bármennyi bármilyen karakterrel helyettesíthető
@@ -133,4 +135,27 @@ ln -s eleresi_ut
 ```shell
 ls *.txt
 find -name "???"
+```
+### Kiírás fájlba
+Minden ami a terminálba menne ki a fájlba fogja írni.
+```sh
+parancs >> fájl_neve
+```
+Kiírás fájlba, de **töröl minden eddigit a fájlból**.
+```sh
+parancs > fájl_neve
+```
+## Bemenet fájlból
+A program egy fájt használ bemenetként a terminál helyett.
+```sh
+parancs < fájl_neve
+```
+## Kimenet átadása másik programnak
+Az első program kimenetét használja a második inputnak.
+```sh
+első | második
+```
+## Hibaüzenetek eltüntetése
+```sh
+parancs>/dev/null
 ```

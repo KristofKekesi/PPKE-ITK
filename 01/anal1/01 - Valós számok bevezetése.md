@@ -77,14 +77,14 @@ Például: $(a + b) \cdot c = (a \cdot c) + (b \cdot c)$.
 	Cantor axióma => irracionális számok is vannak
 # Summa
 $$\sum_{futóindex}^{meddig} tag$$
-Például:
-- Első $n$ szám összege
+> [!example]- Példák
+> - Első $n$ szám összege
 $$\sum_{k=1}^{n} k$$
-- Első $n$ páros szám összege
+> - Első $n$ páros szám összege
 $$\sum_{k=1}^{n} 2k$$
-- Hárommal osztható kétjegyű számok összege
+> - Hárommal osztható kétjegyű számok összege
 $$\sum_{k=4}^{33} 3k$$
-- Száz és kétszáz közötti (nyílt intervallum) természetes számok reciprokainak az összege
+> - Száz és kétszáz közötti (nyílt intervallum) természetes számok reciprokainak az összege
 $$\sum_{k=101}^{199}\frac{1}{k}$$
 # Produktum
 Röviden a summa működése összeadás helyett szorzással.

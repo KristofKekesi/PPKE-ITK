@@ -29,7 +29,7 @@ CIKLUS_VÉGE
 ```
 ### Végjeles sorozat
 - speciális érték / karakter jelöli a sorozat végét
-- ==kötelező értékkészlet==
+- kötelező megadni az értékkészletet
 - értékkészlet alapján meghatározzuk ami nem eleme
 ```Plang
 Változók:
@@ -44,8 +44,8 @@ CIKLUS AMÍG X nem végjel
 CIKLUS_VÉGE
 ```
 # Fájlok
-- névvel azonosítható adattároló
-- ==A fájlok kezelése rendszertől, nyelvtől, kontextustól függ==
+- Névvel azonosítható adattároló
+- A fájlok kezelése rendszertől, nyelvtől, kontextustól függ
 ### Fájlok PlanG-ban
 - bemeneti fájl (BEFÁJL): csak olvassuk
 - kimeneti fájl (KIFÁJL): írunk

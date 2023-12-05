@@ -10,11 +10,13 @@
           {
             "id": "5ecada4517ecb482",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "pdf",
               "state": {
                 "file": "01/anal1/Példatár.pdf"
-              }
+              },
+              "pinned": true
             }
           },
           {
@@ -26,8 +28,8 @@
               "state": {
                 "file": "BACKLOG.canvas",
                 "viewState": {
-                  "x": 441.70237341772145,
-                  "y": -349.5206333034252,
+                  "x": 534.5108434820738,
+                  "y": -428.10295039400796,
                   "zoom": -0.35643606215266577
                 }
               },
@@ -49,29 +51,7 @@
             }
           },
           {
-            "id": "190f9498d1ee191a",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "01/anal1/hf/05 HF.png"
-              }
-            }
-          },
-          {
-            "id": "036697b7bb91f49d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01/anal1/témakörök/Határérték.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "eba75002181c55a0",
+            "id": "143b43e7ddd2d63c",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -81,9 +61,45 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "f25fd3016d988388",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01/anal1/témakörök/Trigonometrikus függvények.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1655147a29e28a57",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01/bevszamtech/06 - GNU Linux.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f39564549d6fde2c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01/bevszamtech/08 Shell.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -112,7 +128,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "külső tör",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -149,7 +165,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01/anal1/témakörök/Határérték.md",
+                "file": "01/bevszamtech/06 - GNU Linux.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -166,7 +182,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01/anal1/témakörök/Határérték.md",
+                "file": "01/bevszamtech/06 - GNU Linux.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -189,7 +205,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01/anal1/témakörök/Határérték.md"
+                "file": "01/bevszamtech/06 - GNU Linux.md"
               }
             }
           }
@@ -212,51 +228,56 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "036697b7bb91f49d",
+  "active": "1655147a29e28a57",
   "lastOpenFiles": [
-    "01/anal1/hf/05 HF.png",
-    "01/anal1/témakörök/Teljes függvény vizsgálat.md",
-    "01/anal1/témakörök/Határérték.md",
-    "01/anal1/Példatár.pdf",
-    "01/anal1/témakörök/Deriválás.md",
-    "BACKLOG.canvas",
-    "01/anal1/Matematikai Analízis 1.md",
-    "01/kozgaz/Közgáz.zip",
-    "01/kozgaz/Közgáz/új.docx",
-    "01/kozgaz/Közgáz/Közgaz másolata.xlsx",
-    "01/anal1/Integrál feladat.pdf",
-    "01/anal1/Differenciálegyenlet feladat.pdf",
-    "01/kozgaz/Közgáz/~$kozgaz.docx",
-    "01/kozgaz/Közgáz/~$zgaz_kerdesek_valaszok.docx",
-    "01/kozgaz/Közgáz/kozgaz_kerdesek_valaszok.docx",
-    "01/kozgaz/Közgáz/kozgaz.docx",
-    "01/kozgaz/A közgazdaságtan alapjai.md",
-    "01/ladm1/Lineáris Algebra és Diszkrét Matematika.md",
-    "01/anal1/témakörök/Integrálás.md",
-    "01/anal1/témakörök/Parciális törtekre bontás.md",
-    "01/anal1/gyakorlatok/todo.md",
-    "01/anal1/Untitled.md",
+    "01/bevszamtech/08 Shell.md",
+    "01/bevszamtech/04 - Adattárolás és adatkommunikáció.md",
+    "01/anal1/10 - Integrálás 3..md",
+    "01/bevszamtech/06 - GNU Linux.md",
     "01/bevszamtech/09 Verziókezelés.md",
+    "BACKLOG.canvas",
+    "01/bevszamtech/Bash Shell.pdf",
+    "01/bevszamtech/Bevezetés a Számítástechnikába.md",
+    "templates/Új előadás.md",
+    "01/fizalap/hf/INDEX.md",
     "01/fizalap/Fizikai Alapismeretek.md",
-    "01/fizalap/gyak/01 Gyakorlat megoldás.md",
-    "Formaiságok.md",
-    "01/matalap/Jelölések.md",
-    "01/anal1/11, 12 - Differenciálegyenletek.md",
-    "01/anal1/12 - Differenciálegyenletek.md",
+    "01/anal1/témakörök/Teljes függvény vizsgálat.md",
+    "01/fizalap/zh/1. ZH képlettár.pdf",
+    "01/fizalap/zh/2. ZH képlettár.pdf",
+    "01/anal1/témakörök/Integrálás.md",
+    "01/fizalap/Elektronika.md",
+    "01/fizalap/Elektrosztatika.md",
+    "01/anal1/13 - Végtelen összeg.md",
+    "01/anal1/Példatár.pdf",
+    "01/fizalap/hf/08 Házi.pdf",
+    "Tárgyak.md",
+    "Szerverek.md",
+    "README.md",
+    "Licenszek.md",
+    "Beléptető.md",
+    "Animátor közösség.md",
     "02/bevmeres/README.md",
-    "01/anal1/09 - Integrálás 2..md",
-    "01/anal1/08 - Integrálás 1..md",
-    "01/anal1/06 - Függvények 4..md",
-    "01/anal1/05 - Függvények 3..md",
-    "01/anal1/04 - Függvények 2..md",
-    "01/anal1/03 - Számsorozatok 2. és Függvények 1..md",
-    "01/anal1/01 - Valós számok bevezetése.md",
+    "02/bevmatlab/README.md",
+    "01/matalap/Tört átalakítások.md",
+    "01/matalap/Matematikai Alapismeretek.md",
+    "01/matalap/Jelölések.md",
+    "01/matalap/Görög abc.md",
+    "01/anal1/Analízis 1. (2023).pdf",
+    "01/fizalap/hf/07 Házi.pdf",
+    "01/fizalap/hf/05 Házi.pdf",
+    "01/fizalap/hf/06 Házi.pdf",
+    "01/anal1/témakörök/képek/cos.gif",
+    "01/anal1/témakörök/képek/cot.gif",
+    "01/anal1/témakörök/képek/tan.gif",
+    "cos.gif",
+    "01/anal1/témakörök/képek/sin.gif",
+    "01/fizalap/eloadasok/10 - Félvezetők.pdf",
+    "01/anal1/hf/05 HF.png",
     "01/ladm1/segítő dokumentumok/Gauss Elimináció.png",
     "fizalap/hf/Relation.canvas",
     "fizalap/hf/04.canvas",
     "01/matalap/Hatványozás.png",
     "01/bevszamtech/HalfAdder.jpeg",
-    "01/bevszamtech/FullAdder.jpeg",
-    "szamtech/FullAdder.jpeg"
+    "01/bevszamtech/FullAdder.jpeg"
   ]
 }

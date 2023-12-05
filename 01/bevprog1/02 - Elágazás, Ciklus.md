@@ -18,7 +18,9 @@ KÜLÖNBEN
 	<futtatandó sorok ha hamsi>
 HA_VÉGE
 ```
-- ==Nincs else if==: ezért egymásba ágyazzuk a `KÜLÖNBEN`-eket.
+
+> [!warning] Fontos
+> PlanG-ban nincs `else if`, ezért ezt a nyelvi funkciót egymásba ágyazott elágazásokkal tudjuk replikálni.
 ### Ciklus
 - Benne lévő sorok ismétlése ameddig a feltétel igaz
 - Manuálisan kell a feltételt igaznak tartani
@@ -43,18 +45,21 @@ CIKLUS
 	<ciklusmag>
 AMÍG <ciklusfeltétel>
 ```
-###### Példa for ciklusra
-```Plang
-i := 0
-CIKLUS AMÍG i < 10
-	<ciklusmag>
-	i := i + 1
-CIKLUS_VÉGE
-```
+
+> [!example]- Példa for ciklusra
+> ```Plang
+> i := 0
+> CIKLUS AMÍG i < 10
+>	** ciklusmag
+>	i := i + 1
+>CIKLUS_VÉGE
+>```
 #### Végtelen ciklus:
 - Ha a ciklusfeltétel mindig igaz, vagy
-- ha a ciklusfeltétlen független a ciklusmagtól
-A végtelen ciklusok a Plangban alapjáraton 10.000 iterációig fut le, beállítva maximum 100.000 iterációig.
+- ha a ciklusfeltétel független a ciklusmagtól
+
+> [!info]
+> A végtelen ciklusok PlanG-ban alapjáraton 10.000 iterációig futnak le, ez maximum 100.000 iterációra húzható fel.
 ## Specifikáció
 Leírás hogy miket kérünk be, miket adunk vissza. Mit milyen értékekkor, mit csinál a kódunk.
 ```Plang
@@ -68,7 +73,7 @@ Mi van ha a szám negatív?
 - a program kiírja hogy érvénytelen adat
 ### Előfeltétel:
 Milyen bemeneteket kell minden esetben kezelnie a programnak
-Pl:
+**Például**:
 - BE: a: nem negatív valós szám
 - KI: b: nem negatív valós szám, ahol $b\cdot b=a$
 ### Utófeltétel:

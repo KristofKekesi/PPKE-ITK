@@ -43,5 +43,6 @@
 - Gyakorlatvezető: Bevezetés a mérnökségbe
 ##### V.
 ###### Várdainé Kollár Judit
+Nagyon figyelmes a nyelvtani helyességre, minden alkalommal kifejezetten erő kijavít, ha valamit rosszul mondasz.
 - Tárgyfelelős: [[Matematikai Alapismeretek|Matematikai Alapismeretek]]
 - Gyakorlatvezető: [[Matematikai Analízis 1|Matematikai analízis 1]]

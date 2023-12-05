@@ -5,7 +5,7 @@ Dátum: 2023 Okt. 25.
 ---
 # Preambulum
 A LaTeX dokumentum `\begin{document}` előtti része. Általában globális paramétereit tudjuk beállítani.
-Példa a preambulumra:
+**Példa a preambulumra**:
 ```latex
 \documentclass[a4paper]{article} %méretarány
 \usepackage[utf8]{inputenc} \usepackage[magyar]{babel} \usepackage{amsmath} %matematikai modul

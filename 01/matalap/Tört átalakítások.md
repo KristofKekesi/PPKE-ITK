@@ -1,4 +1,5 @@
-==Magában a Matematikai Alapismeretek szintfelmérőben nem volt ilyen, de azért jó tisztában lenni a következő módszerrel.==
+> [!info]
+Magában a Matematikai Alapismeretek szintfelmérőben nem volt ilyen, de azért jó tisztában lenni a következő módszerrel.
 Ezeknek a haszna majd az [[Matematikai Analízis 1|Analízis 1.]] tantárgyban fog megmutatkozni, a sorozatoknál.
 ## Példák alapján
 ### 1. példa [^1.34]

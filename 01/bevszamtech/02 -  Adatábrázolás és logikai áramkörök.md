@@ -53,11 +53,17 @@ Hozzátartózó előadás: [[01/bevszamtech/eloadasok/02.pdf|Adatábrázolás é
 ## Kifejezések
 - bit: binary digit (0; 1)
 - Byte: 8bit (00000000)
-- byte < kilo < mega < giga < terra < peta
-- ==b: byte és B: Byte==
-- ==a kibi meg ilyenek 1024-nél váltanak, a kilo 1000-nél==
-- Overflow: Túlcsordulás: amikor egy műveletnél a kapott szám nem fér ki adott biten, a fentmaradó bit ami elveszik.
+- Overflow (túlcsordulás): amikor egy műveletnél a kapott szám nem fér ki adott biten, a fennmaradó bit ami elveszik.
 
+> [!info]
+> byte < kilo < mega < giga < terra < peta
+
+> [!warning]
+> A 'kibi'-k között a váltószám $1024$, míg a 'kilo'-k között $1000$.
+
+> [!warning]
+> byte jelölése: $b$
+> Bit jelölése: $B$
 ## Számok reprezentálása binárisan
 Meg kell adni hogy:
 - hány biten
@@ -78,13 +84,11 @@ Ha negatív, 4 lépésben átalakítjuk:
 - x = |x|
 - binárissá alakítjuk
 - minden számjegyet felcserélünk
-
 #### __Pl__: 2 kettes komplemens ábrázolásban, 4 biten
 Pozitív, tehát felírjuk binárisan:
 2 % 2 = 0;
 1 % 2 = 1;
 Tehát 2 => 0010\[2]
-
 #### __Pl__: -7-es komplemens ábrázolásban, 4 biten
 Negatív, tehát először hozzáadunk egyet, abszolútértéket számolunk, felírjuk binárisan, majd számjegyeket cserélünk:
 -7 + 1 = -6
@@ -94,12 +98,6 @@ Negatív, tehát először hozzáadunk egyet, abszolútértéket számolunk, fel
 1 % 2 = 1;
 Tehát 6 = 0110\[2]
 Felcseréljük a számjegyeket: 1001
-
-kövi zh
-bármilyen szám bármilyen rendszerben bármennyi biten való felírása
-
-írásban összeadás kivonás
-
 ## Számok összeadása
 #### Két bináris szám összeadása:
 ```
@@ -117,17 +115,13 @@ ________
 |1|1|0|
 - Ez a XOR vagyis az exklúzív vagy lagikai kapunak felel meg.
 - Ha számolunk a túlcsordulással kell még más is.
-
 ## Half adder
 ![[HalfAdder.jpeg]]
-
 ## Full adder
 ![[FullAdder.jpeg]]
-
 ## Számok kivonása
 - ugyan úgy mint az összeadás, vagy
 - összeadjuk a két számot, de a kivonandónak a kettes komplemensét vesszük
-
 # Szorgalmi
 - full adder építés:
 	![[FullAdder.jpeg]]

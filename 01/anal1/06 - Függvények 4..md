@@ -20,7 +20,8 @@ $$f(x_0)\ge f(x)\quad\quad\forall x\in U\cap D_f.$$
 Legyen $f: D_f\to R$, $x_0$-ban kétszer folytonosan differenciálható, és $f'(x)=0$. Ekkor $f''(x_0)≠0$ esetén $x_0$-ban lokális szélsőérték van. Sőt,
 $$f''(x_0)>0\quad\quad\ x_0\text{ lokális minimum}$$
 $$f''(x_0)<0\quad\quad\ x_0\text{ lokális maximum}$$
-==Ha $f''(x)=0$, még nem eldönthető, vajon $x_0$-ban szélsőértéke van-e a függvénynek.== (Innen az elégséges)
+> [!info]
+> Ha $f''(x)=0$, még nem eldönthető, vajon $x_0$-ban szélsőértéke van-e a függvénynek. (Innen az elégséges)
 ### Szükséges feltétel lokális szélsőértékre
 Legyen $f: D_f\to R$, $x_0$-ban differenciálható. Ekkor
 $$f'(x)=0.$$

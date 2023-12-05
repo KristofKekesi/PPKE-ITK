@@ -20,6 +20,7 @@ Kód:
 - [[Dinamika]]
 - [[Kinematika]]
 - [[Elektrosztatika]]
+- [[Elektronika]]
 # Házi feladatok
 A házi feladatok adják a jegy 20%-át. A feladott feladatsorok [[01/fizalap/hf/INDEX|itt találhatóak]].
 # Gyakorlat feladatsorok
@@ -41,4 +42,5 @@ A házi feladatok adják a jegy 20%-át. A feladott feladatsorok [[01/fizalap/hf
 
 # ZHk
 A feladatokat a [netfizika](https://www.netfizika.hu) oldalról tölti le.
-- [[1 ZH képlettár.pdf]]
+- [[1. ZH képlettár.pdf]]
+- [[2. ZH képlettár.pdf]]

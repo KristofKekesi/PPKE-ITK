@@ -28,13 +28,17 @@ Gyakorlatvezető: Várdainé Kollár Judit
 9. [[09 - Integrálás 2.|Integrálás 2.]]
 10. [[10 - Integrálás 3.|Integrálás 3.]]
 11. [[11, 12 - Differenciálegyenletek|Integrálás 4.]]
+- [[Határérték]]
 - [[Deriválás]]
+- [[Teljes függvény vizsgálat]]
 - [[Integrálás]]
+- [[Parciális törtekre bontás]]
 # Analízis Jegyzet
 - [[Analízis 1. (2023).pdf]]
 - [[Analízis 1. (2010).pdf]]
 # Feladatsorok
-- [[01/anal1/hf/INDEX|Házi feladatok]]
+- [[Gyakorlatok]]
+- [[Házi feladatok|Házi feladatok]]
 - [[Példatár.pdf|Példatár]]
 - [[Deriválás feladatsor 1.pdf|Deriválás feladatsor]]
 - [[Integrál feladat.pdf]]
@@ -44,10 +48,12 @@ Gyakorlatvezető: Várdainé Kollár Judit
 - [[Integrálás.pdf]]
 - [[Deriválás.pdf]]
 # Házi feladatok
-Minden héten fel vannak adva [[01/anal1/hf/INDEX|házi feladatok]], mindkét gyakorlati alkalommal egy feladatsor. Minden feladatsorból tetszés szerűen egy-egy feladatot kell megoldani pluszpontért. A beadás opcionális.
+Minden héten fel vannak adva [[Házi feladatok|házi feladatok]], mindkét gyakorlati alkalommal egy feladatsor. Minden feladatsorból tetszés szerűen egy-egy feladatot kell megoldani pluszpontért. A beadás opcionális.
 Megesik néha, hogy kötelező házi feladatot ad fel [[Tárgyak#Várdainé Kollár Judit|Várdainé]], ilyenkor a házi feladat leadásával együtt lesz meg a katalógus az adott gyakorlaton.
 # KisZH-k
-A tantárgyból minden héten kisZH-t írunk gyakorlaton, az előző két előadás anyagából. ==Nem a második előadástól kezdődnek a kisZH-k, már az első után is lehet írni ha úgy jön ki.==
+A tantárgyból minden héten kisZH-t írunk gyakorlaton, az előző két előadás anyagából.
+> [!warning] Fontos
+> Nem a második előadástól kezdődnek a kisZH-k, már az első után is lehet írni ha úgy jön ki.
 ### 1. kisZH
 - Mi a [[01 - Valós számok bevezetése#Supremum|supremum]] definíciója?
 - Mi az [[01 - Valós számok bevezetése#Infimum|infimum]] definíciója?
@@ -79,7 +85,7 @@ A tantárgyból minden héten kisZH-t írunk gyakorlaton, az előző két előad
 - Számtani-mértani közép
 - Számsorozatok
 - Korlátosság-konvergencia
-- Határérték meghatározása
+- [[Határérték|Határérték meghatározása]]
 - Az $e$ szám
 - Rekurzív sorozatok
 - Rendőr elv
@@ -98,6 +104,6 @@ A tantárgyból minden héten kisZH-t írunk gyakorlaton, az előző két előad
 	- parciális integrál
 	- improprius integrál
 	- alkalmazások
-- Deriválás
+- [[Deriválás]]
 - [[Teljes függvény vizsgálat]]
-- Differenciálegyenlet
+- [[Differenciálegyenlet]]

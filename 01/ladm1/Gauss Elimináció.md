@@ -11,7 +11,9 @@ aliases:
 	- Ha több sor van mint oszlop.
 # Gauss-Jordan Elimináció [^1]
 Egyenletrendszer megoldása mátrix alakú felírása alapján.
-- ==Sorokat nem cserélhetünk fel==, oszlopokat igen
+> [!warning] Fontos
+> Sorokat nem cserélhetünk fel, oszlopokat igen.
+
 [Mátrix számológép (Gauss elimináció megoldásához)](https://matrixcalc.org/slu.html)
 ## Vezérelem [^2]
 Minden sorban és oszlopban kiválaszthatunk egy (nem nulla) számot.
@@ -26,13 +28,17 @@ A [[#Vezérelem [ 2]|vezérelem]]ekek száma mindkét, az együttható oldalár�
 Más néven a magtér dimenziója. A szabad változók ([[#vezérelem [ 2]|vezérelem]]mel nem rendelkező oszlopok) száma.
 ## Nullsor [^3]
 Olyan sor a mátrixban, ahol minden szám nulla. (még a megoldáshalmazban is).
-- Ha azonos az oszlopok száma és a sorok száma azonos, ===jelentése: voltak benne összefüggő vektorok==
+> [!info]
+> Ha azonos az oszlopok száma és a sorok száma azonos,
+> **jelentése**: voltak benne összefüggő vektorok.
 ## Tilos sor [^4]
 Olyan sor ahol az együttható oldalán ($A$) csak nullák vannak, míg a megoldáshalmaz ($b$) nem nulla.
-- ==Jelentése: nem lesz megoldása az egyenletrendszernek.==
+> [!info]
+> **Jelentése**: nem lesz megoldása az egyenletrendszernek.
 ## Homogén egyenletrendszer
 Ha a megoldásvektor ($b$) nulla, homogén egyenletrendszerről beszélünk.
-- ==Jelentése: mindig lesz legalább egy megoldása. Ez a triviális megoldás, a nulla.==
+> [!info]
+> **Jelentése**: mindig lesz legalább egy megoldása. Ez a triviális megoldás, a nulla.
 ## Inhomogén egyenletrendszer
 Inhomogén egyenletrendszerről beszélünk ha nem [[#Homogén egyenletrendszer|homogén]], vagyis ha a megoldásvektor ($b$) nem nulla.
 # Feladatok

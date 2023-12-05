@@ -14,7 +14,7 @@ GitLab git szerver.
 # Csatlakozás a szerverekhez
 A szerverekhez legkönnyebben SSH-val csatlakozhatunk, terminálon, vagy egyéb ilyen képességekkel rendelkező programokkal. Ezen kívül a szerverek támogatják az SFTP standardot is.
 Ajánlott programok:
-- Termius (macOS, iOS, iPadOS)
+- [Termius](https://www.termius.com) (macOS, iOS, iPadOS)
 - OpenSSH (Linux)
 - PuTTY (Windows)
 - WinSCP (Windows)
